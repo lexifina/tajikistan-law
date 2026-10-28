@@ -1,0 +1,19 @@
+{
+ "country": "TJ",
+ "acts": [
+  {
+   "slug": "konstitutsiya",
+   "short": "Конститутсия",
+   "title": "Конститутсияи (Сарқонуни) Ҷумҳурии Тоҷикистон",
+   "url": "http://parlament.tj/konstitutsiyai-jt/",
+   "versions": [
+    {
+     "from": "2003-06-22",
+     "units": 111,
+     "source_url": "https://web.archive.org/web/20170607141323id_/http://parlament.tj/konstitutsiyai-jt/",
+     "sha256": "088941319cc4261110578a72e5b991b28ef198509e8821e71e200969969cab6b"
+    }
+   ]
+  }
+ ]
+}

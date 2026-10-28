@@ -1,0 +1,10 @@
+{
+  "path": "tj",
+  "code": "TJ",
+  "name": "Tajikistan",
+  "level": "country",
+  "repo": "https://github.com/lexifina/tajikistan-law",
+  "build": "built: Constitution (Tajik, 1 version: the 1999 and 2003 referendum edition, as published by the Majlisi namoyandagon; the 2016 amendments are not in it)",
+  "register": null,
+  "register_date": "2026-10-28"
+}
