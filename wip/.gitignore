@@ -1,0 +1,5 @@
+.cache/
+.tmp/
+.tmp-build/
+__pycache__/
+corpus.json.tmp
