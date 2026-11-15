@@ -23,7 +23,8 @@ The text is in Tajik (Cyrillic), the state language (Article 2 of the Constituti
 
 - **[Ask Claude about the law of Tajikistan](https://global-law.lexifina.com/v1/try_claude?country=tajikistan)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=tajikistan)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%D1%80%D1%83%D1%85%D1%81%D0%B0%D1%82%D0%B8%D0%B8+%D2%B3%D0%B0%D1%80%D1%81%D0%BE%D0%BB%D0%B0&jurisdictions=tajikistan)**: a search of Tajikistan's law for "рухсатии ҳарсола" (annual leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Tajikistan's law on our site](https://lexifina.com/law?country=tajikistan&q=%D1%80%D1%83%D1%85%D1%81%D0%B0%D1%82%D0%B8%D0%B8+%D2%B3%D0%B0%D1%80%D1%81%D0%BE%D0%BB%D0%B0)**: a search for "рухсатии ҳарсола" (annual leave), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%D1%80%D1%83%D1%85%D1%81%D0%B0%D1%82%D0%B8%D0%B8+%D2%B3%D0%B0%D1%80%D1%81%D0%BE%D0%BB%D0%B0&jurisdiction=tajikistan)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Tajik or in English.
 
