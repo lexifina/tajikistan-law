@@ -59,6 +59,7 @@ That version is the "oldest version available", credited to its publisher, the M
 - The text was compared article by article with a second official copy, the Majlisi milli's (majmilli.tj, Internet Archive capture of 7 March 2018): the same edition, differing only in spelling slips ("Кӯҳистони" and "Куҳистони") and in how numbered lists are laid out. The record keeps the Majlisi namoyandagon text.
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus it was built from. [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256, and does not yet record a run of the check or a second build for it.
 - The same check requires every commit's trailers to parse, no merge commits, no commit dates going backwards and nothing dated in the future. History is append-only: no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ That version is the "oldest version available", credited to its publisher, the M
 See [`LICENSE`](LICENSE). Official documents of a legislative, administrative or judicial character are not protected by copyright in Tajikistan (Law on Copyright and Related Rights of 13 November 1998, article 7); Lexifina's arrangement, commit messages, tables and tools are dedicated to the public domain under CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
