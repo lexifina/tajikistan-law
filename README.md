@@ -1,34 +1,41 @@
-# Tajikistan: law history in git
+# Тоҷикистон: таърихи қонунгузорӣ дар git
 
-The law of Tajikistan as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author (the publisher, for the oldest version available). `git blame` names the act behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
+**Тоҷикӣ** · [English](README.en.md)
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Tajikistan's national law, which global-law reads at `tajikistan/national/acts/`.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/tg/effort-dark.svg">
+<img alt="Ҳуқуқи Тоҷикистон дар ин махзан: чӣ дар он ҳаст, тағйирот аз рӯи соли эътибор пайдо кардан, пуррагӣ нисбат ба манбаъҳои расмӣ ва дурустии мундариҷа" src="data/tg/effort-light.svg" width="880">
+</picture>
 
-**What is in it now:** the Constitution of the Republic of Tajikistan in one version, the edition with the amendments of the referendums of 26 September 1999 and 22 June 2003, as the Majlisi namoyandagon published it: 100 articles, the preamble and 10 chapter headings. It is not the Constitution in force today, as the amendments of the referendum of 22 May 2016 are not in it, and no other act is here yet. [`REPRODUCE.md`](REPRODUCE.md) says how it was built; [`data/laws.csv`](data/laws.csv) lists the referendums its commit names.
+Қонунгузории Тоҷикистон ҳамчун таърихи git: барои ҳар модда як файл, барои ҳар таҳрир як коммит дар рӯзи эътибор пайдо кардани он, ва муаллифи коммит қонунест, ки тағйиротро ворид кардааст (барои қадимтарин таҳрири дастрас — ношир). `git blame` санадеро, ки паси ҳар сатр аст, номбар мекунад; `git log` ҳамаи тағйироти моддаро нишон медиҳад; бо интихоби сана матне, ки дар он рӯз эътибор дошт, ба даст меояд.
 
-Each act is one folder (`konstitutsiya/` is the Конститутсияи (Сарқонуни) Ҷумҳурии Тоҷикистон, the Constitution), with one file per article (`art-001.md` to `art-100.md`), one per chapter heading (`bob-01.md` to `bob-10.md`), `preamble.md`, and a `README.md` listing them.
+Қисми [lexifina/global-law](https://github.com/lexifina/global-law), ки таърихи ягонаи git барои ҳуқуқи ҳамаи кишварҳост: ин ҳуқуқи миллии Тоҷикистон аст, ки global-law онро аз `tajikistan/national/acts/` мехонад.
 
-The text is in Tajik (Cyrillic), the state language (Article 2 of the Constitution), as the Majlisi namoyandagon published it; the Belarusian letter "ў" the publisher mixes in is written as the Tajik "ӯ". The Russian text and any English translation are not part of this record.
+**Ҳоло дар он чӣ ҳаст:** Конститутсияи Ҷумҳурии Тоҷикистон дар як таҳрир, яъне таҳрир бо тағйиру иловаҳои раъйпурсиҳои 26 сентябри соли 1999 ва 22 июни соли 2003, ба тавре ки Маҷлиси намояндагон нашр кардааст: 100 модда, муқаддима ва унвонҳои 10 боб. Ин Конститутсияи имрӯз амалкунанда нест, зеро тағйиру иловаҳои раъйпурсии 22 майи соли 2016 дар он нестанд, ва ҳоло ягон санади дигар дар ин ҷо нест. [`REPRODUCE.md`](REPRODUCE.md) мегӯяд, ки он чӣ тавр сохта шудааст; [`data/laws.csv`](data/laws.csv) раъйпурсиҳоеро, ки коммити он номбар мекунад, нишон медиҳад.
 
-## Questions as git commands
+Ҳар санад як ҷузвдон аст (`konstitutsiya/` — Конститутсияи (Сарқонуни) Ҷумҳурии Тоҷикистон), ки дар он барои ҳар модда як файл (`art-001.md` то `art-100.md`), барои ҳар унвони боб як файл (`bob-01.md` то `bob-10.md`), `preamble.md` ва `README.md` бо рӯйхати онҳо ҳаст.
 
-| Question | Command |
+Матн бо забони тоҷикӣ (бо хатти кириллӣ), ки забони давлатӣ аст (моддаи 2 Конститутсия), ба тавре ки Маҷлиси намояндагон нашр кардааст, оварда шудааст; ҳарфи белорусии «ў», ки ношир дар матн омехта кардааст, ҳамчун ҳарфи тоҷикии «ӯ» навишта шудааст. Матни русӣ ва ҳар гуна тарҷумаи англисӣ ба ин сабт дохил намешаванд.
+
+## Саволҳо ҳамчун фармонҳои git
+
+| Савол | Фармон |
 | --- | --- |
-| Every change to Article 37 of the Constitution (the right to rest) | `git log -p --word-diff -- konstitutsiya/art-037.md` |
-| Which act wrote each line of Article 37? | `git blame konstitutsiya/art-037.md` |
-| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- konstitutsiya ":(exclude)konstitutsiya/README.md"` |
-| Article 37 as in force on 1 January 2010 | `python tools/on.py 2010-01-01 konstitutsiya art-037` |
+| Ҳамаи тағйироти моддаи 37 Конститутсия (ҳуқуқ ба истироҳат) | `git log -p --word-diff -- konstitutsiya/art-037.md` |
+| Ҳар сатри моддаи 37-ро кадом санад навиштааст? | `git blame konstitutsiya/art-037.md` |
+| Ҳамаи таҳрирҳои Конститутсия бо рӯзи эътибор пайдо кардани ҳар яке | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- konstitutsiya ":(exclude)konstitutsiya/README.md"` |
+| Моддаи 37 дар таҳрире, ки 1 январи соли 2010 эътибор дошт | `python tools/on.py 2010-01-01 konstitutsiya art-037` |
 
-**Outside git**, we also host this record publicly, for free:
+**Берун аз git** мо ин сабтро ройгон ва ба таври оммавӣ низ ҷойгир мекунем:
 
-- **[Ask Claude about the law of Tajikistan](https://global-law.lexifina.com/v1/try_claude?country=tajikistan)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=tajikistan)**: the same question in ChatGPT.
-- **[Search Tajikistan's law on our site](https://lexifina.com/law?country=tajikistan&q=%D1%80%D1%83%D1%85%D1%81%D0%B0%D1%82%D0%B8%D0%B8+%D2%B3%D0%B0%D1%80%D1%81%D0%BE%D0%BB%D0%B0)**: a search for "рухсатии ҳарсола" (annual leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%D1%80%D1%83%D1%85%D1%81%D0%B0%D1%82%D0%B8%D0%B8+%D2%B3%D0%B0%D1%80%D1%81%D0%BE%D0%BB%D0%B0&jurisdiction=tajikistan)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Аз Claude дар бораи ҳуқуқи Тоҷикистон пурсед](https://global-law.lexifina.com/v1/try_claude?country=tajikistan)**: Claude-ро бо саволи аввали тайёр мекушояд.
+- **[Аз ChatGPT пурсед](https://global-law.lexifina.com/v1/try_chatgpt?country=tajikistan)**: ҳамон савол дар ChatGPT.
+- **[Ҷустуҷӯи ҳуқуқи Тоҷикистон дар сомонаи мо](https://lexifina.com/law?country=tajikistan&q=%D1%80%D1%83%D1%85%D1%81%D0%B0%D1%82%D0%B8%D0%B8+%D2%B3%D0%B0%D1%80%D1%81%D0%BE%D0%BB%D0%B0)**: ҷустуҷӯи «рухсатии ҳарсола» бо матни ҳар муқаррарот ва таҳрирҳои он, бе ҳисоби корбарӣ.
+- **[REST API барои барномасозон](https://global-law.lexifina.com/v1/search_law?query=%D1%80%D1%83%D1%85%D1%81%D0%B0%D1%82%D0%B8%D0%B8+%D2%B3%D0%B0%D1%80%D1%81%D0%BE%D0%BB%D0%B0&jurisdiction=tajikistan)**: ҳамон ҷустуҷӯ дар шакли JSON, бе калид. [Ҳуҷҷатгузориро дар ин ҷо](https://lexifina.com/api/global-law) бинед.
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Tajik or in English.
+Ҳар ду ёрдамчӣ сабтро тавассути пайвасткунандаи ройгони Global law (MCP, `https://global-law.lexifina.com/mcp`) мехонанд; бори аввал чат ба шумо истинодеро медиҳад, ки онро илова мекунад. Бо забони тоҷикӣ ё англисӣ пурсед.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**Онро ба осонӣ худатон ҷойгир кунед.** Танҳо git ва Python лозим аст, ва абзорҳо дар компютери шумо кор мекунанд:
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -36,50 +43,52 @@ python3 tools/countries.py add tajikistan/national/acts
 python3 tools/law.py show 2010-01-01 tajikistan/national/acts/konstitutsiya/art-037.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Агар клон дар Claude Code, Cursor, VS Code ё Codex кушода шавад, он инчунин сервери маҳаллии MCP-ро бо ҳамон абзорҳо оғоз мекунад ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## Dates
+## Санаҳо
 
-Each commit is dated at noon, Asia/Dushanbe, on the day the version took effect, and carries it in its `In-force:` trailer:
+Ҳар коммит бо нисфирӯзии рӯзи эътибор пайдо кардани таҳрир аз рӯи вақти Asia/Dushanbe сана гузошта шудааст ва ин рӯзро дар трейлери `In-force:` дорад:
 
-- for the one version so far, 22 June 2003, the day of the referendum the source names for this edition, as the source gives no day the edition took effect;
-- `tools/on.py` picks the version in force on a day by this trailer, not by the commit date.
+- барои ягона таҳрири то имрӯз — 22 июни соли 2003, рӯзи раъйпурсие, ки манбаъ барои ин таҳрир номбар мекунад, зеро манбаъ рӯзи эътибор пайдо кардани таҳрирро нишон намедиҳад;
+- `tools/on.py` таҳрири дар рӯзи додашуда амалкунандаро аз рӯи ҳамин трейлер интихоб мекунад, на аз рӯи санаи коммит.
 
-That version is the "oldest version available", credited to its publisher, the Majlisi namoyandagon of the Majlisi Oli (parlament.tj), not to a law; its commit message names the referendums of 6 November 1994 and 26 September 1999 as having produced the text. Later versions are credited to the law that made each change.
+Ин таҳрир «қадимтарин таҳрири дастрас» (oldest version available) аст ва ба ношираш — Маҷлиси намояндагони Маҷлиси Олӣ (parlament.tj) — нисбат дода шудааст, на ба ягон қонун; паёми коммити он раъйпурсиҳои 6 ноябри соли 1994 ва 26 сентябри соли 1999-ро ҳамчун манбаи пайдоиши матн номбар мекунад. Таҳрирҳои минбаъда ба қонуне нисбат дода мешаванд, ки ҳар тағйиротро ворид кардааст.
 
-## How it is checked
+## Чӣ тавр санҷида мешавад
 
-- The text was compared article by article with a second official copy, the Majlisi milli's (majmilli.tj, Internet Archive capture of 7 March 2018): the same edition, differing only in spelling slips ("Кӯҳистони" and "Куҳистони") and in how numbered lists are laid out. The record keeps the Majlisi namoyandagon text.
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus it was built from. [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256, and does not yet record a run of the check or a second build for it.
-- The same check requires every commit's trailers to parse, no merge commits, no commit dates going backwards and nothing dated in the future. History is append-only: no published commit is rewritten.
+- Матн модда ба модда бо нусхаи дуюми расмӣ — нусхаи Маҷлиси миллӣ (majmilli.tj, нусхаи Internet Archive аз 7 марти соли 2018) — муқоиса карда шуд: ҳамон таҳрир, ки танҳо бо хатоҳои имлоӣ («Кӯҳистони» ва «Куҳистони») ва тарзи ҷойгиркунии рӯйхатҳои рақамдор фарқ мекунад. Сабт матни Маҷлиси намояндагонро нигоҳ медорад.
+- `tools/check_repo.py` ҳар таҳрирро аз git дар рӯзи эътибор пайдо кардани он ва дар рӯзи пеш аз он бозхонӣ мекунад ва бо корпусе, ки аз он сохта шудааст, муқоиса мекунад. [`REPRODUCE.md`](REPRODUCE.md) sha256-и корпусро медиҳад, вале ҳоло иҷрои ин санҷиш ё сохтани дуюмро барои он қайд накардааст.
+- Ҳамин санҷиш талаб мекунад, ки трейлерҳои ҳар коммит таҳлил шаванд, коммитҳои муттаҳидсозӣ (merge) набошанд, санаҳои коммитҳо ба қафо нараванд ва ҳеҷ чиз бо санаи оянда набошад. Таърих танҳо илова карда мешавад: ҳеҷ коммити нашршуда аз нав навишта намешавад.
 
-## What it does not show
+## Он чи нишон дода намешавад
 
-- **The Constitution in force today.** The amendments of the referendum of 22 May 2016 are not in this text; a version with them is added when an official text of the current edition is found.
-- **Earlier texts.** The 1994 original and the 1999 edition are named in the record, but their texts are not here.
-- **Any other law**: codes, laws, presidential decrees, government resolutions, case law, local acts and treaties are not here yet.
-- **The Russian text**, the language of interethnic communication (Article 2).
+- **Конститутсияи имрӯз амалкунанда.** Тағйиру иловаҳои раъйпурсии 22 майи соли 2016 дар ин матн нестанд; таҳрир бо онҳо вақте илова карда мешавад, ки матни расмии таҳрири ҷорӣ ёфт шавад.
+- **Матнҳои пештара.** Матни аслии соли 1994 ва таҳрири соли 1999 дар сабт номбар шудаанд, вале матнҳои онҳо дар ин ҷо нестанд.
+- **Ягон қонуни дигар**: кодексҳо, қонунҳо, фармонҳои Президент, қарорҳои Ҳукумат, таҷрибаи судӣ, санадҳои маҳаллӣ ва шартномаҳои байналмилалӣ ҳоло дар ин ҷо нестанд.
+- **Матни русӣ**, ки забони муоширати байни миллатҳост (моддаи 2).
 
-## Sources
+## Манбаъҳо
 
-| Source | Kind | Past versions | Notes |
+| Манбаъ | Навъ | Таҳрирҳои пештара | Эзоҳҳо |
 | --- | --- | --- | --- |
-| [Majlisi namoyandagon](https://web.archive.org/web/20170607141323/http://parlament.tj/konstitutsiyai-jt/) (lower chamber of the Majlisi Oli, parlament.tj) | Parliament's text of the Constitution | no, one edition | The text of this record, read from the Internet Archive capture of 7 June 2017 |
-| Majlisi milli (upper chamber, majmilli.tj) | Parliament's text of the Constitution | no, one edition | A second copy (capture of 7 March 2018), compared article by article |
+| [Маҷлиси намояндагон](https://web.archive.org/web/20170607141323/http://parlament.tj/konstitutsiyai-jt/) (палатаи поёнии Маҷлиси Олӣ, parlament.tj) | Матни Конститутсия аз парламент | не, як таҳрир | Матни ин сабт, ки аз нусхаи Internet Archive аз 7 июни соли 2017 хонда шудааст |
+| Маҷлиси миллӣ (палатаи болоӣ, majmilli.tj) | Матни Конститутсия аз парламент | не, як таҳрир | Нусхаи дуюм (нусхаи аз 7 марти соли 2018), ки модда ба модда муқоиса карда шуд |
 
-## Licence
+## Иҷозатнома
 
-See [`LICENSE`](LICENSE). Official documents of a legislative, administrative or judicial character are not protected by copyright in Tajikistan (Law on Copyright and Related Rights of 13 November 1998, article 7); Lexifina's arrangement, commit messages, tables and tools are dedicated to the public domain under CC0 1.0.
+Нигаред ба [`LICENSE`](LICENSE). Дар Тоҷикистон ҳуҷҷатҳои расмии дорои хусусияти қонунгузорӣ, маъмурӣ ё судӣ бо ҳуқуқи муаллиф ҳифз карда намешаванд (Қонуни Ҷумҳурии Тоҷикистон «Дар бораи ҳуқуқи муаллиф ва ҳуқуқҳои вобаста» аз 13 ноябри соли 1998, моддаи 7); тартиб, паёмҳои коммитҳо, ҷадвалҳо ва абзорҳои Lexifina тибқи CC0 1.0 ба мулки ҷамъиятӣ бахшида шудаанд.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by Claude Code running Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+Ҳеҷ модели зеҳни сунъӣ матни ҳуқуқиро нанавиштааст, тарҷума накардааст ва ислоҳ накардааст, ва ҳангоми сохтани таърих ҳеҷ кадоми онҳо кор намекунад; скриптҳоро Claude Code бо модели Claude Opus 5.5 навиштааст (нигаред ба [`REPRODUCE.md`](REPRODUCE.md)).
 
-## More
+Ин матн тарҷумаи нусхаи англисӣ ([README.en.md](README.en.md)) аст; дар сурати тафовут нусхаи англисӣ бартарӣ дорад.
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
+## Маълумоти бештар
 
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+Аз махзани [lexifina/global-law](https://github.com/lexifina/global-law) (саҳифаҳо ба забони англисӣ):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): ҳамаи имкониятҳо ва он чи ҳар корпус бояд дастгирӣ кунад (`git blame`, `law.py`, абзорҳои MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): саволу ҷавоб · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): пешниҳоди тағйирот · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): сервери MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): чӣ тавр сохта шудааст · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): ҳар корпус то чӣ андоза нав аст · [Мониторинг](https://github.com/lexifina/global-law/tree/main/monitoring): оё навсозиҳо кор мекунанд · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): ҳар манбаи расмӣ барои тағйирот чӣ гуна пайгирӣ мешавад
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): суръати абзорҳо, ченкардашуда
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): диаграммаҳо ва пайвандҳо дар ҳуқуқи ҷаҳон
+- [Осебпазириҳо](https://github.com/lexifina/global-law/tree/main/vulnerabilities): хатоҳо дар қонунгузорӣ, чунон ки нашр шудааст
