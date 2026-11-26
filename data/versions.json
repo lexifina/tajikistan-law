@@ -208,6 +208,12 @@
      "units": 514,
      "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%967__Customs_code_RT_tj.pdf",
      "sha256": "5056843f05f39ec7c79d8f52d0437ebbbbb9efabe8c8ebca4cb89e3ee8989744"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 521,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23710",
+     "sha256": "19269fca48a8c928e4a7a76c9737a347918ce5abccacfcf5e545aed8e3bb5603"
     }
    ]
   },
@@ -222,6 +228,12 @@
      "units": 738,
      "source_url": "https://andoz.tj/docs/kodex/HUQUQVAYRONKUNI-2025_tj.pdf",
      "sha256": "6eeda14b41cbdd35a453118b07b41b1dccb8032666637e5d802c96a3bcf2fad8"
+    },
+    {
+     "from": "2026-02-16",
+     "units": 749,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23714",
+     "sha256": "35c1ab301517d1af677fbc68e9dc0aa8c306e995bea3ae1ae9a388f9fb0750af"
     }
    ]
   },
@@ -256,6 +268,12 @@
      "units": 1351,
      "source_url": "https://andoz.tj/docs/drugie-kodeksi/Kodex_Madani_2024_RT_tj.pdf",
      "sha256": "35f0726b4441d50e4999cb2baa4a3b77ecb3c82d619e9d3789067ac6cbdf083e"
+    },
+    {
+     "from": "2025-05-14",
+     "units": 1351,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23706",
+     "sha256": "02a63de555e3afeb62a1366421c02a0d0536ed571baa998a2eed6f7f9d0128b2"
     }
    ]
   },
@@ -298,6 +316,12 @@
      "units": 491,
      "source_url": "https://andoz.tj/docs/drugie-kodeksi/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%20%D0%BC%D1%83%D1%80%D0%BE%D1%84%D0%B8%D0%B0%D0%B2%D0%B8%D0%B8%20%D2%B7%D0%B8%D0%BD%D0%BE%D1%8F%D1%82%D0%B8%D0%B8%20%D2%B6%D0%A2.pdf",
      "sha256": "d460495324e4f173d5672ca5837f4f41754b92ac0ccb55fb92f904a4afd0f2a6"
+    },
+    {
+     "from": "2024-01-03",
+     "units": 533,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23698",
+     "sha256": "41b2eab005792cd5436c140a3cb338e7ba8df0f13afcf99e1a7b7aaf09a78629"
     }
    ]
   },
@@ -312,6 +336,18 @@
      "units": 434,
      "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%963__Civil_procedure_RT_tj.pdf",
      "sha256": "2cbe0479953951dd220b26cf849dbf50a327d33541edc98e79d059ae89f5173b"
+    },
+    {
+     "from": "2024-01-03",
+     "units": 435,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23704",
+     "sha256": "770c3650d40a4692066b5667e2cdc58e5b51de014349303308dcd2cd2174f901"
+    },
+    {
+     "from": "2024-11-13",
+     "units": 447,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23721",
+     "sha256": "a64fdf09554d7be48ffe4a10697552f20d63f4b9dfe20e9e85975dbdbcf74a59"
     }
    ]
   },
@@ -326,6 +362,12 @@
      "units": 323,
      "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%9611__Economic_procedure_code_RT_tj.pdf",
      "sha256": "1d0936d997303c12212d18605062d178708ca7a2c57eb376ed380889ff85e2a2"
+    },
+    {
+     "from": "2024-11-13",
+     "units": 353,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23713",
+     "sha256": "0861364414879cacfd2e96f70bf66c0371fe68f7d90d03f67f2a96117b46fe9e"
     }
    ]
   },
@@ -396,6 +438,20 @@
      "units": 129,
      "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%964__Land_code_RT_tj.pdf",
      "sha256": "3f1616cd1c37a0bfffbafbb5bea6eca14ef8149fdf7449f6048c4bd811eb40f6"
+    }
+   ]
+  },
+  {
+   "slug": "nizomnomai-shuroi-milli-oid-ba-hamohangsozi-va-rushdi-sohai-molikiyati-zehni-dar",
+   "short": "Низомномаи Шӯрои миллӣ оид ба ҳамоҳангсозӣ ва рушди соҳаи моликияти...",
+   "title": "Низомномаи Шӯрои миллӣ оид ба ҳамоҳангсозӣ ва рушди соҳаи моликияти зеҳнӣ дар Ҷумҳурии Тоҷикистон",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23739",
+   "versions": [
+    {
+     "from": "2021-06-26",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23739",
+     "sha256": "0e26d24b441d6c3a2d296f9993e50ccaf3446e959ff3a1012004ff385f77369b"
     }
    ]
   },
@@ -918,6 +974,188 @@
    ]
   },
   {
+   "slug": "qarori-hukumati-jumhurii-tojikiston-dar-borai-muayyan-namudani-maqomi-vakolatdor",
+   "short": "Қарори Ҳукумати Ҷумҳурии Тоҷикистон «Дар бораи муайян намудани мақо...",
+   "title": "Қарори Ҳукумати Ҷумҳурии Тоҷикистон «Дар бораи муайян намудани мақоми ваколатдори давлатӣ оид ба ҳифзи ихтироъ, намунаҳои саноатӣ, топологияҳои микросхемаҳои интегралӣ, ишораҳои ҷуғрофӣ, тамғаҳои молӣ ва тамғаҳои хизматрасонӣ (Идораи патентии Ҷумҳурии Тоҷикистон)» (Қарори аз 03.04.2012 № 153)",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23659",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23659",
+     "sha256": "588d371ee9d90fb9b89146996d6bafddb9b8ada8c6c8f47b3253d8720b36cc98"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumati-jumhurii-tojikiston-dar-borai-tasisi-shuroi-milli-oid-ba-hamohan",
+   "short": "Қарори Ҳукумати Ҷумҳурии Тоҷикистон \"Дар бораи таъсиси Шӯрои миллӣ...",
+   "title": "Қарори Ҳукумати Ҷумҳурии Тоҷикистон \"Дар бораи таъсиси Шӯрои миллӣ оид ба ҳамоҳангсозӣ ва рушди соҳаи моликияти зеҳнӣ дар Ҷумҳурии Тоҷикистон\" (Қарори Ҳукумати ҶТ аз 06.12.2014 № 767, бо тағйиру иловаҳо, воридшуда",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23737",
+   "versions": [
+    {
+     "from": "2021-06-26",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23737",
+     "sha256": "b226e50964a0baa5278137bb2f41c93b0e6db03d08a8e8675c84e858a7145c73"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-shuroi-vazironi-jumhurii-tojikiston-dar-borai-tasisi-muassisai-davlatii-m",
+   "short": "Қарори Шӯрои Вазирони Ҷумҳурии Тоҷикистон \"Дар бораи таъсиси Муасси...",
+   "title": "Қарори Шӯрои Вазирони Ҷумҳурии Тоҷикистон \"Дар бораи таъсиси Муассисаи давлатии \"Маркази миллии патенту иттилоот\"-и Вазорати рушди иқтисод ва савдои Ҷумҳурии Тоҷикистон\" (Қарори Шӯрои Вазирони ҶТ аз 28.05.1993 № 242, бо тағйиру иловаҳо, воридшуда",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23735",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23735",
+     "sha256": "f784eb4aa5ed2bdd441c52b00a4714361243ffc746ca510d4906e8cf0689ab12"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-baqaydgirii-shartnoma-oid-ba-guzasht-namudani-huquqi-istisnoi-ba-tamgha",
+   "short": "Қоидаҳои бақайдгирии шартнома оид ба гузашт намудани ҳуқуқи истисно...",
+   "title": "Қоидаҳои бақайдгирии шартнома оид ба гузашт намудани ҳуқуқи истисноӣ ба тамғаи молӣ, шартномаи иҷозатномадиҳӣ ва шартномаҳои дигареро, ки ба воситаи онҳо ихтиёрдории ҳуқуқ ба тамғаи молӣ амалӣ гардонида мешаванд",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23634",
+   "versions": [
+    {
+     "from": "2020-01-06",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23634",
+     "sha256": "bfdfea7cf7dfc407f963aa12ea80fbca932c8cc2575882bde404c0951b500dbc"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-guzaronidani-attestatsiya-va-baqaydgirii-namoyandagoni-patentii-jumhuri",
+   "short": "Қоидаҳои гузаронидани аттестатсия ва бақайдгирии намояндагони патен...",
+   "title": "Қоидаҳои гузаронидани аттестатсия ва бақайдгирии намояндагони патентии Ҷумҳурии Тоҷикистон",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23640",
+   "versions": [
+    {
+     "from": "2009-06-09",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23640",
+     "sha256": "35cea9c948a69c29599007939c0869018915ab8f2a3cf29f2d53efac655aa79b"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-maruf-donistani-tamghai-moli-dar-jumhurii-tojikiston",
+   "short": "Қоидаҳои маъруф донистани тамғаи молӣ дар Ҷумҳурии Тоҷикистон",
+   "title": "Қоидаҳои маъруф донистани тамғаи молӣ дар Ҷумҳурии Тоҷикистон",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10298",
+   "versions": [
+    {
+     "from": "2007-07-10",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10298",
+     "sha256": "4519d5e9c94f5532b27d7be7558ab9694a9d89b59a7a5d8b9a6a5295addeeda2"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-peshburdi-fehristi-davlatii-ikhtirooti-makhfii-jumhurii-tojikiston",
+   "short": "Қоидаҳои пешбурди Феҳристи давлатии ихтирооти махфии Ҷумҳурии Тоҷик...",
+   "title": "Қоидаҳои пешбурди Феҳристи давлатии ихтирооти махфии Ҷумҳурии Тоҷикистон",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23682",
+   "versions": [
+    {
+     "from": "2011-08-30",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23682",
+     "sha256": "8f44eb1d45d66e03ce437834ef7ec40677fba62166e0882e599868285c1cc6be"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-peshnihod-va-barrasii-ariza-baroi-bakaydgirii-tamghahoi-moli",
+   "short": "Қоидаҳои пешниҳод ва баррасии ариза барои бакайдгирии тамғаҳои молӣ",
+   "title": "Қоидаҳои пешниҳод ва баррасии ариза барои бакайдгирии тамғаҳои молӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23631",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23631",
+     "sha256": "16f8fc72f1f228a9f4a06309ae41785b987cd1dd35fbb6cf73aacb2ea2953137"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-peshnihod-va-barrasii-ariza-baroi-dodani-patent-ba-namunai-sanoati",
+   "short": "Қоидаҳои пешниҳод ва баррасии ариза барои додани патент ба намунаи...",
+   "title": "Қоидаҳои пешниҳод ва баррасии ариза барои додани патент ба намунаи саноатӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23620",
+   "versions": [
+    {
+     "from": "2020-01-06",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23620",
+     "sha256": "448e4a51c5c29b513d57dd8ca28b205514736514e6f5bfc7dc8dabd019050cd8"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-peshnihod-va-barrasii-ariza-baroi-dodani-patent-va-nakhustpatent-ba-ikh",
+   "short": "Қоидаҳои пешниҳод ва баррасии ариза барои додани патент ва нахустпа...",
+   "title": "Қоидаҳои пешниҳод ва баррасии ариза барои додани патент ва нахустпатент ба ихтироъ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23542",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23542",
+     "sha256": "157a4d833f75ea75d7830ff04306eb5ba5aff1f1d889ee56a53e35be2cb5d3ae"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-peshnihodi-etiroznomaho-va-arizaho-ba-shuroi-shikoyati-va-tartibi-barra",
+   "short": "Қоидаҳои пешниҳоди эътирозномаҳо ва аризаҳо ба Шӯрои шикоятӣ ва тар...",
+   "title": "Қоидаҳои пешниҳоди эътирозномаҳо ва аризаҳо ба Шӯрои шикоятӣ ва тартиби баррасии онҳо",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23644",
+   "versions": [
+    {
+     "from": "2022-01-12",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23644",
+     "sha256": "0a37d124c769acde9e0a629bc9eeda66049804d2669b2e2ac44c9101a5317cba"
+    }
+   ]
+  },
+  {
+   "slug": "qoidahoi-tartibdihi-peshnihod-va-barrasii-ariza-dar-borai-baqaydgirii-topologiya",
+   "short": "Қоидаҳои тартибдиҳӣ, пешниҳод ва баррасии ариза дар бораи бақайдгир...",
+   "title": "Қоидаҳои тартибдиҳӣ, пешниҳод ва баррасии ариза дар бораи бақайдгирии топологияи микросхемаи интегралӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10299",
+   "versions": [
+    {
+     "from": "2007-03-28",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10299",
+     "sha256": "b3ad8d03bc5e86f254e5b54b38221b6535b3169c2c450ae1e5372b9b1471a8c4"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-arbitrazhi-baynalmilalii-tijorati",
+   "short": "Қонуни ҶТ \"Дар бораи арбитражи байналмилалии тиҷоратӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи арбитражи байналмилалии тиҷоратӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23703",
+   "versions": [
+    {
+     "from": "2015-03-18",
+     "units": 56,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23703",
+     "sha256": "bb115c2341ac687af91fe0c16de62b2fd7c82d478dce1e4aad0060acd76f3d5b"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-auditi-dokhili-dar-tashkilothoi-bakhshi-davlati",
    "short": "Қонун \"аудити дохилӣ дар ташкилотҳои бахши давлатӣ\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи аудити дохилӣ дар ташкилотҳои бахши давлатӣ\"",
@@ -1176,6 +1414,20 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-doru-molhoi-tibbi-va-faoliyati-farmatsevti",
+   "short": "Қонуни ҶТ \"Дар бораи дору, молҳои тиббӣ ва фаъолияти фарматсевтӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи дору, молҳои тиббӣ ва фаъолияти фарматсевтӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23753",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 51,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23753",
+     "sha256": "00c28d95a1f98ce1e69f3a1621cf46ff16ebb21d293ad3e59462bb6218262800"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-durnamohoi-davlati-konsepsiyaho-strategiyaho-va-barnomahoi-r",
    "short": "Қонун “Дар бораи дурнамоҳои давлатӣ, консепсияҳо, стратегияҳо ва ба...",
    "title": "Қонуни Ҷумҳурии Тоҷикистон “Дар бораи дурнамоҳои давлатӣ, консепсияҳо, стратегияҳо ва барномаҳои рушди иҷтимоию иқтисодии Ҷумҳурии Тоҷикистон”",
@@ -1218,6 +1470,20 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-faoliyati-bahodihi",
+   "short": "Қонуни ҶТ \"Дар бораи фаъолияти баҳодиҳӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти баҳодиҳӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23764",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 31,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23764",
+     "sha256": "e85f36b6864d77161fd8ebe42c0319451b9fe52ea7717ec8695f2dd0ab4a59b1"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-faoliyati-bonki",
    "short": "Қонун \"фаъолияти бонкӣ\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти бонкӣ\"",
@@ -1246,6 +1512,34 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-faoliyati-innovatsioni",
+   "short": "Қонуни ҶТ \"Дар бораи фаъолияти инноватсионӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти инноватсионӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23762",
+   "versions": [
+    {
+     "from": "2012-04-16",
+     "units": 23,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23762",
+     "sha256": "ec5d1e385ef0a186187a0fb41db1e680120077b9a2adcdcfbe4bee1f96eb356e"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-faoliyati-noshiri-va-poligrafi",
+   "short": "Қонуни ҶТ \"Дар бораи фаъолияти ноширӣ ва полиграфӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти ноширӣ ва полиграфӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23760",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23760",
+     "sha256": "57434090d7fed513221f052546c23d8971047f1fa6bd23331a8f6db159c83909"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-faoliyati-savdoi-khoriji",
    "short": "Қонун \"фаъолияти савдои хориҷӣ\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти савдои хориҷӣ\"",
@@ -1256,6 +1550,20 @@
      "units": 58,
      "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%84%D0%B0%D1%8A%D0%BE%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D1%81%D0%B0%D0%B2%D0%B4%D0%BE%D0%B8%20%D1%85%D0%BE%D1%80%D0%B8%D2%B7%D3%A3.pdf",
      "sha256": "f31e457b4a09450ab0b45b9a312863844190a6e78e6f4d923e10964fd43cde95"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-farhang",
+   "short": "Қонуни ҶТ \"Дар бораи фарҳанг\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фарҳанг\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23725",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 71,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23725",
+     "sha256": "3e9815d343f7ae9144d101b66a38b3d71fee07cc6567987be5b46a9567db9d42"
     }
    ]
   },
@@ -1288,6 +1596,40 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-hifzi-huquqii-topologiyahoi-mikroskhemahoi-integrali",
+   "short": "Қонуни ҶТ Дар бораи Ҳифзи Ҳуқуқии Топологияҳои Микросхемаҳои Интегралӣ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ҳифзи Ҳуқуқии Топологияҳои Микросхемаҳои Интегралӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10278",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10278",
+     "sha256": "7f27a5660cfe9403ac9ae34623bc747b46c0bd99ade2d967dbae45908549f588"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23602",
+     "sha256": "eeef3b4f047ba58d4260e98ee69da0ca92ae939404f4fa4080e6d3284e62000e"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-hifzi-ittiloot",
+   "short": "Қонуни ҶТ \"Дар бораи ҳифзи иттилоот\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳифзи иттилоот\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10429",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 20,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10429",
+     "sha256": "80c355df59d6bb263fbcc8402d76401d8c9e44cc9fa36e24ead22aa639fb7e65"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-hifzi-mehnat",
    "short": "Қонун \"ҳифзи меҳнат\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳифзи меҳнат\"",
@@ -1298,6 +1640,26 @@
      "units": 33,
      "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9615_labor-protect-RT_tj.pdf",
      "sha256": "b5bc7858de162b1b6527dfe88d52bde7142cf50f8173ae3c964d3ed30533fb13"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-hifzi-navhoi-rastani",
+   "short": "Қонуни ҶТ Дар бораи Ҳифзи Навъҳои РастанӢ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ҳифзи Навъҳои РастанӢ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10419",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 33,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10419",
+     "sha256": "36233efa6c4ec68444e0bcd470ab3ac8b11a43294c29352bbc16709941c9402e"
+    },
+    {
+     "from": "2018-01-02",
+     "units": 34,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23597",
+     "sha256": "b47deda32f58cc4953b138a4c5bc64719f0bc13c96e61e9675f7f265d85e954f"
     }
    ]
   },
@@ -1340,6 +1702,12 @@
      "units": 33,
      "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D2%B3%D0%B8%D0%BC%D0%BE%D1%8F%D0%B8%20%D1%80%D0%B0%D2%9B%D0%BE%D0%B1%D0%B0%D1%82.pdf",
      "sha256": "83cb8518261f30fb763df9161b3ba247c9882f4817bf5856f3f9485cb1f79177"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 32,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23729",
+     "sha256": "97c506acfbbecf9390b31404652aaa5815793878342973ac5aeee4fb69a661f0"
     }
    ]
   },
@@ -1354,6 +1722,40 @@
      "units": 39,
      "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%961965_2025_electron-doc-RT_tj.pdf",
      "sha256": "9ae3a58e5e36354394ed865f86b997a89e5f78bb08c28e73117986f1309b727d"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-hunarhoi-badeii-khalqi",
+   "short": "Қонуни ҶТ Дар бораи Ҳунарҳои Бадеии Халқӣ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ҳунарҳои Бадеии Халқӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10427",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 22,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10427",
+     "sha256": "5b9c055c64012ba6de9aae8b35b48d3a53dbdf3d6511591372d7265ee3ff2af4"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 22,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23722",
+     "sha256": "736380f06d9befc37cb78e4637dfb8aa1d58b07729f0816f0496d738960002d4"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-huquqi-muallif-va-huquqhoi-vobasta-ba-on",
+   "short": "Қонуни ҶТ \"Дар бораи ҳуқуқи муаллиф ва ҳуқуқҳои вобаста ба он\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳуқуқи муаллиф ва ҳуқуқҳои вобаста ба он\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23537",
+   "versions": [
+    {
+     "from": "2018-01-02",
+     "units": 50,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23537",
+     "sha256": "325d7692c0312d2b7153728189093c31f516acabcb246ddee0f58af3fd521ea8"
     }
    ]
   },
@@ -1386,6 +1788,52 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-ikhtiro",
+   "short": "Қонуни ҶТ Дар бораи Ихтироъ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ихтироъ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10276",
+   "versions": [
+    {
+     "from": "2004-02-28",
+     "units": 42,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10276",
+     "sha256": "2496f3565a656db1cd3a9e071e485fdf366ade6229037ecd11e8b17a85f65455"
+    },
+    {
+     "from": "2013-03-19",
+     "units": 42,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/14121",
+     "sha256": "9fa40ddedef3814dbe11b93aba98bbc0cf60a8893877371e0c3f0392b85c4675"
+    },
+    {
+     "from": "2023-11-13",
+     "units": 42,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23530",
+     "sha256": "207915e6bbf2b09a581b104715a35b45e12de3b0bce5f047a39038a9160b3073"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-ikhtirooti-makhfi",
+   "short": "Қонуни ҶТ Дар бораи Ихтирооти МахфӢ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ихтирооти МахфӢ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10420",
+   "versions": [
+    {
+     "from": "2010-07-21",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10420",
+     "sha256": "3b58d65d57e02e791dd3bb4c4d6e5d389085d4b30041c9fd4efa95ccc2b8a5b2"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 18,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23678",
+     "sha256": "cc382855e1ff9e80d726bd323561195084b82b555fc0bef71a8acaffba337cef"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-ipoteka",
    "short": "Қонун \"ипотека\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ипотека\"",
@@ -1396,6 +1844,32 @@
      "units": 59,
      "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.pdf",
      "sha256": "d752a42ed7f1556aeca387db6aac4df57e7978b42a1108754b173269964c0622"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-ishorahoi-jughrofi",
+   "short": "Қонуни ҶТ Дар бораи Ишораҳои Ҷуғрофӣ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ишораҳои Ҷуғрофӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10271",
+   "versions": [
+    {
+     "from": "2007-03-05",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10271",
+     "sha256": "7fcaeaa89e091e03cb33e2074b42036d75f47e801ac273f91e1c0af45e14f1ba"
+    },
+    {
+     "from": "2012-07-03",
+     "units": 24,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/14343",
+     "sha256": "15353699a82037c94b830eaab5d22e0649a7c1c60b40423bc14cd1f4fbc611b2"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 25,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23583",
+     "sha256": "16f8a14c4770302862a8da30012967e2f56199df8a65542e26bfaa9dd4fe9c3e"
     }
    ]
   },
@@ -1512,6 +1986,20 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-kino",
+   "short": "Қонуни ҶТ \"Дар бораи кино\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи кино\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23731",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 19,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23731",
+     "sha256": "d6c02edf598312fd69c2c917185921ececa293fa03f8f003cdf3b56f0f71e6d1"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-korkhonahoi-davlati",
    "short": "Қонун \"корхонаҳои давлатӣ\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи корхонаҳои давлатӣ\"",
@@ -1550,6 +2038,20 @@
      "units": 18,
      "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B0%D1%81%D1%8A%D1%83%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D0%BF%D0%B0%D0%B4%D0%B0%D1%80%D1%83%20%D0%BC%D0%BE%D0%B4%D0%B0%D1%80%20%D0%B4%D0%B0%D1%80%20%D1%82%D0%B0%D1%8A%D0%BB%D0%B8%D0%BC%D1%83%20%D1%82%D0%B0%D1%80%D0%B1%D0%B8%D1%8F%D0%B8%20%D1%84%D0%B0%D1%80%D0%B7%D0%B0%D0%BD%D0%B4.pdf",
      "sha256": "0b455a3bfc174b8c029103478299799697dfc2b4f01c8d2da9b4b9034eb580a8"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-matbuoti-davri-va-digar-vositahoi-akhbori-omma",
+   "short": "Қонуни ҶТ \"Дар бораи матбуоти даврӣ ва дигар воситаҳои ахбори омма\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи матбуоти даврӣ ва дигар воситаҳои ахбори омма\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23770",
+   "versions": [
+    {
+     "from": "2017-02-24",
+     "units": 39,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23770",
+     "sha256": "3c1fad5c0c9bb612f158d6e8da90f63c057a2f6429a49b2723bb8c3a1a28b9a4"
     }
    ]
   },
@@ -1652,6 +2154,32 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-namunahoi-sanoati",
+   "short": "Қонуни ҶТ Дар бораи Намунаҳои Саноатӣ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Намунаҳои Саноатӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10275",
+   "versions": [
+    {
+     "from": "2004-02-28",
+     "units": 35,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10275",
+     "sha256": "0e8d18e83f511710b36520cf01787593a3fb3df41f5792d7875abc572957121b"
+    },
+    {
+     "from": "2012-07-03",
+     "units": 35,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/14291",
+     "sha256": "87e201222df7bb8ba6b870af7eecee23a45b99ea5a7e36b32a7c92aa8a5f866f"
+    },
+    {
+     "from": "2019-01-02",
+     "units": 35,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23568",
+     "sha256": "237b4e3320308e45f7045774f4ed3d9b07730d2ccba6641d3009f2884bd3cdb4"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-nazorati-davlatii-moliyavi-dar-jumhurii-tojikiston",
    "short": "Қонун \"назорати давлатии молиявӣ дар Ҷумҳурии Тоҷикистон\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи назорати давлатии молиявӣ дар Ҷумҳурии Тоҷикистон\"",
@@ -1736,6 +2264,90 @@
    ]
   },
   {
+   "slug": "qonuni-dar-borai-qabul-namudani-kodeksi-gumruki-jumhurii-tojikiston-va-mavrid",
+   "short": "Қонуни ҶТ \"Дар бораи қабул намудани кодекси гумруки Ҷумҳурии Тоҷики...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи қабул намудани кодекси гумруки Ҷумҳурии Тоҷикистон ва мавриди амал қарор додани он\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23711",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 6,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23711",
+     "sha256": "691a052907c9f7a936d3d334062ca081c004ebdc1007bd5ff0ecbce8c47c60ee"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-huquqvayronkunii",
+   "short": "Қонуни ҶТ \"Дар бораи қабул ва мавриди амал қарор додани Кодекси ҳуқ...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи қабул ва мавриди амал қарор додани Кодекси ҳуқуқвайронкунии маъмурии Ҷумҳурии Тоҷикистон\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23718",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23718",
+     "sha256": "8eda30ca0838c1db2d84264afd56c1f5857658a3ebded4d3a83b28452fcb7a1c"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-jumhurii-tojikist",
+   "short": "Қонуни ҶТ \"Дар бораи қабул ва мавриди амал қарор додани Кодекси Ҷум...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи қабул ва мавриди амал қарор додани Кодекси Ҷумҳурии Тоҷикистон оид ба мурофиаи судии иқтисодӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23717",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23717",
+     "sha256": "cd8607c738698028bb4551b8465159486ec3d3ff8b0d604111a1384f91ff9015"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-murofiavii-grazhd",
+   "short": "Қонуни ҶТ \"Дар бораи қабул ва мавриди амал қарор додани Кодекси мур...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи қабул ва мавриди амал қарор додани Кодекси мурофиавии граждании Ҷумҳурии Тоҷикистон\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23705",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 5,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23705",
+     "sha256": "5b555e08938191518eb84169f4ba898f8c8ed38ddb5e2c07de3689204f4235c7"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-murofiavii-jinoya",
+   "short": "Қонуни ҶТ \"Дар бораи қабул ва мавриди амал қарор додани Кодекси мур...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи қабул ва мавриди амал қарор додани Кодекси мурофиавии ҷиноятии Ҷумҳурии Тоҷикистон\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23700",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 4,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23700",
+     "sha256": "f5d73423ef76f866e86d848ca7407bab04d3dc1c31057d87062c8ca60cd3b8b5"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-reklama",
+   "short": "Қонуни ҶТ \"Дар бораи реклама\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи реклама\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23727",
+   "versions": [
+    {
+     "from": "2025-01-02",
+     "units": 36,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23727",
+     "sha256": "52e9e741e2515e21ef5ed99c8808d4a2bd0bce8744238be21678e8bbb0afc9cf"
+    }
+   ]
+  },
+  {
    "slug": "qonuni-dar-borai-sanadhoi-meyori-huquqi",
    "short": "Қонун \"санадҳои меъёри ҳуқуқӣ\"",
    "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи санадҳои меъёри ҳуқуқӣ\"",
@@ -1760,6 +2372,20 @@
      "units": 47,
      "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9629_economic-acts-inspection-RT_tj.pdf",
      "sha256": "eaa94ccd3e832391ca13758ad0ebd40dd0a2d4e0cf587e35e1adc467ae1c31f1"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sarmoya-va-havasmandgardonii-faoliyati-sarmoyaguzori",
+   "short": "Қонуни ҶТ \"Дар бораи сармоя ва ҳавасмандгардонии фаъолияти сармоягу...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи сармоя ва ҳавасмандгардонии фаъолияти сармоягузорӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23767",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 38,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23767",
+     "sha256": "93de169c64c338b92d2a0f575c92e721a6506f8a7b64b52f1e38bf4f39e8ad38"
     }
    ]
   },
@@ -1802,6 +2428,26 @@
      "units": 57,
      "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%81%D0%B8%D1%80%D1%80%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D3%A3.pdf",
      "sha256": "3bce157d564a4a9609f0eebc8535cc1c5a4a072efad06873fa5dfc970946017d"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sirri-tijorati",
+   "short": "Қонуни ҶТ Дар бораи Сирри Тиҷоратӣ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Сирри Тиҷоратӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10422",
+   "versions": [
+    {
+     "from": "2008-06-18",
+     "units": 16,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10422",
+     "sha256": "1ebcff3c11914bc833c1632cc96b4401a939016b23583396ce96bb588f43ecda"
+    },
+    {
+     "from": "2025-02-11",
+     "units": 16,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23609",
+     "sha256": "e5f5cf700ad1921e79afbe169ada5fa6a05229863f8c7e26bc3faf0a489940dd"
     }
    ]
   },
@@ -1872,6 +2518,54 @@
      "units": 16,
      "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%82%D0%B0%D0%BD%D0%B7%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D0%B8%D1%81%D1%82%D0%B5%D2%B3%D1%81%D0%BE%D0%BB%20%D0%B2%D0%B0%20%D0%BC%D1%83%D0%BE%D0%BC%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%20%D0%B1%D0%B0%D1%8A%D0%B7%D0%B5%20%D0%BD%D0%B0%D0%BC%D1%83%D0%B4%D2%B3%D0%BE%D0%B8%20%D0%BC%D0%B0%D2%B3%D1%81%D1%83%D0%BB%D0%BE%D1%82%D0%B8%20%D0%BD%D0%B0%D1%84%D1%82.pdf",
      "sha256": "96a2c80b6a5db1371db529e05b8bc4c5386ee2e0d6771eece47fa2928f14c162"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-teatr-va-faoliyati-teatri",
+   "short": "Қонуни ҶТ \"Дар бораи театр ва фаъолияти театрӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи театр ва фаъолияти театрӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23765",
+   "versions": [
+    {
+     "from": "2018-01-02",
+     "units": 30,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23765",
+     "sha256": "8fc5bf7864ee88647ba5688d6b85faf08036e2a7dddeacc625f846aa2e0592b7"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-televizion-va-radioshunavoni",
+   "short": "Қонуни ҶТ \"Дар бораи телевизион ва радиошунавонӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи телевизион ва радиошунавонӣ\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23771",
+   "versions": [
+    {
+     "from": "2022-12-24",
+     "units": 37,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23771",
+     "sha256": "34a2f4e77427d98c7e096342176598a6c05a6be290ef8c3b22592126ee2247b2"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-tukhmiparvari",
+   "short": "Қонуни ҶТ Дар бораи Тухмипарварӣ",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон Дар бораи Тухмипарварӣ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/10421",
+   "versions": [
+    {
+     "from": "2008-01-05",
+     "units": 36,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/10421",
+     "sha256": "5aaff34bd8fb971a5f1ee932f4c4a9d0f5995b84c358c7ddf225c8e3f7d1c160"
+    },
+    {
+     "from": "2025-01-02",
+     "units": 46,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23730",
+     "sha256": "dfa3632b252f63c0cb8c131b773b49ef1a0e00014600cf0166c0778c9327d935"
     }
    ]
   },
@@ -1956,6 +2650,54 @@
      "units": 72,
      "source_url": "https://andoz.tj/docs/zakoni/%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B0%D2%9B%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
      "sha256": "723818dec9ffb8454f47d3886059d9b9fe70bbc916524436625c7a0fe7073d98"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-konstitutsionii-dar-borai-sudhoi-jumhurii-tojikiston",
+   "short": "Қонуни конститутсионии ҶТ \"Дар бораи судҳои Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни конститутсионии Ҷумҳурии Тоҷикистон \"Дар бораи судҳои Ҷумҳурии Тоҷикистон\"",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23707",
+   "versions": [
+    {
+     "from": "2024-11-13",
+     "units": 140,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23707",
+     "sha256": "c994df974409def16380b97dedfc60fb905cbf7dde83b48663e54fbd2c95247e"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 141,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23719",
+     "sha256": "ae53ee6449f9422fa482f61e9eb1eb93ab7824c30add7ed64cfa6ac4fa7f7c4a"
+    }
+   ]
+  },
+  {
+   "slug": "tartib-va-sharthoi-vorid-namudani-nomi-rasmi-parcham-nishoni-davlatii-jumhurii-t",
+   "short": "Тартиб ва шартҳои ворид намудани номи расми, Парчам, Нишони давлати...",
+   "title": "Тартиб ва шартҳои ворид намудани номи расми, Парчам, Нишони давлатии Ҷумҳурии Тоҷикистон ва дигар рамзҳои давлати ҳамчун унсурҳои ҳифзнашавандаи тамғаи моли",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23629",
+   "versions": [
+    {
+     "from": "2025-12-25",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23629",
+     "sha256": "fa9a7d48e519455d7bc18bd2c23bd93e1297516aa0748c4ff64e2ee73d24b9c6"
+    }
+   ]
+  },
+  {
+   "slug": "tartibi-peshnihod-va-barrasii-darkhost-oid-ba-tamdid-kardani-muhlati-amali-hujja",
+   "short": "Тартиби пешниҳод ва баррасии дархост оид ба тамдид кардани муҳлати...",
+   "title": "Тартиби пешниҳод ва баррасии дархост оид ба тамдид кардани муҳлати амали ҳуҷҷати муҳофизатӣ барои ихтироъ",
+   "url": "https://www.wipo.int/wipolex/en/legislation/details/23627",
+   "versions": [
+    {
+     "from": "2019-03-13",
+     "units": 1,
+     "source_url": "https://www.wipo.int/wipolex/en/legislation/details/23627",
+     "sha256": "4253aab3f460036ff66f01e5fe2590fa087583bce6fcc968d9c358eeab50b3bb"
     }
    ]
   }

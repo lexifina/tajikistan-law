@@ -12,5 +12,11 @@ as a git commit credited to its publisher. The wording of the law was not change
 with the 1999 and 2003 referendum amendments and does not include the amendments of the referendum of
 22 May 2016. The Majlisi namoyandagon does not endorse this repository.
 
+Secondary copies: some versions are copies of the Tajik text published by WIPO Lex (World Intellectual
+Property Organization, https://www.wipo.int/wipolex/), marked "Source-status: secondary copy" in their commits.
+The texts are official documents (Law on Copyright, art. 7, above); WIPO Lex's terms of use
+(https://www.wipo.int/tools/en/disclaim.html) apply to WIPO's own material. The tax-authority copies
+(andoz.tj) are official texts on the same basis. Neither publisher endorses this repository.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools)
 are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

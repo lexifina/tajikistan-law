@@ -7,8 +7,9 @@ This file is written by the build on 2026-11-26, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Majlisi namoyandagon (parlament.tj), via Internet Archive | <http://parlament.tj/konstitutsiyai-jt/> | 2026-10-28 | Official legislative text (public domain as an official act); Internet Archive capture |
-| Президенти Ҷумҳурии Тоҷикистон (president.tj) | <https://president.tj/> (API <https://api.president.tj/api/constitution_special>) | 2026-11-26 | Official text of the Constitution (an official act; not subject to copyright) |
+| Президенти Ҷумҳурии Тоҷикистон (president.tj) | <https://president.tj/constitution> | 2026-11-26 | Official text of the Constitution (an official act; not subject to copyright) |
 | Кумитаи андози назди Ҳукумати Ҷумҳурии Тоҷикистон (andoz.tj) | <https://andoz.tj/Legislation/> | 2026-11-26 | Official texts (not objects of copyright, Law on Copyright of 13.11.1998, art. 7) |
+| WIPO Lex (World Intellectual Property Organization), secondary copies | <https://www.wipo.int/wipolex/en/members/profile/TJ> | 2026-11-26 | Official texts (not objects of copyright, Law on Copyright of 13.11.1998, art. 7); WIPO Lex terms of use |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -24,20 +25,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `kodeksi-grazhdanii-qismi-i` | Кодекси граждании Ҷумҳурии Тоҷикистон (қисми I) | 1 | 2020-01-02 to 2020-01-02 |
 | `kodeksi-grazhdanii-qismi-ii` | Кодекси граждании Ҷумҳурии Тоҷикистон (қисми II) | 1 | 2019-01-02 to 2019-01-02 |
 | `kodeksi-grazhdanii-qismi-iii` | Кодекси граждании Ҷумҳурии Тоҷикистон (қисми III) | 1 | 2012-07-03 to 2012-07-03 |
-| `kodeksi-gumruki` | Кодекси гумруки Ҷумҳурии Тоҷикистон | 1 | 2016-03-15 to 2016-03-15 |
-| `kodeksi-huquqvayronkunii-mamuri` | Кодекси ҳуқуқвайронкунии маъмурии Ҷумҳурии Тоҷикистон | 1 | 2025-12-17 to 2025-12-17 |
+| `kodeksi-gumruki` | Кодекси гумруки Ҷумҳурии Тоҷикистон | 2 | 2016-03-15 to 2025-10-01 |
+| `kodeksi-huquqvayronkunii-mamuri` | Кодекси ҳуқуқвайронкунии маъмурии Ҷумҳурии Тоҷикистон | 2 | 2025-12-17 to 2026-02-16 |
 | `kodeksi-jinoyati` | Кодекси ҷиноятии Ҷумҳурии Тоҷикистон | 2 | 2020-01-02 to 2025-12-17 |
-| `kodeksi-madanii` | Кодекси мадании Ҷумҳурии Тоҷикистон | 1 | 2023-07-01 to 2023-07-01 |
+| `kodeksi-madanii` | Кодекси мадании Ҷумҳурии Тоҷикистон | 2 | 2023-07-01 to 2025-05-14 |
 | `kodeksi-manzili` | Кодекси манзили Ҷумҳурии Тоҷикистон | 1 | 1997-12-12 to 1997-12-12 |
 | `kodeksi-murofiai-huquqvayronkunii-mamurii` | Кодекси мурофиаи ҳуқуқвайронкунии маъмурии Ҷумҳурии Тоҷикистон | 1 | 2020-01-02 to 2020-01-02 |
-| `kodeksi-murofiavii-jinoyatii` | Кодекси мурофиавии ҷиноятии Ҷумҳурии Тоҷикистон | 1 | 2020-07-04 to 2020-07-04 |
-| `kodeksi-murofiyavii-grazhdanii` | Кодекси мурофиявии граждании Ҷумҳурии Тоҷикистон | 1 | 2016-05-14 to 2016-05-14 |
-| `kodeksi-murofiyavii-iqtisodii` | Кодекси мурофиявии иқтисодии Ҷумҳурии Тоҷикистон | 1 | 2015-11-23 to 2015-11-23 |
+| `kodeksi-murofiavii-jinoyatii` | Кодекси мурофиавии ҷиноятии Ҷумҳурии Тоҷикистон | 2 | 2020-07-04 to 2024-01-03 |
+| `kodeksi-murofiyavii-grazhdanii` | Кодекси мурофиявии граждании Ҷумҳурии Тоҷикистон | 3 | 2016-05-14 to 2024-11-13 |
+| `kodeksi-murofiyavii-iqtisodii` | Кодекси мурофиявии иқтисодии Ҷумҳурии Тоҷикистон | 2 | 2015-11-23 to 2024-11-13 |
 | `kodeksi-obii` | Кодекси обии Ҷумҳурии Тоҷикистон | 1 | 2012-04-16 to 2012-04-16 |
 | `kodeksi-rasmiyoti-mamurii` | Кодекси расмиёти маъмурии Ҷумҳурии Тоҷикистон | 1 | 2012-12-28 to 2012-12-28 |
 | `kodeksi-shahrsozii` | Кодекси шаҳрсозии Ҷумҳурии Тоҷикистон | 1 | 2020-01-02 to 2020-01-02 |
 | `kodeksi-tandurustii` | Кодекси тандурустии Ҷумҳурии Тоҷикистон | 1 | 2017-05-18 to 2017-05-18 |
 | `kodeksi-zamini` | Кодекси замини Ҷумҳурии Тоҷикистон | 1 | 2012-08-01 to 2012-08-01 |
+| `nizomnomai-shuroi-milli-oid-ba-hamohangsozi-va-rushdi-sohai-molikiyati-zehni-dar` | Низомномаи Шӯрои миллӣ оид ба ҳамоҳангсозӣ ва рушди соҳаи моликияти зеҳнӣ дар Ҷумҳурии Тоҷикистон | 1 | 2021-06-26 to 2021-06-26 |
 | `qarori-hukumat-115-dar-borai-tanzimi-foidai-sofi-korkhonahoi-davlati-va-jamiyathoi-khojagidorie` | Қарори №115 "Дар бораи танзими фоидаи софи корхонаҳои давлатӣ ва ҷамъиятҳои хоҷагидорие, ки давлат дар сармояи оинномавии онҳо ҳисса дорад", аз 28 феврали соли 2025,№115 | 1 | 2025-02-28 to 2025-02-28 |
 | `qarori-hukumat-117-tartibi-amali-namudani-tarhkunii-shakhsii-shakhsoni-voqei-hangomi-hisobbarob` | Қарори №117 "Тартиби амалӣ намудани тарҳкунии шахсии шахсони воқеӣ ҳангоми ҳисоббаробаркуниҳои ғайринақдӣ" аз 27 марти соли 2023, №117 | 1 | 2023-03-27 to 2023-03-27 |
 | `qarori-hukumat-120-dar-borai-qoidahoi-muqarrar-namudani-andozai-bonusi-obunavi-va-bonusi-kashfi` | Қарори №120 "Дар бораи қоидаҳои муқаррар намудани андозаи бонуси обунавӣ ва бонуси кашфи тиҷоратӣ ва тартиби бастани шартномаи истифодабарии захираҳои табиӣ" | 1 | 2025-02-28 to 2025-02-28 |
@@ -75,6 +77,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `qarori-hukumat-75-dar-borai-tartibi-beetimod-etirof-kardani-qarzi-andozi-va-az-hisob-barovardan` | Қарори №75 "Дар бораи Тартиби беэътимод эътироф кардани қарзи андозӣ ва аз ҳисоб баровардани қарзи андозии беэътимод эътирофшуда" аз 2 марти соли 2023, № 75 | 1 | 2023-03-02 to 2023-03-02 |
 | `qarori-hukumat-77-dar-borai-namuna-va-meyorhoi-dodani-libosi-makhsusi-rasmii-kormandoni-maqomot` | Қарори №77 "Дар бораи намуна ва меъёрҳои додани либоси махсуси расмии кормандони мақомоти aндози Ҷумҳурии Тоҷикистон" аз 02 марти соли 2023, № 77 | 1 | 2023-03-02 to 2023-03-02 |
 | `qarori-hukumat-83-dar-bora-tartibi-peshburdi-fehristi-loihahoi-sarmoyaguzori-az-01-marti-soli-2` | Қарори №83 "Дар бора Тартиби пешбурди феҳристи лоиҳаҳои сармоягузорӣ" аз 01 марти соли 2019, № 83 | 1 | 2019-03-01 to 2019-03-01 |
+| `qarori-hukumati-jumhurii-tojikiston-dar-borai-muayyan-namudani-maqomi-vakolatdor` | Қарори Ҳукумати Ҷумҳурии Тоҷикистон «Дар бораи муайян намудани мақоми ваколатдори давлатӣ оид ба ҳифзи ихтироъ, намунаҳои саноатӣ, топологияҳои микросхемаҳои интегралӣ, ишораҳои ҷуғрофӣ, тамғаҳои молӣ ва тамғаҳои хизматрасонӣ (Идораи патентии Ҷумҳурии Тоҷикистон)» (Қарори аз 03.04.2012 № 153) | 1 | 2012-04-03 to 2012-04-03 |
+| `qarori-hukumati-jumhurii-tojikiston-dar-borai-tasisi-shuroi-milli-oid-ba-hamohan` | Қарори Ҳукумати Ҷумҳурии Тоҷикистон "Дар бораи таъсиси Шӯрои миллӣ оид ба ҳамоҳангсозӣ ва рушди соҳаи моликияти зеҳнӣ дар Ҷумҳурии Тоҷикистон" (Қарори Ҳукумати ҶТ аз 06.12.2014 № 767, бо тағйиру иловаҳо, воридшуда | 1 | 2021-06-26 to 2021-06-26 |
+| `qarori-shuroi-vazironi-jumhurii-tojikiston-dar-borai-tasisi-muassisai-davlatii-m` | Қарори Шӯрои Вазирони Ҷумҳурии Тоҷикистон "Дар бораи таъсиси Муассисаи давлатии "Маркази миллии патенту иттилоот"-и Вазорати рушди иқтисод ва савдои Ҷумҳурии Тоҷикистон" (Қарори Шӯрои Вазирони ҶТ аз 28.05.1993 № 242, бо тағйиру иловаҳо, воридшуда | 1 | 2012-08-01 to 2012-08-01 |
+| `qoidahoi-baqaydgirii-shartnoma-oid-ba-guzasht-namudani-huquqi-istisnoi-ba-tamgha` | Қоидаҳои бақайдгирии шартнома оид ба гузашт намудани ҳуқуқи истисноӣ ба тамғаи молӣ, шартномаи иҷозатномадиҳӣ ва шартномаҳои дигареро, ки ба воситаи онҳо ихтиёрдории ҳуқуқ ба тамғаи молӣ амалӣ гардонида мешаванд | 1 | 2020-01-06 to 2020-01-06 |
+| `qoidahoi-guzaronidani-attestatsiya-va-baqaydgirii-namoyandagoni-patentii-jumhuri` | Қоидаҳои гузаронидани аттестатсия ва бақайдгирии намояндагони патентии Ҷумҳурии Тоҷикистон | 1 | 2009-06-09 to 2009-06-09 |
+| `qoidahoi-maruf-donistani-tamghai-moli-dar-jumhurii-tojikiston` | Қоидаҳои маъруф донистани тамғаи молӣ дар Ҷумҳурии Тоҷикистон | 1 | 2007-07-10 to 2007-07-10 |
+| `qoidahoi-peshburdi-fehristi-davlatii-ikhtirooti-makhfii-jumhurii-tojikiston` | Қоидаҳои пешбурди Феҳристи давлатии ихтирооти махфии Ҷумҳурии Тоҷикистон | 1 | 2011-08-30 to 2011-08-30 |
+| `qoidahoi-peshnihod-va-barrasii-ariza-baroi-bakaydgirii-tamghahoi-moli` | Қоидаҳои пешниҳод ва баррасии ариза барои бакайдгирии тамғаҳои молӣ | 1 | 2022-01-12 to 2022-01-12 |
+| `qoidahoi-peshnihod-va-barrasii-ariza-baroi-dodani-patent-ba-namunai-sanoati` | Қоидаҳои пешниҳод ва баррасии ариза барои додани патент ба намунаи саноатӣ | 1 | 2020-01-06 to 2020-01-06 |
+| `qoidahoi-peshnihod-va-barrasii-ariza-baroi-dodani-patent-va-nakhustpatent-ba-ikh` | Қоидаҳои пешниҳод ва баррасии ариза барои додани патент ва нахустпатент ба ихтироъ | 1 | 2019-12-20 to 2019-12-20 |
+| `qoidahoi-peshnihodi-etiroznomaho-va-arizaho-ba-shuroi-shikoyati-va-tartibi-barra` | Қоидаҳои пешниҳоди эътирозномаҳо ва аризаҳо ба Шӯрои шикоятӣ ва тартиби баррасии онҳо | 1 | 2022-01-12 to 2022-01-12 |
+| `qoidahoi-tartibdihi-peshnihod-va-barrasii-ariza-dar-borai-baqaydgirii-topologiya` | Қоидаҳои тартибдиҳӣ, пешниҳод ва баррасии ариза дар бораи бақайдгирии топологияи микросхемаи интегралӣ | 1 | 2007-03-28 to 2007-03-28 |
+| `qonuni-dar-borai-arbitrazhi-baynalmilalii-tijorati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи арбитражи байналмилалии тиҷоратӣ" | 1 | 2015-03-18 to 2015-03-18 |
 | `qonuni-dar-borai-auditi-dokhili-dar-tashkilothoi-bakhshi-davlati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи аудити дохилӣ дар ташкилотҳои бахши давлатӣ" | 1 | 2020-12-17 to 2020-12-17 |
 | `qonuni-dar-borai-bahisobgirii-muhosibavi-va-hisoboti-moliyavi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи баҳисобгирии муҳосибавӣ ва ҳисоботи молиявӣ" | 1 | 2014-03-14 to 2014-03-14 |
 | `qonuni-dar-borai-baqaydgirii-davlatii-molu-mulki-ghayrimanqul-va-huquqho-ba-o` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи бақайдгирии давлатии молу мулки ғайриманқул ва ҳуқуқҳо ба он" | 1 | 2020-07-04 to 2020-07-04 |
@@ -93,22 +108,35 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2025` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2025" | 1 | 2025-02-27 to 2025-02-27 |
 | `qonuni-dar-borai-dastgirii-davlatii-sohahoi-kompleksi-agrosanoatii-jumhurii-t` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи дастгирии давлатии соҳаҳои комплекси агросаноатии Ҷумҳурии Тоҷикистон" | 1 | 2008-12-31 to 2008-12-31 |
 | `qonuni-dar-borai-digar-pardokhthoi-hatmi-ba-bujet` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи дигар пардохтҳои ҳатмӣ ба буҷет" | 1 | 2015-11-23 to 2015-11-23 |
+| `qonuni-dar-borai-doru-molhoi-tibbi-va-faoliyati-farmatsevti` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи дору, молҳои тиббӣ ва фаъолияти фарматсевтӣ" | 1 | 2025-05-14 to 2025-05-14 |
 | `qonuni-dar-borai-durnamohoi-davlati-konsepsiyaho-strategiyaho-va-barnomahoi-r` | Қонуни Ҷумҳурии Тоҷикистон “Дар бораи дурнамоҳои давлатӣ, консепсияҳо, стратегияҳо ва барномаҳои рушди иҷтимоию иқтисодии Ҷумҳурии Тоҷикистон” | 1 | 2018-08-02 to 2018-08-02 |
 | `qonuni-dar-borai-ekspertizai-ziddikorrupsionii-sanadhoi-meyorii-huquqi-va-loi` | Қонуни Ҷумҳурии Тоҷикистон “Дар бораи экспертизаи зиддикоррупсионии санадҳои меъёрии ҳуқуқӣ ва лоиҳаҳои санадҳои меъёрии ҳуқуқӣ” | 1 | 2019-04-04 to 2019-04-04 |
 | `qonuni-dar-borai-faoliyati-auditori` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фаъолияти аудиторӣ" | 1 | 2018-01-02 to 2018-01-02 |
+| `qonuni-dar-borai-faoliyati-bahodihi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фаъолияти баҳодиҳӣ" | 1 | 2025-01-02 to 2025-01-02 |
 | `qonuni-dar-borai-faoliyati-bonki` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фаъолияти бонкӣ" | 1 | 2014-11-27 to 2014-11-27 |
 | `qonuni-dar-borai-faoliyati-ehsonkori` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фаъолияти эҳсонкорӣ" | 1 | 2018-01-02 to 2018-01-02 |
+| `qonuni-dar-borai-faoliyati-innovatsioni` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фаъолияти инноватсионӣ" | 1 | 2012-04-16 to 2012-04-16 |
+| `qonuni-dar-borai-faoliyati-noshiri-va-poligrafi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фаъолияти ноширӣ ва полиграфӣ" | 1 | 2025-01-02 to 2025-01-02 |
 | `qonuni-dar-borai-faoliyati-savdoi-khoriji` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фаъолияти савдои хориҷӣ" | 1 | 2015-08-08 to 2015-08-08 |
+| `qonuni-dar-borai-farhang` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи фарҳанг" | 1 | 2025-01-02 to 2025-01-02 |
 | `qonuni-dar-borai-garavi-molu-mulki-manqul-va-baqaydgirii-uhdadorihoi-taminshu` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи гарави молу мулки манқул ва бақайдгирии уҳдадориҳои таъминшуда" | 1 | 2020-07-04 to 2020-07-04 |
 | `qonuni-dar-borai-garavkhona-lombard` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи гаравхона" (ломбард) | 1 | 2020-07-04 to 2020-07-04 |
+| `qonuni-dar-borai-hifzi-huquqii-topologiyahoi-mikroskhemahoi-integrali` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ҳифзи Ҳуқуқии Топологияҳои Микросхемаҳои Интегралӣ | 2 | 2006-12-22 to 2019-01-02 |
+| `qonuni-dar-borai-hifzi-ittiloot` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳифзи иттилоот" | 1 | 2005-12-26 to 2005-12-26 |
 | `qonuni-dar-borai-hifzi-mehnat` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳифзи меҳнат" | 1 | 2012-08-01 to 2012-08-01 |
+| `qonuni-dar-borai-hifzi-navhoi-rastani` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ҳифзи Навъҳои РастанӢ | 2 | 2010-12-29 to 2018-01-02 |
 | `qonuni-dar-borai-himoya-va-dastgirii-davlatii-sohibkori` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳимоя ва дастгирии давлатии соҳибкорӣ" | 1 | 2020-01-02 to 2020-01-02 |
 | `qonuni-dar-borai-himoyai-huquqi-istemolkunandagon` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳимояи ҳуқуқи истеъмолкунандагон" | 1 | 2018-01-02 to 2018-01-02 |
-| `qonuni-dar-borai-himoyai-raqobat` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳимояи рақобат" | 1 | 2017-05-18 to 2017-05-18 |
+| `qonuni-dar-borai-himoyai-raqobat` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳимояи рақобат" | 2 | 2017-05-18 to 2023-03-15 |
 | `qonuni-dar-borai-hujjati-elektroni-va-imzoi-elektroni` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳуҷҷати электронӣ ва имзои электронӣ" | 1 | 2023-03-15 to 2023-03-15 |
+| `qonuni-dar-borai-hunarhoi-badeii-khalqi` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ҳунарҳои Бадеии Халқӣ | 2 | 2003-08-01 to 2019-01-02 |
+| `qonuni-dar-borai-huquqi-muallif-va-huquqhoi-vobasta-ba-on` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҳуқуқи муаллиф ва ҳуқуқҳои вобаста ба он" | 1 | 2018-01-02 to 2018-01-02 |
 | `qonuni-dar-borai-ijorai-moliyavi-lizing` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи иҷораи молиявӣ" (лизинг) | 1 | 2016-03-15 to 2016-03-15 |
 | `qonuni-dar-borai-ijozatnomadihi-ba-baze-namudhoi-faoliyat` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи иҷозатномадиҳӣ ба баъзе намудҳои фаъолият" | 1 | 2020-07-04 to 2020-07-04 |
+| `qonuni-dar-borai-ikhtiro` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ихтироъ | 3 | 2004-02-28 to 2023-11-13 |
+| `qonuni-dar-borai-ikhtirooti-makhfi` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ихтирооти МахфӢ | 2 | 2010-07-21 to 2019-01-02 |
 | `qonuni-dar-borai-ipoteka` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ипотека" | 1 | 2020-01-02 to 2020-01-02 |
+| `qonuni-dar-borai-ishorahoi-jughrofi` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Ишораҳои Ҷуғрофӣ | 3 | 2007-03-05 to 2019-01-02 |
 | `qonuni-dar-borai-istehsoloti-ijro` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи истеҳсолоти иҷро" | 1 | 2012-07-03 to 2012-07-03 |
 | `qonuni-dar-borai-ittihodiyahoi-jamiyati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи иттиҳодияҳои ҷамъиятӣ" | 1 | 2019-01-02 to 2019-01-02 |
 | `qonuni-dar-borai-jamiyathoi-sahomi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ҷамъиятҳои саҳомӣ" | 1 | 2011-12-26 to 2011-12-26 |
@@ -117,9 +145,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `qonuni-dar-borai-khazinadori` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи хазинадорӣ" | 1 | 2019-12-25 to 2019-12-25 |
 | `qonuni-dar-borai-khizmati-davlati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи хизмати давлатӣ" | 1 | 2016-03-15 to 2016-03-15 |
 | `qonuni-dar-borai-khojagii-dehqoni-fermeri` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи хоҷагии деҳқонӣ" (фермерӣ) | 1 | 2016-03-03 to 2016-03-03 |
+| `qonuni-dar-borai-kino` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи кино" | 1 | 2020-07-04 to 2020-07-04 |
 | `qonuni-dar-borai-korkhonahoi-davlati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи корхонаҳои давлатӣ" | 1 | 2020-01-02 to 2020-01-02 |
 | `qonuni-dar-borai-maqomoti-khudidorakunii-shahrak-va-dehot` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи мақомоти худидоракунии шаҳрак ва деҳот" | 1 | 2019-04-04 to 2019-04-04 |
 | `qonuni-dar-borai-masuliyati-padaru-modar-dar-talimu-tarbiyai-farzand` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи масъулияти падару модар дар таълиму тарбияи фарзанд" | 1 | 2019-04-04 to 2019-04-04 |
+| `qonuni-dar-borai-matbuoti-davri-va-digar-vositahoi-akhbori-omma` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи матбуоти даврӣ ва дигар воситаҳои ахбори омма" | 1 | 2017-02-24 to 2017-02-24 |
 | `qonuni-dar-borai-mavodi-doruvori-va-faoliyati-farmasevti` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи маводи доруворӣ ва фаъолияти фармасевтӣ" | 1 | 2018-05-17 to 2018-05-17 |
 | `qonuni-dar-borai-mintaqahoi-ozodi-iqtisodi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи минтақаҳои озоди иқтисодӣ" | 1 | 2019-01-02 to 2019-01-02 |
 | `qonuni-dar-borai-moliyai-davlatii-jumhurii-tojikiston` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи молияи давлатии Ҷумҳурии Тоҷикистон" | 1 | 2018-05-17 to 2018-05-17 |
@@ -127,42 +157,57 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `qonuni-dar-borai-muflisshavi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи муфлисшавӣ" | 1 | 2009-05-19 to 2009-05-19 |
 | `qonuni-dar-borai-muqovimat-ba-korrupsiya` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи муқовимат ба коррупсия" | 1 | 2020-08-05 to 2020-08-05 |
 | `qonuni-dar-borai-murojiathoi-shakhsoni-voqei-va-huquqi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи муроҷиатҳои шахсони воқеӣ ва ҳуқуқӣ" | 1 | 2016-07-15 to 2016-07-15 |
+| `qonuni-dar-borai-namunahoi-sanoati` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Намунаҳои Саноатӣ | 3 | 2004-02-28 to 2019-01-02 |
 | `qonuni-dar-borai-nazorati-davlatii-moliyavi-dar-jumhurii-tojikiston` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи назорати давлатии молиявӣ дар Ҷумҳурии Тоҷикистон" | 1 | 2010-01-12 to 2010-01-12 |
 | `qonuni-dar-borai-nishondihanda-baroi-hisobho` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи нишондиҳанда барои ҳисобҳо" | 1 | 2024-06-20 to 2024-06-20 |
 | `qonuni-dar-borai-nizomi-ijozatdihi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи низоми иҷозатдиҳӣ" | 1 | 2020-07-04 to 2020-07-04 |
 | `qonuni-dar-borai-notariati-davlati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи нотариати давлатӣ" | 1 | 2019-06-20 to 2019-06-20 |
 | `qonuni-dar-borai-omori-davlati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи омори давлатӣ" | 1 | 2013-07-22 to 2013-07-22 |
 | `qonuni-dar-borai-palatai-savdoi-sanoatii-jumhurii-tojikiston` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи палатаи савдои саноатии Ҷумҳурии Тоҷикистон" | 1 | 2010-12-29 to 2010-12-29 |
+| `qonuni-dar-borai-qabul-namudani-kodeksi-gumruki-jumhurii-tojikiston-va-mavrid` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи қабул намудани кодекси гумруки Ҷумҳурии Тоҷикистон ва мавриди амал қарор додани он" | 1 | 2005-01-01 to 2005-01-01 |
+| `qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-huquqvayronkunii` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи қабул ва мавриди амал қарор додани Кодекси ҳуқуқвайронкунии маъмурии Ҷумҳурии Тоҷикистон" | 1 | 2009-04-01 to 2009-04-01 |
+| `qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-jumhurii-tojikist` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи қабул ва мавриди амал қарор додани Кодекси Ҷумҳурии Тоҷикистон оид ба мурофиаи судии иқтисодӣ" | 1 | 2008-04-01 to 2008-04-01 |
+| `qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-murofiavii-grazhd` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи қабул ва мавриди амал қарор додани Кодекси мурофиавии граждании Ҷумҳурии Тоҷикистон" | 1 | 2008-04-01 to 2008-04-01 |
+| `qonuni-dar-borai-qabul-va-mavridi-amal-qaror-dodani-kodeksi-murofiavii-jinoya` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи қабул ва мавриди амал қарор додани Кодекси мурофиавии ҷиноятии Ҷумҳурии Тоҷикистон" | 1 | 2010-04-01 to 2010-04-01 |
+| `qonuni-dar-borai-reklama` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи реклама" | 1 | 2025-01-02 to 2025-01-02 |
 | `qonuni-dar-borai-sanadhoi-meyori-huquqi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи санадҳои меъёри ҳуқуқӣ" | 1 | 2021-12-23 to 2021-12-23 |
 | `qonuni-dar-borai-sanjishi-faoliyati-subekthoi-khojagidor` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи санҷиши фаъолияти субъектҳои хоҷагидор" | 1 | 2018-07-01 to 2018-07-01 |
+| `qonuni-dar-borai-sarmoya-va-havasmandgardonii-faoliyati-sarmoyaguzori` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи сармоя ва ҳавасмандгардонии фаъолияти сармоягузорӣ" | 1 | 2025-05-14 to 2025-05-14 |
 | `qonuni-dar-borai-sarmoyaguzori` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи сармоягузорӣ" | 1 | 2016-03-03 to 2016-03-03 |
 | `qonuni-dar-borai-savdo-va-khizmatrasonii-maishi` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи савдо ва хизматрасонии маишӣ" | 1 | 2015-08-08 to 2015-08-08 |
 | `qonuni-dar-borai-sirri-davlati` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи сирри давлатӣ" | 1 | 2020-01-02 to 2020-01-02 |
+| `qonuni-dar-borai-sirri-tijorati` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Сирри Тиҷоратӣ | 2 | 2008-06-18 to 2025-02-11 |
 | `qonuni-dar-borai-sozishnomai-sarmoyaguzori` | Қонуни Ҷумҳурии Тоҷикистон “Дар бораи созишномаи сармоягузорӣ” | 1 | 2017-05-30 to 2017-05-30 |
 | `qonuni-dar-borai-sughurtai-mutaqobila` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи суғуртаи мутақобила" | 1 | 2015-08-08 to 2015-08-08 |
 | `qonuni-dar-borai-tamghahoi-moli-va-tamghahoi-khizmatrasoni` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи тамғаҳои молӣ ва тамғаҳои хизматрасонӣ" | 1 | 2019-01-02 to 2019-01-02 |
 | `qonuni-dar-borai-tanzimi-anana-va-jashnu-marosim-dar-jumhurii-tojikiston` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи танзими анъана ва ҷашну маросим дар Ҷумҳурии Тоҷикистон" | 1 | 2024-06-19 to 2024-06-19 |
 | `qonuni-dar-borai-tanzimi-davlatii-istehsol-va-muomiloti-baze-namudhoi-mahsulo` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи танзими давлатии истеҳсол ва муомилоти баъзе намудҳои маҳсулоти нафт" | 1 | 2017-02-24 to 2017-02-24 |
+| `qonuni-dar-borai-teatr-va-faoliyati-teatri` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи театр ва фаъолияти театрӣ" | 1 | 2018-01-02 to 2018-01-02 |
+| `qonuni-dar-borai-televizion-va-radioshunavoni` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи телевизион ва радиошунавонӣ" | 1 | 2022-12-24 to 2022-12-24 |
+| `qonuni-dar-borai-tukhmiparvari` | Қонуни Ҷумҳурии Тоҷикистон Дар бораи Тухмипарварӣ | 2 | 2008-01-05 to 2025-01-02 |
 | `qonuni-dar-borai-vorid-namudani-taghyiru-ilovaho-ba-kodeksi-gumruki-jumhurii` | Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ворид намудани тағйиру иловаҳо ба кодекси гумруки Ҷумҳурии Тоҷикистон" | 1 | 2022-12-16 to 2022-12-16 |
 | `qonuni-konstitutsionii-dar-borai-asosguzori-sulhu-vahdati-milli-peshvoi-milla` | Қонуни конститутсионии Ҷумҳурии Тоҷикистон "Дар бораи Асосгузори сулҳу ваҳдати миллӣ - Пешвои миллат" | 1 | 2016-11-08 to 2016-11-08 |
 | `qonuni-konstitutsionii-dar-borai-hukumati-jumhurii-tojikiston` | Қонуни конститутсионии Ҷумҳурии Тоҷикистон "Дар бораи Ҳукумати Ҷумҳурии Тоҷикистон" | 1 | 2017-07-18 to 2017-07-18 |
 | `qonuni-konstitutsionii-dar-borai-majlisi-olii-jumhurii-tojikiston` | Қонуни конститутсионии Ҷумҳурии Тоҷикистон "Дар бораи Маҷлиси Олии Ҷумҳурии Тоҷикистон" | 1 | 2017-07-18 to 2017-07-18 |
 | `qonuni-konstitutsionii-dar-borai-maqomoti-mahallii-hokimiyati-davlati` | Қонуни конститутсионии Ҷумҳурии Тоҷикистон "Дар бораи мақомоти маҳаллии ҳокимияти давлатӣ" | 1 | 2020-12-17 to 2020-12-17 |
 | `qonuni-konstitutsionii-dar-borai-maqomoti-prokuraturai-jumhurii-tojikiston` | Қонуни конститутсионии Ҷумҳурии Тоҷикистон "Дар бораи мақомоти Прокуратураи Ҷумҳурии Тоҷикистон" | 1 | 2020-12-17 to 2020-12-17 |
+| `qonuni-konstitutsionii-dar-borai-sudhoi-jumhurii-tojikiston` | Қонуни конститутсионии Ҷумҳурии Тоҷикистон "Дар бораи судҳои Ҷумҳурии Тоҷикистон" | 2 | 2024-11-13 to 2025-12-17 |
+| `tartib-va-sharthoi-vorid-namudani-nomi-rasmi-parcham-nishoni-davlatii-jumhurii-t` | Тартиб ва шартҳои ворид намудани номи расми, Парчам, Нишони давлатии Ҷумҳурии Тоҷикистон ва дигар рамзҳои давлати ҳамчун унсурҳои ҳифзнашавандаи тамғаи моли | 1 | 2025-12-25 to 2025-12-25 |
+| `tartibi-peshnihod-va-barrasii-darkhost-oid-ba-tamdid-kardani-muhlati-amali-hujja` | Тартиби пешниҳод ва баррасии дархост оид ба тамдид кардани муҳлати амали ҳуҷҷати муҳофизатӣ барои ихтироъ | 1 | 2019-03-13 to 2019-03-13 |
 
-The build made 149 commits:
+The build made 214 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 133 | first version of an act |
+| 177 | first version of an act |
 | 7 | one law on its in-force day |
-| 9 | changes no amendment note explains, credited to the publisher |
+| 30 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-26.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 10 laws in the record.
-- 156 tags.
+- 221 tags.
 
 ## Dates
 
@@ -174,8 +219,8 @@ When a law gives no date of its own, the default rule applies: Constitutional am
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5fedc2cf0be745e220ffa0aecb4b540c3b13fb0cb05876b598194bd0c49ce531` (41533812 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `026366e644eb8fbca6a8b3af001502074a941a96`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `273c33c57e57b29b5390647556c5d82e60428095b000e5c7f1e2d2cdc9208b08` (53416681 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `afe4be4e367cc15accc01d1e27eb222d8441b3c9`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -193,10 +238,7 @@ No second build of this corpus has been compared yet.
 - andoz.tj PDFs: text layer only (no OCR). Two legacy Tajik font encodings are mapped back to standard letters per document; running headers and page numbers are dropped; PDF lines are joined into paragraphs. Chapter and section headings go into the file of the article that follows them.
 - andoz.tj acts other than the Tax Code are single consolidated editions, dated by the latest date their heading or amendment list names (In-force-basis trailer); they are "oldest version available" commits credited to the publisher.
 - andoz.tj Tax Code: three acts (2004 code, 2012 code, 2021 code in force from 2022-01-01); each listed edition is a version, dated by the date the publisher gives; editions named after an amending law are credited to that law, the rest to the publisher.
-- Constitution, 2016 edition (2026-11-26): read from the President's site API (api.president.tj/api/constitution_special), which names the referendums of 1999, 2003 and 2016. Dated 2016-05-22, the referendum day (same rule as 2003); under Transitional provisions item 1 it took effect on official publication, a day not found at a reachable source (In-force-basis trailer). Units whose two editions differ only in line breaks, spaces, punctuation or letter case keep the 2003 text (57 units), so the referendum is credited only with word changes (55 units, incl. the new Transitional provisions). Spelling updates in the 2016 text (e.g. мӯҳлат → муҳлат, фавқулодда → фавқулода) stay as the source prints them.
-- The 2016 commit was appended on top of the existing history (fast-forward), so it follows the 2026 documentation commits; its date and In-force trailer give its place in time.
-- Layout: one folder per act at the root (Tajik names, ASCII-folded: `konstitutsiya/`, `kodeksi-andoz/`, `kodeksi-madanii/`, `qonuni-dar-borai-.../`, `qarori-hukumat-.../`; a government resolution, which has numbered points and no articles, is one file `matn.md`), one file per article (`art-NNN.md`), chapter headings `bob-NN.md`, `preamble.md`, `muqarraroti-intiqoli.md`; one commit per version at 12:00 Asia/Dushanbe on the in-force day, authored by the amending law (`<key>@parlament.invalid`), committer Lexifina.
-- Not reachable from here on 2026-11-26: ncz.tj (National Center for Legislation, connection timeout), adlia.tj (FoxWeb "Broker Timed Out"), parlament.tj and majmilli.tj (timeout). Codes and laws come from the Tax Committee's site (andoz.tj) until ncz.tj answers. Held from andoz.tj: the Forest and Labour Codes and 9 laws (no date in the text), the civil-service ethics code and the commodity-exchange law (no articles found), one resolution with no text layer (no OCR), and the second copy of the 2020 Criminal Code.
+- WIPO Lex Tajik PDFs (secondary copies, Source-status trailer): text layer only, read like the andoz.tj PDFs. A WIPO version is dated by the date of the last amending law WIPO Lex names for it (In-force-basis trailer), or by the entry-into-force / adoption day it gives for an unamended text. Official versions win; WIPO versions older than the latest version already published are held, since adding them would need a history rewrite.
 
 ## What AI did and did not do
 
