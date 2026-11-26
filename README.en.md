@@ -11,7 +11,7 @@ The law of Tajikistan as a git history: one file per article, one commit per ver
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Tajikistan's national law, which global-law reads at `tajikistan/national/acts/`.
 
-**What is in it now:** the Constitution of the Republic of Tajikistan in one version, the edition with the amendments of the referendums of 26 September 1999 and 22 June 2003, as the Majlisi namoyandagon published it: 100 articles, the preamble and 10 chapter headings. It is not the Constitution in force today, as the amendments of the referendum of 22 May 2016 are not in it, and no other act is here yet. [`REPRODUCE.md`](REPRODUCE.md) says how it was built; [`data/laws.csv`](data/laws.csv) lists the referendums its commit names.
+**What is in it now:** the Constitution of the Republic of Tajikistan in force, with the amendments of the referendum of 22 May 2016 (from the President's site, president.tj), on top of the 1999+2003 edition as the Majlisi namoyandagon published it: 100 articles, the preamble, 10 chapter headings and the Transitional provisions, 2 versions. No code or statute yet: the official legal database (ncz.tj) and the parliament sites do not answer from here. [`REPRODUCE.md`](REPRODUCE.md) says how it was built; [`data/laws.csv`](data/laws.csv) lists the referendums.
 
 Each act is one folder (`konstitutsiya/` is the Конститутсияи (Сарқонуни) Ҷумҳурии Тоҷикистон, the Constitution), with one file per article (`art-001.md` to `art-100.md`), one per chapter heading (`bob-01.md` to `bob-10.md`), `preamble.md`, and a `README.md` listing them.
 
@@ -49,7 +49,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 Each commit is dated at noon, Asia/Dushanbe, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-- for the one version so far, 22 June 2003, the day of the referendum the source names for this edition, as the source gives no day the edition took effect;
+- for the 1999+2003 edition, 22 June 2003, and for the 2016 edition, 22 May 2016: the days of the referendums the sources name. The 2016 amendments took effect on their official publication after the result was announced (Transitional provisions, item 1), a day not found at a source reachable from here; the `In-force-basis:` trailer says so;
 - `tools/on.py` picks the version in force on a day by this trailer, not by the commit date.
 
 That version is the "oldest version available", credited to its publisher, the Majlisi namoyandagon of the Majlisi Oli (parlament.tj), not to a law; its commit message names the referendums of 6 November 1994 and 26 September 1999 as having produced the text. Later versions are credited to the law that made each change.
@@ -63,7 +63,7 @@ That version is the "oldest version available", credited to its publisher, the M
 
 ## What it does not show
 
-- **The Constitution in force today.** The amendments of the referendum of 22 May 2016 are not in this text; a version with them is added when an official text of the current edition is found.
+- **Codes and statutes.** The Civil, Criminal and procedure codes and every other act: the official database ncz.tj, adlia.tj (its server answers "Broker Timed Out") and parlament.tj / majmilli.tj time out from here.
 - **Earlier texts.** The 1994 original and the 1999 edition are named in the record, but their texts are not here.
 - **Any other law**: codes, laws, presidential decrees, government resolutions, case law, local acts and treaties are not here yet.
 - **The Russian text**, the language of interethnic communication (Article 2).
@@ -73,6 +73,7 @@ That version is the "oldest version available", credited to its publisher, the M
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Majlisi namoyandagon](https://web.archive.org/web/20170607141323/http://parlament.tj/konstitutsiyai-jt/) (lower chamber of the Majlisi Oli, parlament.tj) | Parliament's text of the Constitution | no, one edition | The text of this record, read from the Internet Archive capture of 7 June 2017 |
+| [President of the Republic of Tajikistan](https://president.tj/) (president.tj) | The Constitution as in force, with the 1999, 2003 and 2016 amendments | no, the current edition | The 2016 version, read on 26 November 2026 |
 | Majlisi milli (upper chamber, majmilli.tj) | Parliament's text of the Constitution | no, one edition | A second copy (capture of 7 March 2018), compared article by article |
 
 ## Licence
