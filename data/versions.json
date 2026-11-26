@@ -20,6 +20,1944 @@
      "sha256": "702729f67524e4bcd1096c5862964058371fcca0933235938f7474ab27bd2622"
     }
    ]
+  },
+  {
+   "slug": "kodeksi-andoz",
+   "short": "Кодекси андоз",
+   "title": "Кодекси андози Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/TaxCode",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 400,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__01-01-2022-RT_tj.pdf",
+     "sha256": "223ec466c39a4294b0a3776165c37437267f301015eeca7c05eed91d158b2f77"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 400,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__18-03-2022-RT_tj.pdf",
+     "sha256": "859236f7686f638e910ba9497317e4cd1c9ce2b995c97d9d4cbc7017955f81f7"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 398,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__15-03-2023-RT_tj.pdf",
+     "sha256": "0b2bc974fbb9874f5fb1b4f767c17b09fecc0c59a4afbd0065c80e14fd2c7461"
+    },
+    {
+     "from": "2023-11-13",
+     "units": 398,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__13_11_2023-RT_tj.pdf",
+     "sha256": "55daa5dc60d7efd546b3c27a8f0f6ecba23719d2aea7049a178d6dbf83f8fbc9"
+    },
+    {
+     "from": "2024-06-20",
+     "units": 399,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__20_06_2024-RT_tj.pdf",
+     "sha256": "cc4ca1f86ae48d659741abd4e10828355d083eef92c6bbb9f3bd51e81f01fa33"
+    },
+    {
+     "from": "2025-04-15",
+     "units": 398,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__15_04_2025-RT_tj.pdf",
+     "sha256": "9df27d0f79a8067b7d7f78c861674ae8ee50b57ac888e72471b0dee811bd28d6"
+    },
+    {
+     "from": "2025-05-14",
+     "units": 398,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__14_05_2025-RT_tj.pdf",
+     "sha256": "974c9ef16c812148886be66d1fb7a10eaf46874ac493b4fe7ade88791bd54339"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-andoz-2004",
+   "short": "Кодекси андоз (2004)",
+   "title": "Кодекси андози Ҷумҳурии Тоҷикистон (2004)",
+   "url": "https://andoz.tj/Legislation/TaxCode",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 353,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__29-12-2010-RT_tj.pdf",
+     "sha256": "e09005879b8ec3d2681657ca7ffa9f94ae1f178d8a02baea97f72241575ce9cf"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-andoz-2012",
+   "short": "Кодекси андоз (2012)",
+   "title": "Кодекси андози Ҷумҳурии Тоҷикистон (2012)",
+   "url": "https://andoz.tj/Legislation/TaxCode",
+   "versions": [
+    {
+     "from": "2012-09-15",
+     "units": 330,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__15-09-2012-RT_tj.pdf",
+     "sha256": "dd96bdb39f55067553f9ec6e979a667d5ddd37a8dceff716f4bc9d62e697fc19"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 329,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__01-01-2015-RT_tj.pdf",
+     "sha256": "898adc8e3db1e7b9bded64a90370baa9258bd4f0408e6bc9c3a77148edbc6cce"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 330,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__01-01-2016-RT_tj.pdf",
+     "sha256": "be9397aae130ce6997204ad3c7f43770cc537b692641600f16c4e0c74881cebb"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 332,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__01-01-2017-RT_tj.pdf",
+     "sha256": "e299b584fbfa98b003be3fd3d3d427769456ba3569ecc0a55ad66af93904c296"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 331,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__01-01-2018-RT_tj.pdf",
+     "sha256": "c9f5fa1d75174dfe8582f0dddfd0a117d34e469d93744390137d5ccb34d1f0b6"
+    },
+    {
+     "from": "2019-07-19",
+     "units": 332,
+     "source_url": "https://andoz.tj/docs/kodex/Tax-Code__19-07-2019-RT_tj.pdf",
+     "sha256": "4796e55d4aeb6f5dd543a8f98adc9b133d9ad0caccfba8b8ecd52fd9a36d633c"
+    },
+    {
+     "from": "2020-01-02",
+     "units": 332,
+     "source_url": "https://andoz.tj/docs/kodex/KATJ2020.pdf",
+     "sha256": "00aab10174b81bade39723cbfeef67f437bf9ba994513dca0859d3dc12ffb4db"
+    },
+    {
+     "from": "2021-01-17",
+     "units": 339,
+     "source_url": "https://andoz.tj/docs/kodex/KATJ2021_tj.pdf",
+     "sha256": "3088af631491c5c6ff17c9b8b7a04b7ee7a35906d7cfcdf672ecf8845c531e72"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-fazoi-havoii",
+   "short": "Кодекси фазои ҳавоии",
+   "title": "Кодекси фазои ҳавоии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2016-05-14",
+     "units": 131,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%20%D1%84%D0%B0%D0%B7%D0%BE%D0%B8%20%D1%85%D0%B0%D0%B2%D0%BE%D0%B8%D0%B8%20%D2%B6%D0%A2.pdf",
+     "sha256": "c2d4e7a7e3e7405a9b0bec15886b9d678dfa451d21d3d91839e77c77403e4849"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-grazhdanii-qismi-i",
+   "short": "Кодекси граждании",
+   "title": "Кодекси граждании Ҷумҳурии Тоҷикистон (қисми I)",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 491,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%961__Civil_code-I_RT_tj.pdf",
+     "sha256": "b0d78e0af4378c38be39885bff976c0d2fa18fe9d354cb1b4e1140582a4d62a4"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-grazhdanii-qismi-ii",
+   "short": "Кодекси граждании",
+   "title": "Кодекси граждании Ҷумҳурии Тоҷикистон (қисми II)",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2019-01-02",
+     "units": 638,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%961__Civil_code-II_RT_tj.pdf",
+     "sha256": "2cd746361387a4f438c76f2286c49a1ac2a2bfc45f2773d6ee3bef7a807858dd"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-grazhdanii-qismi-iii",
+   "short": "Кодекси граждании",
+   "title": "Кодекси граждании Ҷумҳурии Тоҷикистон (қисми III)",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2012-07-03",
+     "units": 112,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%961__Civil_code-III_RT_tj.pdf",
+     "sha256": "d898d4a5366794fcd4557530cebe0ab904aecfc8f43806189f7b6ac01a5bcb10"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-gumruki",
+   "short": "Кодекси гумруки",
+   "title": "Кодекси гумруки Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 514,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%967__Customs_code_RT_tj.pdf",
+     "sha256": "5056843f05f39ec7c79d8f52d0437ebbbbb9efabe8c8ebca4cb89e3ee8989744"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-huquqvayronkunii-mamuri",
+   "short": "Кодекси ҳуқуқвайронкунии маъмурӣ",
+   "title": "Кодекси ҳуқуқвайронкунии маъмурии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 738,
+     "source_url": "https://andoz.tj/docs/kodex/HUQUQVAYRONKUNI-2025_tj.pdf",
+     "sha256": "6eeda14b41cbdd35a453118b07b41b1dccb8032666637e5d802c96a3bcf2fad8"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-jinoyati",
+   "short": "Кодекси ҷиноятӣ",
+   "title": "Кодекси ҷиноятии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 456,
+     "source_url": "https://andoz.tj/docs/zakoni/Kodexi%20JJ%201661%20toj.pdf",
+     "sha256": "eb221b74c09a18d9cbf49a54eb63e1404002e9ade937dac7960540cd84c956b5"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 463,
+     "source_url": "https://andoz.tj/docs/kodex/JINOYATI-2025_tj.pdf",
+     "sha256": "396a5e54ab6dd7e4bddc62644701a1d52c4600ba33b266f3bbf527efe38e0436"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-madanii",
+   "short": "Кодекси мадании",
+   "title": "Кодекси мадании Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1351,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Kodex_Madani_2024_RT_tj.pdf",
+     "sha256": "35f0726b4441d50e4999cb2baa4a3b77ecb3c82d619e9d3789067ac6cbdf083e"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-manzili",
+   "short": "Кодекси манзили",
+   "title": "Кодекси манзили Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "1997-12-12",
+     "units": 156,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%9613__Housing_code_RT_tj.pdf",
+     "sha256": "aee046c700c4d602a6ee89e00330b81f9fc7b5111cb36b5c5750bba631fc1df5"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-murofiai-huquqvayronkunii-mamurii",
+   "short": "Кодекси мурофиаи ҳуқуқвайронкунии маъмурии",
+   "title": "Кодекси мурофиаи ҳуқуқвайронкунии маъмурии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 252,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%9614__Administrative_offenses_procedure_RT_tj.pdf",
+     "sha256": "b805e306771f07c029839a34b162ccb40703207129dce49518d10c5456bf416c"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-murofiavii-jinoyatii",
+   "short": "Кодекси мурофиавии ҷиноятии",
+   "title": "Кодекси мурофиавии ҷиноятии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 491,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%20%D0%BC%D1%83%D1%80%D0%BE%D1%84%D0%B8%D0%B0%D0%B2%D0%B8%D0%B8%20%D2%B7%D0%B8%D0%BD%D0%BE%D1%8F%D1%82%D0%B8%D0%B8%20%D2%B6%D0%A2.pdf",
+     "sha256": "d460495324e4f173d5672ca5837f4f41754b92ac0ccb55fb92f904a4afd0f2a6"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-murofiyavii-grazhdanii",
+   "short": "Кодекси мурофиявии граждании",
+   "title": "Кодекси мурофиявии граждании Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2016-05-14",
+     "units": 434,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%963__Civil_procedure_RT_tj.pdf",
+     "sha256": "2cbe0479953951dd220b26cf849dbf50a327d33541edc98e79d059ae89f5173b"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-murofiyavii-iqtisodii",
+   "short": "Кодекси мурофиявии иқтисодии",
+   "title": "Кодекси мурофиявии иқтисодии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 323,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%9611__Economic_procedure_code_RT_tj.pdf",
+     "sha256": "1d0936d997303c12212d18605062d178708ca7a2c57eb376ed380889ff85e2a2"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-obii",
+   "short": "Кодекси обии",
+   "title": "Кодекси обии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2012-04-16",
+     "units": 159,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%965__Water_code_RT_tj.pdf",
+     "sha256": "ed468b62495a557642ec5ca49d1a8da1eabfd976367cb90dcd00886a53334151"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-rasmiyoti-mamurii",
+   "short": "Кодекси расмиёти маъмурии",
+   "title": "Кодекси расмиёти маъмурии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2012-12-28",
+     "units": 140,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%9612__Administrative_procedure_RT_tj.pdf",
+     "sha256": "d0f037c46b899538a73afd45e1c33ad7239f5ddf82338d3874eeaa3ebc96d1a6"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-shahrsozii",
+   "short": "Кодекси шаҳрсозии",
+   "title": "Кодекси шаҳрсозии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 90,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%20%D1%88%D0%B0%D2%B3%D1%80%D1%81%D0%BE%D0%B7%D0%B8%D0%B8%20%D2%B6%D0%A2.pdf",
+     "sha256": "c895b18e9f51e5ba824b2b6183dfd4f3afede35d9d14595904b31457662ca5a2"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-tandurustii",
+   "short": "Кодекси тандурустии",
+   "title": "Кодекси тандурустии Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 224,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/%D0%9A%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8%20%D1%82%D0%B0%D0%BD%D0%B4%D1%83%D1%80%D1%83%D1%81%D1%82%D0%B8%D0%B8%20%D2%B6%D0%A2.pdf",
+     "sha256": "6ccc6dc19a93da96d583ea9041af02552a4d43d25cdb64cc70b71fff8dd8c88c"
+    }
+   ]
+  },
+  {
+   "slug": "kodeksi-zamini",
+   "short": "Кодекси замини",
+   "title": "Кодекси замини Ҷумҳурии Тоҷикистон",
+   "url": "https://andoz.tj/Legislation/OtherCodes",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 129,
+     "source_url": "https://andoz.tj/docs/drugie-kodeksi/Code_%E2%84%964__Land_code_RT_tj.pdf",
+     "sha256": "3f1616cd1c37a0bfffbafbb5bea6eca14ef8149fdf7449f6048c4bd811eb40f6"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-115-dar-borai-tanzimi-foidai-sofi-korkhonahoi-davlati-va-jamiyathoi-khojagidorie",
+   "short": "Қарори №115 \"танзими фоидаи софи корхонаҳои давлатӣ ва ҷамъиятҳои х...",
+   "title": "Қарори №115 \"Дар бораи танзими фоидаи софи корхонаҳои давлатӣ ва ҷамъиятҳои хоҷагидорие, ки давлат дар сармояи оинномавии онҳо ҳисса дорад\", аз 28 феврали соли 2025,№115",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror_115_Foidai_Sof_2025_tj.pdf",
+     "sha256": "5eb5f6b48b6613c3a3b887005b8319ec06c8dcd22963e696b94f083fe4cbc295"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-117-tartibi-amali-namudani-tarhkunii-shakhsii-shakhsoni-voqei-hangomi-hisobbarob",
+   "short": "Қарори №117 \"Тартиби амалӣ намудани тарҳкунии шахсии шахсони воқеӣ...",
+   "title": "Қарори №117 \"Тартиби амалӣ намудани тарҳкунии шахсии шахсони воқеӣ ҳангоми ҳисоббаробаркуниҳои ғайринақдӣ\" аз 27 марти соли 2023, №117",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror117_2023_RT_tj.pdf",
+     "sha256": "f7180aacc95a71d50d541329ef58d73457d556f970fedff5c183ca55b57dfe8a"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-120-dar-borai-qoidahoi-muqarrar-namudani-andozai-bonusi-obunavi-va-bonusi-kashfi",
+   "short": "Қарори №120 \"қоидаҳои муқаррар намудани андозаи бонуси обунавӣ ва б...",
+   "title": "Қарори №120 \"Дар бораи қоидаҳои муқаррар намудани андозаи бонуси обунавӣ ва бонуси кашфи тиҷоратӣ ва тартиби бастани шартномаи истифодабарии захираҳои табиӣ\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/qarori_120.pdf",
+     "sha256": "633ec8c5054754935e69acbe2b12681cc73d9b2054b02090714d49f790c2bb16"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-126-dar-borai-meyorhoi-andozi-aksiz-baroi-baze-molhoi-dar-jumhurii-tojikiston-is",
+   "short": "Қарори №126 \"меъёрҳои андози аксиз барои баъзе молҳои дар Ҷумҳурии...",
+   "title": "Қарори №126 \"Дар бораи меъёрҳои андози аксиз барои баъзе молҳои дар Ҷумҳурии Тоҷикистон истеҳсолшаванда ва ба Ҷумҳурии Тоҷикистон воридшаванда\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2012-06-30",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Resolution__%E2%84%96126_gov_RT_tj.pdf",
+     "sha256": "ac0546b944cd6f92c442ff2ec24b31c88d2406de04c4be2e39f0d740da01d70b"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-143-dar-borai-tasdiqi-barnomai-davlatii-tatbiqi-konsepsiyai-peshg-ii-inkishofi-q",
+   "short": "Қарори №143 \"тасдиқи барномаи давлатии татбиқи Консепсияи пешгўии и...",
+   "title": "Қарори №143 \"Дар бораи тасдиқи барномаи давлатии татбиқи Консепсияи пешгўии инкишофи қонунгузории Ҷумҳурии Тоҷикистон дар соҳаи молия, андозу гумрук ва фаъолияти бонкӣ барои солҳои 2012-2015\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2012-04-03",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Resolution__%E2%84%96143_gov_RT_tj.pdf",
+     "sha256": "8b8ad9318cb290a58fe125a50cc4392a877d6a8dac9b4f5d9bd1a7c72896c8d8"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-151-dar-borai-qoidahoi-andozbandii-faoliyati-sohibkoroni-infirodii-dar-asosi-pat",
+   "short": "Қарори №151 \"Қоидаҳои андозбандии фаъолияти соҳибкорони инфиродии д...",
+   "title": "Қарори №151 \"Дар бораи Қоидаҳои андозбандии фаъолияти соҳибкорони инфиродии дар асоси Патент ё Шаҳодатнома фаъолдияткунанда бо қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 31 марти соли 2022\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror151_2022_Tj.pdf",
+     "sha256": "60c20001fc0befcb8a156c2973c66ef1e6bce14c9a7844e920f434385188c6e8"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-155-tartibi-az-hisob-barovardani-qarzhoi-beetimod-az-rui-andozho-jarimaho-va-foi",
+   "short": "Қарори №155 \"Тартиби аз ҳисоб баровардани қарзҳои беэътимод аз рӯи...",
+   "title": "Қарори №155 \"Тартиби аз ҳисоб баровардани қарзҳои беэътимод аз рӯи андозҳо, ҷаримаҳо ва фоизҳо, ки бо қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 3 марти соли 2014, №155 тасдиқ гардидааст.\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2014-03-03",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Resolution__%E2%84%96155_gov_RT_tj.pdf",
+     "sha256": "00fc915f507df1d637d9ddda3dd330ab1c5fb78c834c044dad955a687345a6e5"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-178-dar-borai-tartibi-bargardonidani-mablaghi-barziyod-bahisobgiriftashudai-ando",
+   "short": "Қарори №178 \"Тартиби баргардонидани маблағи барзиёд баҳисобгирифташ...",
+   "title": "Қарори №178 \"Дар бораи Тартиби баргардонидани маблағи барзиёд баҳисобгирифташудаи андоз аз арзиши иловашудаи нисбат ба маблағи ҳисобшудаи андоз дар давраи андозӣ\" аз 26 апрели соли 2022, № 178",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror178_2022_RT_tj.pdf",
+     "sha256": "64510a232df3f5fa92fde77bfdbde099ab3b30d3d28042289fe83b3fb2ea5cb8"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-18-dar-borai-meyori-pardokht-az-foidai-sofi-korkhonahoi-davlati-va-jamiyathoi-kh",
+   "short": "Қарори №18 \"меъёри пардохт аз фоидаи софи корхонаҳои давлатӣ ва ҷам...",
+   "title": "Қарори №18 \"Дар бораи меъёри пардохт аз фоидаи софи корхонаҳои давлатӣ ва ҷамъиятҳои хоҷагидорие, ки давлат дар сармояи оинномавии онҳо ҳисса дорад\" аз 27 марти соли 2023, № 118",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror118_2023_tj.pdf",
+     "sha256": "abe56471304df9c0059f9b337c94cfed18a1fe5dabf0131b01c230dbe4eb8373"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-187-dar-borai-vorid-namudani-taghyirot-va-beetibor-donistani-baze-qarorhoi-hukum",
+   "short": "Қарори №187 \"ворид намудани тағйирот ва беэътибор донистани баъзе қ...",
+   "title": "Қарори №187 \"Дар бораи ворид намудани тағйирот ва беэътибор донистани баъзе қарорҳои Ҳукумати Ҷумҳурии Тоҷикистон\" аз 26 апрели соли 2022, № 187",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-04-26",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror187_2022_RT_tj.pdf",
+     "sha256": "38f0790deda11ac9a5ab8a60c19efb510d32594fc3021bad9b5e1fdc26f98480"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-20-dar-borai-vorid-namudani-taghyirot-ba-qarori-hukumati-jumhurii-tojikiston-az",
+   "short": "Қарори №20 \"ворид намудани тағйирот ба қарори Ҳукумати Ҷумҳурии Тоҷ...",
+   "title": "Қарори №20 \"Дар бораи ворид намудани тағйирот ба қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 22 июни соли 2019, №327\" аз 3 феврали соли 2022, № 20",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror20_2022_RT_tj.pdf",
+     "sha256": "5c63685039424506647fe1c430aafea84193209f5faff4ff9dbb8fc0f446e1b5"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-206-dar-borai-meyorhoi-andozi-zamin-va-andozi-yagonai-kishovarzi-baroi-solhoi-20",
+   "short": "Қарори №206 \"меъёрҳои андози замин ва андози ягонаи кишоварзӣ барои...",
+   "title": "Қарори №206 \"Дар бораи меъёрҳои андози замин ва андози ягонаи кишоварзӣ барои солҳои 2022-2026\" аз 27 апрели соли 2022, № 206",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror206_2022_RT_tj.pdf",
+     "sha256": "57275977d94fcd84171080cb09fe1dafd13c3d31f39097b263327301a5bd9b67"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-248-dar-borai-tartibi-pur-kardan-va-peshnihod-namudani-elomiya-oid-ba-andoz-az-d",
+   "short": "Қарори №248 \"тартиби пур кардан ва пешниҳод намудани эъломия оид ба...",
+   "title": "Қарори №248 \"Дар бораи тартиби пур кардан ва пешниҳод намудани эъломия оид ба андоз аз даромад\" аз 21 майи соли 2022, № 248",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror248_2023_RT_tj.pdf",
+     "sha256": "7f1210efc74349f145d742a67b087f11bdfdd4b4c6a08a51c96d83792ba2a608"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-263-dar-borai-ramzguzorii-elektroni-faoliyati-operatoroni-paygirikunandai-gardis",
+   "short": "Қарори №263 \"рамзгузории электронӣ, фаъолияти операторони пайгирику...",
+   "title": "Қарори №263 \"Дар бораи рамзгузории электронӣ, фаъолияти операторони пайгирикунандаи гардиши молҳо ва раванди назорати онҳо\" аз 12 июни соли 2023, №263",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qarori_263_2023_tj.pdf",
+     "sha256": "b17f9aee62beb8087f685d9ff503427ad4d27fb34eecddef309797d68ee62eda"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-276-dar-borai-tartibi-korguzori-va-bahisobgirii-omori-oid-ba-murojiathoi-shakhso",
+   "short": "Қарори №276 \"Тартиби коргузорӣ ва баҳисобгирии оморӣ оид ба муроҷиа...",
+   "title": "Қарори №276 \"Дар бораи Тартиби коргузорӣ ва баҳисобгирии оморӣ оид ба муроҷиатҳои шахсони воқеӣ ва ҳуқуқӣ\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/%D0%9A%D0%B0%D1%80%D0%BE%D1%80%D0%B8%20%D0%A5%D0%A7%D0%A2%20%D0%9E%D0%B8%D0%B4%D0%B8%20%D0%BA%D0%BE%D1%80%D0%B3%D1%83%D0%B7%D0%BE%D1%80%D0%B8%D0%B8%20%E2%84%96276.pdf",
+     "sha256": "87243bb79ecd80a5c4a2d1bff0c89f4cc89e02f290b4d9bba2320e8301c58561"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-302-dar-borai-meyorhoi-andozi-aksiz-baroi-baze-molhoi-dar-jumhurii-tojikiston-is",
+   "short": "Қарори №302 \"меъёрҳои андози аксиз барои баъзе молҳои дар Ҷумҳурии...",
+   "title": "Қарори №302 \"Дар бораи меъёрҳои андози аксиз барои баъзе молҳои дар Ҷумҳурии Тоҷикистон истеҳсолшаванда ва ба Ҷумҳурии Тоҷикистон воридшаванда\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Resolution__%E2%84%96302_gov_RT_tj.pdf",
+     "sha256": "4a27d957feed55cf870e4f71e4e295aa3dc62892e41f28c25209a128202d6aa0"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-360-dar-borai-qoidahoi-bahisobgiri-dodani-raqami-mushakhkhasi-andozsuporanda-va",
+   "short": "Қарори №360 \"Қоидаҳои баҳисобгирӣ, додани рақами мушаххаси андозсуп...",
+   "title": "Қарори №360 \"Дар бораи Қоидаҳои баҳисобгирӣ, додани рақами мушаххаси андозсупоранда ва рамзҳои сабабҳои ба ҳисоб гузоштан\" аз 29.07.2022",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror360_2022_tj.pdf",
+     "sha256": "4171f13bba305cb0257cc47efd329721fc217b5caa44f9bc574d3a8415f99f46"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-361-tartibi-az-andoz-az-arzishi-ilovashuda-ozod-namudani-mol-kor-khizmatrasoni-i",
+   "short": "Қарори №361 \"Тартиби аз андоз аз арзиши иловашуда озод намудани мол...",
+   "title": "Қарори №361 \"Тартиби аз андоз аз арзиши иловашуда озод намудани мол (кор, хизматрасонӣ)-и аз ҳисоби маблағҳои созишномаҳои қарзӣ (грантӣ) барои амалисозии лоиҳаҳои сармоягузории давлатӣ харидашаванда\" аз 29.07.2022, №361",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror361_2022_Tj.pdf",
+     "sha256": "5ee695805fd2a645c4a91bf6efc1a26dd5cf59fc02e500422e1db296261cc491"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-363-dar-borai-nomguyi-mahsuloti-makhsusi-istifodai-infirodi-baroi-mayubon-ki-tah",
+   "short": "Қарори №363 \"Номгӯйи маҳсулоти махсуси истифодаи инфиродӣ барои маъ...",
+   "title": "Қарори №363 \"Дар бораи Номгӯйи маҳсулоти махсуси истифодаи инфиродӣ барои маъюбон, ки таҳвил ва воридоти онҳо аз пардохти андоз аз арзиши иловашуда ва боҷҳои гумрукӣ озод мебошанд\" аз 29 июли соли 2022, № 363",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror363_2022_RT_tj.pdf",
+     "sha256": "6313a6befe943bfb58e7b4333c03ca7807dbf803d761fe6fc1abd07acbe4910e"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-384-oid-ba-vorid-namudani-taghyiru-ilovaho-ba-qarori-hukumati-jumhurii-tojikisto",
+   "short": "Қарори №384 \"Оид ба ворид намудани тағйиру иловаҳо ба қарори Ҳукума...",
+   "title": "Қарори №384 \"Оид ба ворид намудани тағйиру иловаҳо ба қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 9 июни соли 2018, №302\" аз 29 июли соли 2022, № 384",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror384_2022_RT_tj.pdf",
+     "sha256": "101125575d86622a7c038fdf26c97f1dc036b898039f5070acebedd1bda09ac6"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-390-tartibi-istifodai-usulhoi-alternativii-andozbandi-bo-maqsadi-tatbiqi-choraho",
+   "short": "Қарори №390 \"Тартиби истифодаи усулҳои алтернативии андозбандӣ бо м...",
+   "title": "Қарори №390 \"Тартиби истифодаи усулҳои алтернативии андозбандӣ бо мақсади татбиқи чораҳои иловагӣ оид ба мубориза бо саркашӣ аз пардохти андоз\" Бо назардошти тағйиру иловаҳо аз 27 марти соли 2023, №120",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror390_2023_tj.pdf",
+     "sha256": "6910c7f01f7a4284cd161939a6a19eb6a432cc9d9ea24313aafe3946638107be"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-432-dar-borai-tartibi-istifodai-moshinhoi-nazorati-khazinavi-dar-rejai-vaqti-voq",
+   "short": "Қарори №432 \"Тартиби истифодаи мошинҳои назоратӣ-хазинавӣ дар реҷаи...",
+   "title": "Қарори №432 \"Дар бораи Тартиби истифодаи мошинҳои назоратӣ-хазинавӣ дар реҷаи вақти воқеӣ (онлайн) ва низомҳои хазинаҳои шартан (вертуалӣ) ҳангоми анҷоми ҳисоббаробаркуниҳои пулӣ бо аҳолӣ\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-07-31",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror432_Tj.pdf",
+     "sha256": "faf0624d1c0271ef15fdec07b093efbe78914ab0097a50c217bcae56ffaa00c9"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-456-dar-borai-vorid-namudani-taghyirot-ba-hukumati-jt-az-31-avgusti-soli-2012",
+   "short": "Қарори № 456 \"ворид намудани тағйирот ба Ҳукумати ҶТ\" аз 31 августи...",
+   "title": "Қарори № 456 \"Дар бораи ворид намудани тағйирот ба Ҳукумати Ҷумҳурии Тоҷикистон\" аз 31 августи соли 2012",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2012-08-31",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Resolution__%E2%84%96456_Tj.pdf",
+     "sha256": "8d2e9537ecc86424ca16249d3d1deeae654fcd1f292c04219ee196519ac12278"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-459-dar-borai-vorid-namudani-taghyirot-ba-qarori-hukumati-jumhurii-tojikiston-az",
+   "short": "Қарори №459 \"ворид намудани тағйирот ба қарори Ҳукумати Ҷумҳурии То...",
+   "title": "Қарори №459 \"Дар бораи ворид намудани тағйирот ба қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 30 октябри соли 2010, № 581\" аз 22 сентябри соли 2022, № 459",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror459_2022_RT_tj.pdf",
+     "sha256": "5247f5531ef457916f2d571f351b02acb4e91b2d2d8be3fbbff4e9ff178a3e2f"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-465-dar-borai-tasdiki-metodologiyai-tartib-va-metodikai-guzaronidani-tahlili-fao",
+   "short": "Қарори № 465 \" Дар бораи тасдики Методологияи тартиб ва методикаи г...",
+   "title": "Қарори № 465 \" Дар бораи тасдики Методологияи тартиб ва методикаи гузаронидани таҳлили фаъолият (хавфхои коррупсиони) ба қарори Ҳукумати Ҷумҳурии Тоҷикистон\" аз 28 октябри соли 2016",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2016-10-28",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror465_2022_RT_tj.pdf",
+     "sha256": "93f78763c0e0dc9891e979dc05f74e4a5970865eab989d83a3dd3486afd28f37"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-486-dar-borai-nomguyi-mavodi-doruvorii-istehsoli-vatani-ki-tahvili-furushi-onho",
+   "short": "Қарори №486 \"Номгӯйи маводи дорувории истеҳсоли ватанӣ, ки таҳвили...",
+   "title": "Қарори №486 \"Дар бораи Номгӯйи маводи дорувории истеҳсоли ватанӣ, ки таҳвили (фурӯши) онҳо аз андоз аз арзиши иловашуда озод мебошад\" аз 30 сентябри соли 2022, № 486",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror486_2022_RT_tj.pdf",
+     "sha256": "648566b3ad41afaa9dfde7204c665fc9cd48a92ab2e25f14285b55d5a680b772"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-493-qoidahoi-guzaronidani-baqaydgirii-davlatii-shakhsoni-huquqi-sohibkoroni-infi",
+   "short": "Қарори №493 \"Қоидаҳои гузаронидани бақайдгирии давлатии шахсони ҳуқ...",
+   "title": "Қарори №493 \"Қоидаҳои гузаронидани бақайдгирии давлатии шахсони ҳуқуқӣ, соҳибкорони инфиродӣ, филиал ва намояндагиҳои шахсони ҳуқуқии хориҷӣ\"",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2013-11-02",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Resolution__%E2%84%96493_gov_RT_tj.pdf",
+     "sha256": "2b124c6fd86d1ba78d92c441363e6643416f91c2eb0e3bf64012310d2a946fcb"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-505-dar-borai-qoidahoi-namunavii-hisobkunii-arzishi-aslii-mol-kor-khizmatrasoni",
+   "short": "Қарори №505 \"Қоидаҳои намунавии ҳисобкунии арзиши аслии мол (кор, х...",
+   "title": "Қарори №505 \"Дар бораи Қоидаҳои намунавии ҳисобкунии арзиши аслии мол (кор, хизматрасонӣ)\" аз 28 октябри соли 2023, № 505",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-10-28",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror_505_Kalkulatsiya_2023_tj.pdf",
+     "sha256": "35800e2cfa4e875149487eeaced61829fb97ca845f7f1e0b6c115ac6a8b3e7d0"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-521-dar-borai-vorid-namudani-taghyirot-ba-qarori-hukumati-jumhurii-tojikiston-az",
+   "short": "Қарори №521 \"ворид намудани тағйирот ба қарори Ҳукумати Ҷумҳурии То...",
+   "title": "Қарори №521 \"Дар бораи ворид намудани тағйирот ба қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 9 октябри соли 2021, №432\" аз 25 октябри соли 2022, № 521",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-10-25",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror521_2022_RT_tj.pdf",
+     "sha256": "23e5f2bbb141660bcf4b525391e6f1d65ff909c88b4573ea90abb08435576478"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-533-dar-borai-tartibi-az-fahristi-yagonai-davlatii-shakhsoni-huquqi-va-sohibkoro",
+   "short": "Қарори №533 \"тартиби аз Фаҳристи Ягонаи давлатии шахсони ҳуқуқӣ ва...",
+   "title": "Қарори №533 \"Дар бораи тартиби аз Фаҳристи Ягонаи давлатии шахсони ҳуқуқӣ ва соҳибкорони инфиродӣ хориҷ намудани шахси ҳуқуқӣ, соҳибкори инфиродӣ, филиал ва намояндагии шахси ҳуқуқии хориҷии бефаъолият\" аз 21 ноябри соли 2017, №533",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2017-11-21",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror533_2023_RT_tj.pdf",
+     "sha256": "1488d0f5191482dbd79aa5f933af5f7351e445e47e43c3c8f6d3708685c90d17"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-535-dar-borai-nomguyi-sohahoi-afzaliyatnoke-ki-ba-onho-imtiyozhoi-andozi-mutobiq",
+   "short": "Қарори №535 \"Номгӯйи соҳаҳои афзалиятноке, ки ба онҳо имтиёзҳои анд...",
+   "title": "Қарори №535 \"Дар бораи Номгӯйи соҳаҳои афзалиятноке, ки ба онҳо имтиёзҳои андозӣ мутобиқи Кодекси андози Ҷумҳурии Тоҷикистон ва имтиёзҳои иловагӣ мувофиқи санадҳои меъёрии ҳуқуқии дахлдор дода мешаванд\" аз 31 октябри соли 2022, № 535",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror535_2022_RT_tj.pdf",
+     "sha256": "8afb7c34af065e44543eefca1f7f8f008c47db426cb1fb850eb09ba813eafd6d"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-583-dar-borai-namudhoi-molhoi-andozbandishavanda-ki-bo-istifoda-az-nizomi-gumruk",
+   "short": "Қарори №583 \"Намудҳои молҳои андозбандишаванда, ки бо истифода аз н...",
+   "title": "Қарори №583 \"Дар бораи Намудҳои молҳои андозбандишаванда, ки бо истифода аз низоми гумрукии \"Коркард\" дар ҳудуди гумрукӣ истеҳсол гардида, бо андози фурӯш андозбандӣ карда мешаванд \" аз 29 ноябри соли 2022, № 583",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror583_2022_RT_tj.pdf",
+     "sha256": "e60653eb5f4747fc860e222a2f94ca64b12f13c156b949cdcd556950e2377714"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-611-dar-borai-tartibi-tayyor-kardan-omodasozi-va-muomiloti-tamghahoi-aksizi-va-n",
+   "short": "Қарори №611 \"Тартиби тайёр кардан (омодасозӣ) ва муомилоти тамғаҳои...",
+   "title": "Қарори №611 \"Дар бораи Тартиби тайёр кардан (омодасозӣ) ва муомилоти тамғаҳои аксизӣ ва Номгӯйи молҳои зераксизии истеҳсоли ватанӣ ва воридотӣ, ки бояд ҳатман тамғагузорӣ карда шаванд\" аз 29 декабри соли 2022, № 611",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror611_2022_RT_tj.pdf",
+     "sha256": "5a57b2cc267be8b09d1ecdd7b66c26a0ccfea1f49873b9a3aed5102368815c26"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-74-dar-borai-tartibi-bargardonidani-mablaghi-andoz-az-arzishi-ilovashuda-ba-namo",
+   "short": "Қарори №74 \"Тартиби баргардонидани маблағи андоз аз арзиши иловашуд...",
+   "title": "Қарори №74 \"Дар бораи Тартиби баргардонидани маблағи андоз аз арзиши иловашуда ба намояндагиҳои дипломатӣ, консулгарӣ ва намояндагиҳои ба онҳо баробаркардашуда, инчунин аъзои ҳайати кормандони онҳо, ки дар Ҷумҳурии Тоҷикистон аккредитатсия шудаанд\" аз 2 марти соли 2023, № 74",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror74_2023_tj.pdf",
+     "sha256": "9418374a8613225a87718b00eff0655f5ecbcb68e84699d1382c78c35895375f"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-75-dar-borai-tartibi-beetimod-etirof-kardani-qarzi-andozi-va-az-hisob-barovardan",
+   "short": "Қарори №75 \"Тартиби беэътимод эътироф кардани қарзи андозӣ ва аз ҳи...",
+   "title": "Қарори №75 \"Дар бораи Тартиби беэътимод эътироф кардани қарзи андозӣ ва аз ҳисоб баровардани қарзи андозии беэътимод эътирофшуда\" аз 2 марти соли 2023, № 75",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror75_2023_RT_tj.pdf",
+     "sha256": "1cf7cb9cf3e86bb5779cf9f86b3892f8a2218e22e76454fd582c70bfaef9565a"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-77-dar-borai-namuna-va-meyorhoi-dodani-libosi-makhsusi-rasmii-kormandoni-maqomot",
+   "short": "Қарори №77 \"намуна ва меъёрҳои додани либоси махсуси расмии корманд...",
+   "title": "Қарори №77 \"Дар бораи намуна ва меъёрҳои додани либоси махсуси расмии кормандони мақомоти aндози Ҷумҳурии Тоҷикистон\" аз 02 марти соли 2023, № 77",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror77_2023_RT_tj.pdf",
+     "sha256": "56e93bbda1211e977d7014e94906503ab89024ff558c938d2b208acd799df982"
+    }
+   ]
+  },
+  {
+   "slug": "qarori-hukumat-83-dar-bora-tartibi-peshburdi-fehristi-loihahoi-sarmoyaguzori-az-01-marti-soli-2",
+   "short": "Қарори №83 \"Дар бора Тартиби пешбурди феҳристи лоиҳаҳои сармоягузор...",
+   "title": "Қарори №83 \"Дар бора Тартиби пешбурди феҳристи лоиҳаҳои сармоягузорӣ\" аз 01 марти соли 2019, № 83",
+   "url": "https://andoz.tj/Legislation/Resolutions",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 1,
+     "source_url": "https://andoz.tj/docs/postanovleniya-pravitelstvo/Qaror83_2023_RT_tj.pdf",
+     "sha256": "f3771a52047ca9b9fb8b8ecfb03d5fc686329ac861c71894f5fffa8c969d9ca2"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-auditi-dokhili-dar-tashkilothoi-bakhshi-davlati",
+   "short": "Қонун \"аудити дохилӣ дар ташкилотҳои бахши давлатӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи аудити дохилӣ дар ташкилотҳои бахши давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 24,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%B8%20%D0%B4%D0%BE%D1%85%D0%B8%D0%BB%D3%A3%20%D0%B4%D0%B0%D1%80%20%D1%82%D0%B0%D1%88%D0%BA%D0%B8%D0%BB%D0%BE%D1%82%D2%B3%D0%BE%D0%B8%20%D0%B1%D0%B0%D1%85%D1%88%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D3%A3.pdf",
+     "sha256": "88553054f4b01be66fce2f4d566f20ed4fc7468c572fd1ac745240a68cfcdb22"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bahisobgirii-muhosibavi-va-hisoboti-moliyavi",
+   "short": "Қонун \"баҳисобгирии муҳосибавӣ ва ҳисоботи молиявӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи баҳисобгирии муҳосибавӣ ва ҳисоботи молиявӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2014-03-14",
+     "units": 30,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9611_accounting-RT_tj.pdf",
+     "sha256": "367e1cac11f5cc1a2cda30186c408bda9df009a66514b7fe651604a695408708"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-baqaydgirii-davlatii-molu-mulki-ghayrimanqul-va-huquqho-ba-o",
+   "short": "Қонун \"бақайдгирии давлатии молу мулки ғайриманқул ва ҳуқуқҳо ба он\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи бақайдгирии давлатии молу мулки ғайриманқул ва ҳуқуқҳо ба он\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 78,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B1%D0%B0%D2%9B%D0%B0%D0%B9%D0%B4%D0%B3%D0%B8%D1%80%D0%B8%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D0%BC%D0%BE%D0%BB%D1%83%20%D0%BC%D1%83%D0%BB%D0%BA%D0%B8%20%D2%93%D0%B0%D0%B9%D1%80%D0%B8%D0%BC%D0%B0%D0%BD%D2%9B%D1%83%D0%BB%20%D0%B2%D0%B0%20%D2%B3%D1%83%D2%9B%D1%83%D2%9B%D2%B3%D0%BE%20%D0%B1%D0%B0%20%D0%BE%D0%BD.pdf",
+     "sha256": "b2366d837f61e5fab314ee065782c33275c8254c7558ed0eeda5b8da695a3dcb"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-baqaydgirii-davlatii-shakhsoni-huquqi-va-sohibkoroni-infirod",
+   "short": "Қонун \"бақайдгирии давлатии шахсони ҳуқуқӣ ва соҳибкорони инфиродӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи бақайдгирии давлатии шахсони ҳуқуқӣ ва соҳибкорони инфиродӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 41,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9617_state-register-of-legal-entities-and-entrepreneurs-RT_tj.pdf",
+     "sha256": "c9f946e25aaa2cd3bc59f8cf04630ec5809bb0c2178c4fb37588b7826f741c51"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 41,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B1%D0%B0%D2%9B%D0%B0%D0%B9%D0%B4%D0%B3%D0%B8%D1%80%D0%B8%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D1%88%D0%B0%D1%85%D1%81%D0%BE%D0%BD%D0%B8%20%D2%B3%D1%83%D2%9B%D1%83%D2%9B%D3%A3%20%D0%B2%D0%B0%20%D1%81%D0%BE%D2%B3%D0%B8%D0%B1%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%20%D0%B8%D0%BD%D1%84%D0%B8%D1%80%D0%BE%D0%B4%D3%A3.pdf",
+     "sha256": "708813e70014c6a733347ec73f31f0f71f11950c44f89f4498d147d6b4737d08"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-boji-davlati",
+   "short": "Қонун \"боҷи давлатӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи боҷи давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 10,
+     "source_url": "https://andoz.tj/docs/zakoni/Boji%20davlati%20toj.pdf",
+     "sha256": "4d969297a1184921a2652bdd9555614b61589493c3bb813263b930ebd6ef50c1"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bonki-millii-jumhurii-tojikiston",
+   "short": "Қонун \"Бонки Миллии Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи Бонки Миллии Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2014-07-26",
+     "units": 91,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%969_national-bank-RT_tj.pdf",
+     "sha256": "7de7537e0a807e8471b2e9de0e374310150d2ac60bfea392b8895717d7e2640e"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bozori-koghazhoi-qimmatnok",
+   "short": "Қонун \"бозори коғазҳои қимматнок\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи бозори коғазҳои қимматнок\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 60,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9610_securities-market-RT_tj.pdf",
+     "sha256": "4321c92d3ac145399892a0363cae78be2d70ace6e24e1a3e6fd9d7802ce0186f"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2017",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2017\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2017\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 27,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%961_budget-RT-2017_tj.pdf",
+     "sha256": "8379ec464257d33eab712791dd4c333be45c1363ebc64faa2f876446a6947234"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2018",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2018\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2018\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-10-02",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D0%B1%D1%83%D1%87%D0%B5%D1%82%202018.pdf",
+     "sha256": "9d8648cf7064574e82ef4d50f024298d8056b4a0eb2fc690579fb93d27712f0a"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2019",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2019\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2019\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D0%B1%D1%83%D1%87%D0%B5%D1%82%202019.pdf",
+     "sha256": "9a3f4f53625c6e6e6fe1307a791f52dfc00c69a4fdabea80d44eff57ce24fa88"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2020",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2020\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2020\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 26,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%91%D0%94%D2%B6%D0%A2%20%D0%B1%D0%B0%D1%80%D0%BE%D0%B8%20%D1%81%D0%BE%D0%BB%D0%B8%202020.pdf",
+     "sha256": "170876801cdeb7dfc601b1adbf61f12dc54f6d051b5ceac9368e3ae6ea0a19ad"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2021",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2021\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2021\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B1%D1%83%D2%B7%D0%B5%D1%82%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD%20%D0%B1%D0%B0%D1%80%D0%BE%D0%B8%20%D1%81%D0%BE%D0%BB%D0%B8%202021.pdf",
+     "sha256": "ffc1f0b8803ff763a4779853b8a3779a044ad9f5355e7df482f1ce27db6a111d"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2022",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2022\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2022\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B1%D1%83%D2%B7%D0%B5%D1%82%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD%20%D0%B1%D0%B0%D1%80%D0%BE%D0%B8%20%D1%81%D0%BE%D0%BB%D0%B8%202022.pdf",
+     "sha256": "5c69fed18eb0dcbd155773197cd7e094f2d37b9f8e32f9eb875e39306de0a230"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2023",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2023\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2023\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B1%D1%83%D2%B7%D0%B5%D1%82%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD%20%D0%B1%D0%B0%D1%80%D0%BE%D0%B8%20%D1%81%D0%BE%D0%BB%D0%B8%202023.pdf",
+     "sha256": "75e9451f7ed41bd05b5cfdac54e46dfc3f7dd5b61c152d995077987117cf5bba"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2024",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2024\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2024\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B1%D1%83%D2%B7%D0%B5%D1%82%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD%20%D0%B1%D0%B0%D1%80%D0%BE%D0%B8%20%D1%81%D0%BE%D0%BB%D0%B8%202024.pdf",
+     "sha256": "fb0ce33b5bf72cee0ff55a27bc675db760ea14f4d8e7860ffa1f9406ba244b2f"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-bujeti-davlatii-jumhurii-tojikiston-baroi-soli-2025",
+   "short": "Қонун \"буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2025\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи буҷети давлатии Ҷумҳурии Тоҷикистон барои соли 2025\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B1%D1%83%D2%B7%D0%B5%D1%82%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD%20%D0%B1%D0%B0%D1%80%D0%BE%D0%B8%20%D1%81%D0%BE%D0%BB%D0%B8%202025.pdf",
+     "sha256": "c4c7cbbda6ec6ded2a9c953333abbb254d831b78155932ab2e23635e0abfb6f9"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-dastgirii-davlatii-sohahoi-kompleksi-agrosanoatii-jumhurii-t",
+   "short": "Қонун \"дастгирии давлатии соҳаҳои комплекси агросаноатии Ҷумҳурии Т...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи дастгирии давлатии соҳаҳои комплекси агросаноатии Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2008-12-31",
+     "units": 15,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B4%D0%B0%D1%81%D1%82%D0%B3%D0%B8%D1%80%D0%B8%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D1%81%D0%BE%D2%B3%D0%B0%D2%B3%D0%BE%D0%B8%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%20%D0%B0%D0%B3%D1%80%D0%BE%D1%81%D0%B0%D0%BD%D0%BE%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
+     "sha256": "c913845185831fa8c1e9f08b312781f72d5734a207f7805f9bc7b2623adcc081"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-digar-pardokhthoi-hatmi-ba-bujet",
+   "short": "Қонун \"дигар пардохтҳои ҳатмӣ ба буҷет\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи дигар пардохтҳои ҳатмӣ ба буҷет\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 93,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9622_budget-mandatory-payments-RT_tj.pdf",
+     "sha256": "4661c2e0dd66bc7706cc5b132aad02f8ab417106b5b3c3f139fcde7db5f65d62"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-durnamohoi-davlati-konsepsiyaho-strategiyaho-va-barnomahoi-r",
+   "short": "Қонун “Дар бораи дурнамоҳои давлатӣ, консепсияҳо, стратегияҳо ва ба...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон “Дар бораи дурнамоҳои давлатӣ, консепсияҳо, стратегияҳо ва барномаҳои рушди иҷтимоию иқтисодии Ҷумҳурии Тоҷикистон”",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 19,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%E2%80%9C%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B4%D1%83%D1%80%D0%BD%D0%B0%D0%BC%D0%BE%D2%B3%D0%BE%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D3%A3%2C%20%D0%BA%D0%BE%D0%BD%D1%81%D0%B5%D0%BF%D1%81%D0%B8%D1%8F%D2%B3%D0%BE%2C%20%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%8F%D2%B3%D0%BE%20%D0%B2%D0%B0%20%D0%B1%D0%B0%D1%80%D0%BD%D0%BE%D0%BC%D0%B0%D2%B3%D0%BE%D0%B8%20%D1%80%D1%83%D1%88%D0%B4%D0%B8%20%D0%B8%D2%B7%D1%82%D0%B8%D0%BC%D0%BE%D0%B8%D1%8E%20%D0%B8%D2%9B%D1%82%D0%B8%D1%81%D0%BE%D0%B4%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD%E2%80%9D.pdf",
+     "sha256": "c52884a75cd514a34a18566d8ef46d50f8c929f57e5a5d069bb1879562b73f24"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-ekspertizai-ziddikorrupsionii-sanadhoi-meyorii-huquqi-va-loi",
+   "short": "Қонун “Дар бораи экспертизаи зиддикоррупсионии санадҳои меъёрии ҳуқ...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон “Дар бораи экспертизаи зиддикоррупсионии санадҳои меъёрии ҳуқуқӣ ва лоиҳаҳои санадҳои меъёрии ҳуқуқӣ”",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 18,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%E2%80%9C%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%B8%20%D0%B7%D0%B8%D0%B4%D0%B4%D0%B8%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D0%B8%20%D1%81%D0%B0%D0%BD%D0%B0%D0%B4%D2%B3%D0%BE%D0%B8%20%D0%BC%D0%B5%D1%8A%D1%91%D1%80%D0%B8%D0%B8%20%D2%B3%D1%83%D2%9B%D1%83%D2%9B%D3%A3%20%D0%B2%D0%B0%20%D0%BB%D0%BE%D0%B8%D2%B3%D0%B0%D2%B3%D0%BE%D0%B8%20%D1%81%D0%B0%D0%BD%D0%B0%D0%B4%D2%B3%D0%BE%D0%B8%20%D0%BC%D0%B5%D1%8A%D1%91%D1%80%D0%B8%D0%B8%20%D2%B3%D1%83%D2%9B%D1%83%D2%9B%D3%A3%E2%80%9D.pdf",
+     "sha256": "cfbc9a33762dae8007f006ef34d0a4f054a1f734003266b62fe45394eab2609d"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-faoliyati-auditori",
+   "short": "Қонун \"фаъолияти аудиторӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти аудиторӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-01-02",
+     "units": 33,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%84%D0%B0%D1%8A%D0%BE%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D0%B0%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80%D3%A3.pdf",
+     "sha256": "a98b4a27579f7d82905f109dfe0f8692c6f4240519be3b233d61e28a5e00a940"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-faoliyati-bonki",
+   "short": "Қонун \"фаъолияти бонкӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти бонкӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 60,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9616_banking-activity-RT_tj.pdf",
+     "sha256": "5008c8b4e853cefeb1da1852059c36a30db966374321185fbfcfb4c8b1e11579"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-faoliyati-ehsonkori",
+   "short": "Қонун \"фаъолияти эҳсонкорӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти эҳсонкорӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-01-02",
+     "units": 27,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%84%D0%B0%D1%8A%D0%BE%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D1%8D%D2%B3%D1%81%D0%BE%D0%BD%D0%BA%D0%BE%D1%80%D3%A3.pdf",
+     "sha256": "aac8dc199957dd9bebafc0b614b0ac5773f47bcc6402900385499d5be8d841b4"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-faoliyati-savdoi-khoriji",
+   "short": "Қонун \"фаъолияти савдои хориҷӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи фаъолияти савдои хориҷӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2015-08-08",
+     "units": 58,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%84%D0%B0%D1%8A%D0%BE%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D1%81%D0%B0%D0%B2%D0%B4%D0%BE%D0%B8%20%D1%85%D0%BE%D1%80%D0%B8%D2%B7%D3%A3.pdf",
+     "sha256": "f31e457b4a09450ab0b45b9a312863844190a6e78e6f4d923e10964fd43cde95"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-garavi-molu-mulki-manqul-va-baqaydgirii-uhdadorihoi-taminshu",
+   "short": "Қонун \"гарави молу мулки манқул ва бақайдгирии уҳдадориҳои таъминшуда\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи гарави молу мулки манқул ва бақайдгирии уҳдадориҳои таъминшуда\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 64,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B3%D0%B0%D1%80%D0%B0%D0%B2%D0%B8%20%D0%BC%D0%BE%D0%BB%D1%83%20%D0%BC%D1%83%D0%BB%D0%BA%D0%B8%20%D0%BC%D0%B0%D0%BD%D2%9B%D1%83%D0%BB%20%D0%B2%D0%B0%20%D0%B1%D0%B0%D2%9B%D0%B0%D0%B9%D0%B4%D0%B3%D0%B8%D1%80%D0%B8%D0%B8%20%D1%83%D2%B3%D0%B4%D0%B0%D0%B4%D0%BE%D1%80%D0%B8%D2%B3%D0%BE%D0%B8%20%D1%82%D0%B0%D1%8A%D0%BC%D0%B8%D0%BD%D1%88%D1%83%D0%B4%D0%B0.pdf",
+     "sha256": "493874fd9560f45c6d39d057421239b11647d75e7ae6e3ca8c660059a99afe84"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-garavkhona-lombard",
+   "short": "Қонун \"гаравхона\" (ломбард)",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи гаравхона\" (ломбард)",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 21,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B3%D0%B0%D1%80%D0%B0%D0%B2%D1%85%D0%BE%D0%BD%D0%B0%20(%D0%BB%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4).pdf",
+     "sha256": "926ca673277883b00bce88fdf76ff6b3dd97c5496a551d24d729543233484fff"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-hifzi-mehnat",
+   "short": "Қонун \"ҳифзи меҳнат\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳифзи меҳнат\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 33,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9615_labor-protect-RT_tj.pdf",
+     "sha256": "b5bc7858de162b1b6527dfe88d52bde7142cf50f8173ae3c964d3ed30533fb13"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-himoya-va-dastgirii-davlatii-sohibkori",
+   "short": "Қонун \"ҳимоя ва дастгирии давлатии соҳибкорӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳимоя ва дастгирии давлатии соҳибкорӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 27,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D2%B3%D0%B8%D0%BC%D0%BE%D1%8F%20%D0%B2%D0%B0%20%D0%B4%D0%B0%D1%81%D1%82%D0%B3%D0%B8%D1%80%D0%B8%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D1%81%D0%BE%D2%B3%D0%B8%D0%B1%D0%BA%D0%BE%D1%80%D3%A3.pdf",
+     "sha256": "c040d55b0cec8da457e7721af677974dbe3be480695bc9d25cedbbdce459aeaa"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-himoyai-huquqi-istemolkunandagon",
+   "short": "Қонун \"ҳимояи ҳуқуқи истеъмолкунандагон\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳимояи ҳуқуқи истеъмолкунандагон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-01-02",
+     "units": 49,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D2%B3%D0%B8%D0%BC%D0%BE%D1%8F%D0%B8%20%D2%B3%D1%83%D2%9B%D1%83%D2%9B%D0%B8%20%D0%B8%D1%81%D1%82%D0%B5%D1%8A%D0%BC%D0%BE%D0%BB%D0%BA%D1%83%D0%BD%D0%B0%D0%BD%D0%B4%D0%B0%D0%B3%D0%BE%D0%BD.pdf",
+     "sha256": "0cb2a4d4f348290259e2e377d1ca79c1b5cb965db2d50b6ff98e18e63852b131"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-himoyai-raqobat",
+   "short": "Қонун \"ҳимояи рақобат\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳимояи рақобат\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2017-05-18",
+     "units": 33,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D2%B3%D0%B8%D0%BC%D0%BE%D1%8F%D0%B8%20%D1%80%D0%B0%D2%9B%D0%BE%D0%B1%D0%B0%D1%82.pdf",
+     "sha256": "83cb8518261f30fb763df9161b3ba247c9882f4817bf5856f3f9485cb1f79177"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-hujjati-elektroni-va-imzoi-elektroni",
+   "short": "Қонун \"ҳуҷҷати электронӣ ва имзои электронӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҳуҷҷати электронӣ ва имзои электронӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 39,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%961965_2025_electron-doc-RT_tj.pdf",
+     "sha256": "9ae3a58e5e36354394ed865f86b997a89e5f78bb08c28e73117986f1309b727d"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-ijorai-moliyavi-lizing",
+   "short": "Қонун \"иҷораи молиявӣ\" (лизинг)",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи иҷораи молиявӣ\" (лизинг)",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9624_leasing-RT_tj.pdf",
+     "sha256": "0210cd2232fec09b767881a7e6fbaa1beb5013a22fd68349547c24beb0b7d20b"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-ijozatnomadihi-ba-baze-namudhoi-faoliyat",
+   "short": "Қонун \"иҷозатномадиҳӣ ба баъзе намудҳои фаъолият\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи иҷозатномадиҳӣ ба баъзе намудҳои фаъолият\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B8%D2%B7%D0%BE%D0%B7%D0%B0%D1%82%D0%BD%D0%BE%D0%BC%D0%B0%D0%B4%D0%B8%D2%B3%D3%A3%20%D0%B1%D0%B0%20%D0%B1%D0%B0%D1%8A%D0%B7%D0%B5%20%D0%BD%D0%B0%D0%BC%D1%83%D0%B4%D2%B3%D0%BE%D0%B8%20%D1%84%D0%B0%D1%8A%D0%BE%D0%BB%D0%B8%D1%8F%D1%82.pdf",
+     "sha256": "d2ae85c3e083455eb43e4459ea9fbfd7d29d30e55c08d37a64e88f91835f552a"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-ipoteka",
+   "short": "Қонун \"ипотека\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ипотека\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 59,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.pdf",
+     "sha256": "d752a42ed7f1556aeca387db6aac4df57e7978b42a1108754b173269964c0622"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-istehsoloti-ijro",
+   "short": "Қонун \"истеҳсолоти иҷро\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи истеҳсолоти иҷро\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2012-07-03",
+     "units": 111,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9628_legal-proceeding-RT_tj.pdf",
+     "sha256": "f946d5d1c8395ff7b236fd257f770082e1f9e4ff36ed5aed9f3bec84b4b480b8"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-ittihodiyahoi-jamiyati",
+   "short": "Қонун \"иттиҳодияҳои ҷамъиятӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи иттиҳодияҳои ҷамъиятӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-01-02",
+     "units": 46,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%B8%D1%82%D1%82%D0%B8%D2%B3%D0%BE%D0%B4%D0%B8%D1%8F%D2%B3%D0%BE%D0%B8%20%D2%B7%D0%B0%D0%BC%D1%8A%D0%B8%D1%8F%D1%82%D3%A3.pdf",
+     "sha256": "2e1968ee43ad37ee8ac3d80e117f8e33f3048df224ca3b995ac3ed757eb69c6e"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-jamiyathoi-sahomi",
+   "short": "Қонун \"ҷамъиятҳои саҳомӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҷамъиятҳои саҳомӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2011-12-26",
+     "units": 106,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9621_stock-comp_2011-RT_tj.pdf",
+     "sha256": "de2fa5faa2ca423ff6e490c96bff40f3bc8baf41b76a5cab535dcc7f62673444"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-jamiyati-masuliyati-mahdud",
+   "short": "Қонун \"ҷамъияти масъулияти маҳдуд\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ҷамъияти масъулияти маҳдуд\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 64,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9626_LLCs-2010_RT_tj.pdf",
+     "sha256": "b2c1f791b35b7f3b272f3cce19bf78f232c32d159cec45c0a4ea6f8dfa557c77"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-kharidi-davlatii-mol-kor-va-khizmatrasoni",
+   "short": "Қонун \"хариди давлатии мол, кор ва хизматрасонӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи хариди давлатии мол, кор ва хизматрасонӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2012-04-16",
+     "units": 86,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%85%D0%B0%D1%80%D0%B8%D0%B4%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D0%BC%D0%BE%D0%BB%2C%20%D0%BA%D0%BE%D1%80%20%D0%B2%D0%B0%20%D1%85%D0%B8%D0%B7%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81%D0%BE%D0%BD%D3%A3.pdf",
+     "sha256": "55f2feba9eca1a7baf3ed16cb9f74d5a3e1479e3a5e6ed4436a32c3c466ff790"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-khazinadori",
+   "short": "Қонун \"хазинадорӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи хазинадорӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%85%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0%D0%B4%D0%BE%D1%80%D3%A3.pdf",
+     "sha256": "b4b9dfb4caff53b3da3ae0837d63bd7e82de327217a79d9788b0f800f03dd897"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-khizmati-davlati",
+   "short": "Қонун \"хизмати давлатӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи хизмати давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2016-03-15",
+     "units": 50,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%962_government-service-RT_tj.pdf",
+     "sha256": "cc175c9f533dc8c1f27e06582337e2f5a192d491cf5b0126567cb150bcdfbc98"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-khojagii-dehqoni-fermeri",
+   "short": "Қонун \"хоҷагии деҳқонӣ\" (фермерӣ)",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи хоҷагии деҳқонӣ\" (фермерӣ)",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2016-03-03",
+     "units": 40,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%964_farming-property-RT_tj.pdf",
+     "sha256": "f04c0b66f815389069a264cc0c588c205312536900bec10d8aaf691e32b6c026"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-korkhonahoi-davlati",
+   "short": "Қонун \"корхонаҳои давлатӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи корхонаҳои давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 43,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BA%D0%BE%D1%80%D1%85%D0%BE%D0%BD%D0%B0%D2%B3%D0%BE%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D3%A3.pdf",
+     "sha256": "0da5dd994eca04a3dd3319af05f4086d78934e7c3fd46fa383857880b49531cf"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-maqomoti-khudidorakunii-shahrak-va-dehot",
+   "short": "Қонун \"мақомоти худидоракунии шаҳрак ва деҳот\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи мақомоти худидоракунии шаҳрак ва деҳот\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 50,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B0%D2%9B%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%20%D1%85%D1%83%D0%B4%D0%B8%D0%B4%D0%BE%D1%80%D0%B0%D0%BA%D1%83%D0%BD%D0%B8%D0%B8%20%D1%88%D0%B0%D2%B3%D1%80%D0%B0%D0%BA%20%D0%B2%D0%B0%20%D0%B4%D0%B5%D2%B3%D0%BE%D1%82.pdf",
+     "sha256": "f26db47f7f31de323ff9a9431c1d5901b8b3560bda9618332bc2048067ab0426"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-masuliyati-padaru-modar-dar-talimu-tarbiyai-farzand",
+   "short": "Қонун \"масъулияти падару модар дар таълиму тарбияи фарзанд\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи масъулияти падару модар дар таълиму тарбияи фарзанд\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 18,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B0%D1%81%D1%8A%D1%83%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D0%BF%D0%B0%D0%B4%D0%B0%D1%80%D1%83%20%D0%BC%D0%BE%D0%B4%D0%B0%D1%80%20%D0%B4%D0%B0%D1%80%20%D1%82%D0%B0%D1%8A%D0%BB%D0%B8%D0%BC%D1%83%20%D1%82%D0%B0%D1%80%D0%B1%D0%B8%D1%8F%D0%B8%20%D1%84%D0%B0%D1%80%D0%B7%D0%B0%D0%BD%D0%B4.pdf",
+     "sha256": "0b455a3bfc174b8c029103478299799697dfc2b4f01c8d2da9b4b9034eb580a8"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-mavodi-doruvori-va-faoliyati-farmasevti",
+   "short": "Қонун \"маводи доруворӣ ва фаъолияти фармасевтӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи маводи доруворӣ ва фаъолияти фармасевтӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 39,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B0%D0%B2%D0%BE%D0%B4%D0%B8%20%D0%B4%D0%BE%D1%80%D1%83%D0%B2%D0%BE%D1%80%D3%A3%20%D0%B2%D0%B0%20%D1%84%D0%B0%D1%8A%D0%BE%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%81%D0%B5%D0%B2%D1%82%D3%A3.pdf",
+     "sha256": "9aa687bcc15d649f125c91d23719503f1c71feed2f55b51ae11ecd1f766c22ad"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-mintaqahoi-ozodi-iqtisodi",
+   "short": "Қонун \"минтақаҳои озоди иқтисодӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи минтақаҳои озоди иқтисодӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-01-02",
+     "units": 35,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B8%D0%BD%D1%82%D0%B0%D2%9B%D0%B0%D2%B3%D0%BE%D0%B8%20%D0%BE%D0%B7%D0%BE%D0%B4%D0%B8%20%D0%B8%D2%9B%D1%82%D0%B8%D1%81%D0%BE%D0%B4%D3%A3.pdf",
+     "sha256": "956e15925feb1df8a3e507f954f9e55caef4b017ecc46b3347ba26c13eed5bfe"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-moliyai-davlatii-jumhurii-tojikiston",
+   "short": "Қонун \"молияи давлатии Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи молияи давлатии Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 72,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%BE%D0%BB%D0%B8%D1%8F%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
+     "sha256": "69484acdf11e6b50f0901594499be764dab5b45e337b4b9ea5f2f40b7e60eaf6"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-moratoriyai-sanjishhoi-faoliyati-subekthoi-sohibkori-dar-soh",
+   "short": "Қонун \"мораторияи санҷишҳои фаъолияти субъектҳои соҳибкорӣ дар соҳа...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи мораторияи санҷишҳои фаъолияти субъектҳои соҳибкорӣ дар соҳаҳои истеҳсолӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-04-04",
+     "units": 12,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F%D0%B8%20%D1%81%D0%B0%D0%BD%D2%B7%D0%B8%D1%88%D2%B3%D0%BE%D0%B8%20%D1%84%D0%B0%D1%8A%D0%BE%D0%BB%D0%B8%D1%8F%D1%82%D0%B8%20%D1%81%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D2%B3%D0%BE%D0%B8%20%D1%81%D0%BE%D2%B3%D0%B8%D0%B1%D0%BA%D0%BE%D1%80%D3%A3%20%D0%B4%D0%B0%D1%80%20%D1%81%D0%BE%D2%B3%D0%B0%D2%B3%D0%BE%D0%B8%20%D0%B8%D1%81%D1%82%D0%B5%D2%B3%D1%81%D0%BE%D0%BB%D3%A3.pdf",
+     "sha256": "bebefa9ee6953c46ba7c356dbd249e70ecdb4c6e552eff29eba4b1d53a6bd13c"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-muflisshavi",
+   "short": "Қонун \"муфлисшавӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи муфлисшавӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2009-05-19",
+     "units": 102,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%963_bankruptcy-RT_tj.pdf",
+     "sha256": "dcc7e99db920600615bb63d889785537a9bcb6785f8b14f453bb2853d6845d7f"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-muqovimat-ba-korrupsiya",
+   "short": "Қонун \"муқовимат ба коррупсия\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи муқовимат ба коррупсия\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-08-05",
+     "units": 37,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D1%83%D2%9B%D0%BE%D0%B2%D0%B8%D0%BC%D0%B0%D1%82%20%D0%B1%D0%B0%20%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%81%D0%B8%D1%8F.pdf",
+     "sha256": "8bef604599a2d14c6baeacf67889d84d3e938f24402692c246e3b3a75684cc06"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-murojiathoi-shakhsoni-voqei-va-huquqi",
+   "short": "Қонун \"муроҷиатҳои шахсони воқеӣ ва ҳуқуқӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи муроҷиатҳои шахсони воқеӣ ва ҳуқуқӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "units": 28,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%9A%D0%9E%D0%9D%D0%A3%D0%9D%D0%98%20%D0%A7%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D1%83%D1%80%D0%BE%D1%87%D0%B8%D0%B0%D1%82%D0%B8.pdf",
+     "sha256": "874b01f19aa4c4c591bd770809226aef7c4d658fce4a44f7b40882500f572e1d"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-nazorati-davlatii-moliyavi-dar-jumhurii-tojikiston",
+   "short": "Қонун \"назорати давлатии молиявӣ дар Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи назорати давлатии молиявӣ дар Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 26,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9625_state-fin-control-RT_tj.pdf",
+     "sha256": "5cfc4a01c6aa2cc5551cb695242c0dbc3d0999dcc337747fbbbb6e074496e6b8"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-nishondihanda-baroi-hisobho",
+   "short": "Қонун \"нишондиҳанда барои ҳисобҳо\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи нишондиҳанда барои ҳисобҳо\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 4,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BD%D0%B8%D1%88%D0%BE%D0%BD%D0%B4%D0%B8%D2%B3%D0%B0%D0%BD%D0%B4%D0%B0%20%D0%B1%D0%B0%D1%80%D0%BE%D0%B8%20%D2%B3%D0%B8%D1%81%D0%BE%D0%B1%D2%B3%D0%BE.pdf",
+     "sha256": "f14731b8e3f27f55c38a54a7f8ef9ec979ca9914d81e2c57a0eca9d8fbdbbc78"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-nizomi-ijozatdihi",
+   "short": "Қонун \"низоми иҷозатдиҳӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи низоми иҷозатдиҳӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 34,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BD%D0%B8%D0%B7%D0%BE%D0%BC%D0%B8%20%D0%B8%D2%B7%D0%BE%D0%B7%D0%B0%D1%82%D0%B4%D0%B8%D2%B3%D3%A3.pdf",
+     "sha256": "61a7c620082a7ef4b2a57384503e896dd81956b7f01339e904c59d8d69622c85"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-notariati-davlati",
+   "short": "Қонун \"нотариати давлатӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи нотариати давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 113,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BD%D0%BE%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D1%82%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D3%A3.pdf",
+     "sha256": "3b1a58367a785a497fc1699f1cf6a6f7473139e76ea1fcde8712ea70b2b06636"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-omori-davlati",
+   "short": "Қонун \"омори давлатӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи омори давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 22,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9612_statistics-gov-RT_tj.pdf",
+     "sha256": "c3652a2df2e4e39c9c6ae80cbb808e5ad40d15945aaf97b4903e5fcd28d33317"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-palatai-savdoi-sanoatii-jumhurii-tojikiston",
+   "short": "Қонун \"палатаи савдои саноатии Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи палатаи савдои саноатии Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2010-12-29",
+     "units": 15,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0%D0%B8%20%D1%81%D0%B0%D0%B2%D0%B4%D0%BE%D0%B8%20%D1%81%D0%B0%D0%BD%D0%BE%D0%B0%D1%82%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
+     "sha256": "6255f39a40caf1f68e7ca6e3cb00f177685ae3788acc18bcce109c1be011a046"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sanadhoi-meyori-huquqi",
+   "short": "Қонун \"санадҳои меъёри ҳуқуқӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи санадҳои меъёри ҳуқуқӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 97,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9619_legal-acts-norms-RT_tj.pdf",
+     "sha256": "77627e85084b8718e67a18a10eb5c925e8611f4824ad96161f90c7795362ae39"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sanjishi-faoliyati-subekthoi-khojagidor",
+   "short": "Қонун \"санҷиши фаъолияти субъектҳои хоҷагидор\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи санҷиши фаъолияти субъектҳои хоҷагидор\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 47,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9629_economic-acts-inspection-RT_tj.pdf",
+     "sha256": "eaa94ccd3e832391ca13758ad0ebd40dd0a2d4e0cf587e35e1adc467ae1c31f1"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sarmoyaguzori",
+   "short": "Қонун \"сармоягузорӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи сармоягузорӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2016-03-03",
+     "units": 32,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9620_investment-RT_tj.pdf",
+     "sha256": "ca2fde337ee0954b5d84af3a02667160b56b5c8db9c80abeaed7ad083ec5062f"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-savdo-va-khizmatrasonii-maishi",
+   "short": "Қонун \"савдо ва хизматрасонии маишӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи савдо ва хизматрасонии маишӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2015-08-08",
+     "units": 26,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%81%D0%B0%D0%B2%D0%B4%D0%BE%20%D0%B2%D0%B0%20%D1%85%D0%B8%D0%B7%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81%D0%BE%D0%BD%D0%B8%D0%B8%20%D0%BC%D0%B0%D0%B8%D1%88%D3%A3.pdf",
+     "sha256": "01f3e9e82e301c16f581056b558f0ab9c856a69f3909fca3cdf263d84230d785"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sirri-davlati",
+   "short": "Қонун \"сирри давлатӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи сирри давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 57,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%81%D0%B8%D1%80%D1%80%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D3%A3.pdf",
+     "sha256": "3bce157d564a4a9609f0eebc8535cc1c5a4a072efad06873fa5dfc970946017d"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sozishnomai-sarmoyaguzori",
+   "short": "Қонун “Дар бораи созишномаи сармоягузорӣ”",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон “Дар бораи созишномаи сармоягузорӣ”",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2017-05-30",
+     "units": 25,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%E2%80%9C%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%E2%80%9C%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%81%D0%BE%D0%B7%D0%B8%D1%88%D0%BD%D0%BE%D0%BC%D0%B0%D0%B8%20%D1%81%D0%B0%D1%80%D0%BC%D0%BE%D1%8F%D0%B3%D1%83%D0%B7%D0%BE%D1%80%D3%A3%E2%80%9D.pdf",
+     "sha256": "3af692096924a77b9cfc3e2e6cfabfa47f5b01b33cf8a0a7576907052b45c657"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-sughurtai-mutaqobila",
+   "short": "Қонун \"суғуртаи мутақобила\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи суғуртаи мутақобила\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2015-08-08",
+     "units": 23,
+     "source_url": "https://andoz.tj/docs/zakoni/l_%E2%84%9614_mutual-insurance-RT_tj.pdf",
+     "sha256": "88995d591b46053db95811ad6edbba8f9e2945fce6b18a8623301178908edebc"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-tamghahoi-moli-va-tamghahoi-khizmatrasoni",
+   "short": "Қонун \"тамғаҳои молӣ ва тамғаҳои хизматрасонӣ\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи тамғаҳои молӣ ва тамғаҳои хизматрасонӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2019-01-02",
+     "units": 43,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%82%D0%B0%D0%BC%D2%93%D0%B0%D2%B3%D0%BE%D0%B8%20%D0%BC%D0%BE%D0%BB%D3%A3%20%D0%B2%D0%B0%20%D1%82%D0%B0%D0%BC%D2%93%D0%B0%D2%B3%D0%BE%D0%B8%20%D1%85%D0%B8%D0%B7%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81%D0%BE%D0%BD%D3%A3.pdf",
+     "sha256": "72ce98bcae13bc33720f40c3a3a482d6d09e3c1adfabf4a21cddf8dfff0d8bab"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-tanzimi-anana-va-jashnu-marosim-dar-jumhurii-tojikiston",
+   "short": "Қонун \"танзими анъана ва ҷашну маросим дар Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи танзими анъана ва ҷашну маросим дар Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 23,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%82%D0%B0%D0%BD%D0%B7%D0%B8%D0%BC%D0%B8%20%D0%B0%D0%BD%D1%8A%D0%B0%D0%BD%D0%B0%20%D0%B2%D0%B0%20%D2%B7%D0%B0%D1%88%D0%BD%D1%83%20%D0%BC%D0%B0%D1%80%D0%BE%D1%81%D0%B8%D0%BC%20%D0%B4%D0%B0%D1%80%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
+     "sha256": "c31f40546d602f801430e81ced6a3d5b3a784190af1eb6e29f8f2ff9442957a9"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-tanzimi-davlatii-istehsol-va-muomiloti-baze-namudhoi-mahsulo",
+   "short": "Қонун \"танзими давлатии истеҳсол ва муомилоти баъзе намудҳои маҳсул...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи танзими давлатии истеҳсол ва муомилоти баъзе намудҳои маҳсулоти нафт\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2017-02-24",
+     "units": 16,
+     "source_url": "https://andoz.tj/docs/zakoni/%D2%9A%D0%BE%D0%BD%D1%83%D0%BD%D0%B8%20%D2%B6%D0%A2%20%D0%B4%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D1%82%D0%B0%D0%BD%D0%B7%D0%B8%D0%BC%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D0%B8%D0%B8%20%D0%B8%D1%81%D1%82%D0%B5%D2%B3%D1%81%D0%BE%D0%BB%20%D0%B2%D0%B0%20%D0%BC%D1%83%D0%BE%D0%BC%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%20%D0%B1%D0%B0%D1%8A%D0%B7%D0%B5%20%D0%BD%D0%B0%D0%BC%D1%83%D0%B4%D2%B3%D0%BE%D0%B8%20%D0%BC%D0%B0%D2%B3%D1%81%D1%83%D0%BB%D0%BE%D1%82%D0%B8%20%D0%BD%D0%B0%D1%84%D1%82.pdf",
+     "sha256": "96a2c80b6a5db1371db529e05b8bc4c5386ee2e0d6771eece47fa2928f14c162"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-dar-borai-vorid-namudani-taghyiru-ilovaho-ba-kodeksi-gumruki-jumhurii",
+   "short": "Қонун \"ворид намудани тағйиру иловаҳо ба кодекси гумруки Ҷумҳурии Т...",
+   "title": "Қонуни Ҷумҳурии Тоҷикистон \"Дар бораи ворид намудани тағйиру иловаҳо ба кодекси гумруки Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 3,
+     "source_url": "https://andoz.tj/docs/zakoni/Kodexi_Gumruk_RT_tj.pdf",
+     "sha256": "106d7a1df7ee0a44200e88d8a172b208144167c016ef8ee3cdee1b452964fd14"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-konstitutsionii-dar-borai-asosguzori-sulhu-vahdati-milli-peshvoi-milla",
+   "short": "Қонуни конститутсионӣ \"Асосгузори сулҳу ваҳдати миллӣ - Пешвои миллат\"",
+   "title": "Қонуни конститутсионии Ҷумҳурии Тоҷикистон \"Дар бораи Асосгузори сулҳу ваҳдати миллӣ - Пешвои миллат\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2016-11-08",
+     "units": 20,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%90%D1%81%D0%BE%D1%81%D0%B3%D1%83%D0%B7%D0%BE%D1%80%D0%B8%20%D1%81%D1%83%D0%BB%D2%B3%D1%83%20%D0%B2%D0%B0%D2%B3%D0%B4%D0%B0%D1%82%D0%B8%20%D0%BC%D0%B8%D0%BB%D0%BB%D3%A3%20-%20%D0%9F%D0%B5%D1%88%D0%B2%D0%BE%D0%B8%20%D0%BC%D0%B8%D0%BB%D0%BB%D0%B0%D1%82.pdf",
+     "sha256": "1b0be426140a39974f72e90b87eea094056ec40931d3b050193eacfb81d65719"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-konstitutsionii-dar-borai-hukumati-jumhurii-tojikiston",
+   "short": "Қонуни конститутсионӣ \"Ҳукумати Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни конститутсионии Ҷумҳурии Тоҷикистон \"Дар бораи Ҳукумати Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 40,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D2%B2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D1%82%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
+     "sha256": "167afa78b2418279f8787e383db5775a7af60f062684dfa43fe9a82e744f77ed"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-konstitutsionii-dar-borai-majlisi-olii-jumhurii-tojikiston",
+   "short": "Қонуни конститутсионӣ \"Маҷлиси Олии Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни конститутсионии Ҷумҳурии Тоҷикистон \"Дар бораи Маҷлиси Олии Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2017-07-18",
+     "units": 72,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%9C%D0%B0%D2%B7%D0%BB%D0%B8%D1%81%D0%B8%20%D0%9E%D0%BB%D0%B8%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
+     "sha256": "b33827e5486767ff31226f31adb6ad875a4d3ed5f7b59d10a024bb0126e31fc2"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-konstitutsionii-dar-borai-maqomoti-mahallii-hokimiyati-davlati",
+   "short": "Қонуни конститутсионӣ \"мақомоти маҳаллии ҳокимияти давлатӣ\"",
+   "title": "Қонуни конститутсионии Ҷумҳурии Тоҷикистон \"Дар бораи мақомоти маҳаллии ҳокимияти давлатӣ\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 42,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B0%D2%9B%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%20%D0%BC%D0%B0%D2%B3%D0%B0%D0%BB%D0%BB%D0%B8%D0%B8%20%D2%B3%D0%BE%D0%BA%D0%B8%D0%BC%D0%B8%D1%8F%D1%82%D0%B8%20%D0%B4%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%D3%A3.pdf",
+     "sha256": "983c8ff95d2accdcb77e2da527509d945496646efd2cb852d27a427c36a516b3"
+    }
+   ]
+  },
+  {
+   "slug": "qonuni-konstitutsionii-dar-borai-maqomoti-prokuraturai-jumhurii-tojikiston",
+   "short": "Қонуни конститутсионӣ \"мақомоти Прокуратураи Ҷумҳурии Тоҷикистон\"",
+   "title": "Қонуни конститутсионии Ҷумҳурии Тоҷикистон \"Дар бораи мақомоти Прокуратураи Ҷумҳурии Тоҷикистон\"",
+   "url": "https://andoz.tj/Legislation/Laws",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 72,
+     "source_url": "https://andoz.tj/docs/zakoni/%D0%94%D0%B0%D1%80%20%D0%B1%D0%BE%D1%80%D0%B0%D0%B8%20%D0%BC%D0%B0%D2%9B%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D0%BA%D1%83%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%B8%20%D2%B6%D1%83%D0%BC%D2%B3%D1%83%D1%80%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD.pdf",
+     "sha256": "723818dec9ffb8454f47d3886059d9b9fe70bbc916524436625c7a0fe7073d98"
+    }
+   ]
   }
  ]
 }

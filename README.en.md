@@ -11,7 +11,7 @@ The law of Tajikistan as a git history: one file per article, one commit per ver
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Tajikistan's national law, which global-law reads at `tajikistan/national/acts/`.
 
-**What is in it now:** the Constitution of the Republic of Tajikistan in force, with the amendments of the referendum of 22 May 2016 (from the President's site, president.tj), on top of the 1999+2003 edition as the Majlisi namoyandagon published it: 100 articles, the preamble, 10 chapter headings and the Transitional provisions, 2 versions. No code or statute yet: the official legal database (ncz.tj) and the parliament sites do not answer from here. [`REPRODUCE.md`](REPRODUCE.md) says how it was built; [`data/laws.csv`](data/laws.csv) lists the referendums.
+**What is in it now:** the Constitution in force (2 versions, the 2016 one from president.tj); 21 codes, among them the Civil Code (2023), the Criminal Code (2020 and 2025 editions), the Code of Administrative Offences (2025), the Civil, Criminal and Economic Procedure Codes, the Customs, Land and Housing Codes and the Tax Code with 16 editions from 2010 to 2025; 74 laws, including 5 constitutional laws; and 37 government resolutions. Codes, laws and resolutions are the consolidated texts the Tax Committee publishes (andoz.tj), each dated by the date its text gives. One file per article. The official database (ncz.tj) and the parliament sites do not answer from here. [`REPRODUCE.md`](REPRODUCE.md) says how it was built and what is held.
 
 Each act is one folder (`konstitutsiya/` is the Конститутсияи (Сарқонуни) Ҷумҳурии Тоҷикистон, the Constitution), with one file per article (`art-001.md` to `art-100.md`), one per chapter heading (`bob-01.md` to `bob-10.md`), `preamble.md`, and a `README.md` listing them.
 
@@ -63,7 +63,7 @@ That version is the "oldest version available", credited to its publisher, the M
 
 ## What it does not show
 
-- **Codes and statutes.** The Civil, Criminal and procedure codes and every other act: the official database ncz.tj, adlia.tj (its server answers "Broker Timed Out") and parlament.tj / majmilli.tj time out from here.
+- **Codes and statutes.** The Labour and Forest Codes and every act not on andoz.tj: the official database ncz.tj, adlia.tj (its server answers "Broker Timed Out") and parlament.tj / majmilli.tj time out from here.
 - **Earlier texts.** The 1994 original and the 1999 edition are named in the record, but their texts are not here.
 - **Any other law**: codes, laws, presidential decrees, government resolutions, case law, local acts and treaties are not here yet.
 - **The Russian text**, the language of interethnic communication (Article 2).
@@ -73,6 +73,7 @@ That version is the "oldest version available", credited to its publisher, the M
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [Majlisi namoyandagon](https://web.archive.org/web/20170607141323/http://parlament.tj/konstitutsiyai-jt/) (lower chamber of the Majlisi Oli, parlament.tj) | Parliament's text of the Constitution | no, one edition | The text of this record, read from the Internet Archive capture of 7 June 2017 |
+| [Tax Committee under the Government](https://andoz.tj/Legislation/Laws) (andoz.tj) | Codes, laws and resolutions as PDFs with a text layer | Tax Code: 16 editions 2010-2025; others one edition (Criminal Code two) | Read on 26 November 2026 |
 | [President of the Republic of Tajikistan](https://president.tj/) (president.tj) | The Constitution as in force, with the 1999, 2003 and 2016 amendments | no, the current edition | The 2016 version, read on 26 November 2026 |
 | Majlisi milli (upper chamber, majmilli.tj) | Parliament's text of the Constitution | no, one edition | A second copy (capture of 7 March 2018), compared article by article |
 
