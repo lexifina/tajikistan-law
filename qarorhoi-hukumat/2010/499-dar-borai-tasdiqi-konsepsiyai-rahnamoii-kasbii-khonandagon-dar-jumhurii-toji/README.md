@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 2 октябри соли 2010 № 499 "Дар бораи тасдиқи Консепсияи раҳнамоии касбии хонандагон дар Ҷумҳурии Тоҷикистон"
+
+Қарори Ҳукумати ҶТ "Дар бораи тасдиқи Консепсияи раҳнамоии касбии х... · 1 versions, from 2016-02-10 (latest in force: 2016-02-10) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=12238&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

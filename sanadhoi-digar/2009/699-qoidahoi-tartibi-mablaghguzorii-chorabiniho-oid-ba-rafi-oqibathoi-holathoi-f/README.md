@@ -1,0 +1,7 @@
+# Қоидаҳои тартиби маблағгузории чорабиниҳо оид ба рафъи оқибатҳои ҳолатҳои фавқулодда аз 30 декабри соли 2010 № 699
+
+Қоидаҳои тартиби маблағгузории чорабиниҳо оид ба рафъи оқибатҳои ҳо... · 1 versions, from 2009-12-30 (latest in force: 2009-12-30) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=11550&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

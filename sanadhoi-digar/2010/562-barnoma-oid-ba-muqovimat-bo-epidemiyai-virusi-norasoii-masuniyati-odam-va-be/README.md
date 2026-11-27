@@ -1,0 +1,7 @@
+# Барнома оид ба муқовимат бо эпидемияи вируси норасоии масунияти одам ва бемории пайдошудаи норасоии масуният дар Ҷумҳурии Тоҷикистон дар давраи солҳои 2011-2015 аз 30 октябри соли 2010 № 562
+
+Барнома оид ба муқовимат бо эпидемияи вируси норасоии масунияти ода... · 1 versions, from 2010-10-30 (latest in force: 2010-10-30) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=12357&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |
