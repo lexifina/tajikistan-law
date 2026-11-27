@@ -13,9 +13,11 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 **What is in it now:** the Constitution in force (2 versions, the 2016 one from president.tj); 19 codes (21 folders: the 2004, 2012 and 2021 Tax Codes are separate), among them the Civil Code (2023), the Criminal Code (2020 and 2025 editions), the Code of Administrative Offences (2025), the Civil, Criminal and Economic Procedure Codes, the Customs, Land and Housing Codes and the Tax Code with 16 editions from 2010 to 2025; 103 laws, including 6 constitutional laws; 40 government resolutions; and 12 ministerial rules. Most codes, laws and resolutions are the consolidated texts the Tax Committee publishes (andoz.tj); later editions of six codes (2024 to 2026: Civil, Civil Procedure, Criminal Procedure, Economic Procedure, Customs, Administrative Offences) and 44 acts, mostly on intellectual property, culture and the media, are secondary copies of the Tajik text from WIPO Lex, marked `Source-status: secondary copy` in their commits. Each is dated by the date its text or WIPO Lex gives. One file per article. The official database (ncz.tj) and the parliament sites do not answer from here. [`REPRODUCE.md`](REPRODUCE.md) says how it was built and what is held.
 
+<!-- adlia -->**From the Ministry of Justice register** (portali-huquqi.tj/publicadliya, the public "Адлия" register of normative legal acts): 484 more acts in their current editions: 18 codes and constitutional laws, 142 laws in `qonunho/<year>/`, 155 government resolutions in `qarorhoi-hukumat/<year>/` and `qarorhoi-shuroi-vaziron/<year>/`, 35 presidential decrees and orders in `farmonhoi-prezident/<year>/` and `farmoishhoi-prezident/<year>/`, 96 Majlisi Oli resolutions in `qarorhoi-majlisi-oli/<year>/` and 38 other acts in `sanadhoi-digar/<year>/` (the year is the year of adoption), plus 4 newer editions of acts already held. Each is dated by the in-force day the register gives for its edition; 170 acts the register marks as no longer in force are removed on that day. 217 acts for which the register has no Tajik text are in Russian. Amending acts are not folders of their own: their changes are in the consolidated texts.<!-- /adlia -->
+
 Each act is one folder (`konstitutsiya/` is the Конститутсияи (Сарқонуни) Ҷумҳурии Тоҷикистон, the Constitution), with one file per article (`art-001.md` to `art-100.md`), one per chapter heading (`bob-01.md` to `bob-10.md`), `preamble.md`, and a `README.md` listing them.
 
-The text is in Tajik (Cyrillic), the state language (Article 2 of the Constitution), as the Majlisi namoyandagon published it; the Belarusian letter "ў" the publisher mixes in is written as the Tajik "ӯ". The Russian text and any English translation are not part of this record.
+The text is in Tajik (Cyrillic), the state language (Article 2 of the Constitution), as the Majlisi namoyandagon published it; the Belarusian letter "ў" the publisher mixes in is written as the Tajik "ӯ". The Russian text is used only for acts the Ministry of Justice register holds in Russian alone; English translations are not part of this record.
 
 ## Questions as git commands
 
@@ -63,10 +65,10 @@ That version is the "oldest version available", credited to its publisher, the M
 
 ## What it does not show
 
-- **Codes and statutes.** The Labour and Forest Codes and every act not on andoz.tj: the official database ncz.tj, adlia.tj (its server answers "Broker Timed Out") and parlament.tj / majmilli.tj time out from here.
+- **Earlier editions and the newest acts.** The Ministry of Justice register gives only the current edition of each act, and its public copy ends in late 2023; the official database ncz.tj and parlament.tj / majmilli.tj time out from here. The Labour and Forest Codes are here only if the register holds them.
 - **Earlier texts.** The 1994 original and the 1999 edition are named in the record, but their texts are not here.
-- **Any other law**: codes, laws, presidential decrees, government resolutions, case law, local acts and treaties are not here yet.
-- **The Russian text**, the language of interethnic communication (Article 2).
+- **Any other law**: case law (the Constitutional Court decisions are in the separate tajikistan-caselaw repository), local acts and treaties are not here.
+- **The Russian text** of acts that have a Tajik text (Russian is the language of interethnic communication, Article 2).
 
 ## Sources
 
@@ -74,6 +76,7 @@ That version is the "oldest version available", credited to its publisher, the M
 | --- | --- | --- | --- |
 | [Majlisi namoyandagon](https://web.archive.org/web/20170607141323/http://parlament.tj/konstitutsiyai-jt/) (lower chamber of the Majlisi Oli, parlament.tj) | Parliament's text of the Constitution | no, one edition | The text of this record, read from the Internet Archive capture of 7 June 2017 |
 | [Tax Committee under the Government](https://andoz.tj/Legislation/Laws) (andoz.tj) | Codes, laws and resolutions as PDFs with a text layer | Tax Code: 16 editions 2010-2025; others one edition (Criminal Code two) | Read on 26 November 2026 |
+| [Ministry of Justice register of normative legal acts](http://portali-huquqi.tj/publicadliya/) (portali-huquqi.tj, "Адлия") | Current editions of codes, laws, decrees and resolutions, with reference cards (adoption, start of action, edition, lapse) | no, the current edition of each act | Read on 27 November 2026; Tajik, Russian where no Tajik text |
 | [President of the Republic of Tajikistan](https://president.tj/) (president.tj) | The Constitution as in force, with the 1999, 2003 and 2016 amendments | no, the current edition | The 2016 version, read on 26 November 2026 |
 | Majlisi milli (upper chamber, majmilli.tj) | Parliament's text of the Constitution | no, one edition | A second copy (capture of 7 March 2018), compared article by article |
 

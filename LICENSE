@@ -18,5 +18,11 @@ The texts are official documents (Law on Copyright, art. 7, above); WIPO Lex's t
 (https://www.wipo.int/tools/en/disclaim.html) apply to WIPO's own material. The tax-authority copies
 (andoz.tj) are official texts on the same basis. Neither publisher endorses this repository.
 
+Ministry of Justice register: most acts are the texts of the public register of normative legal acts of the
+Ministry of Justice of the Republic of Tajikistan (http://portali-huquqi.tj/publicadliya/), official documents
+not protected by copyright (Law on Copyright, art. 7, above). The register's own footer notice covers its site;
+its HTML was converted to one Markdown file per article, one paragraph per line, with the wording unchanged.
+The Ministry does not endorse this repository.
+
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools)
 are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
