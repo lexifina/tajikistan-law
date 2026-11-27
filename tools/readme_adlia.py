@@ -20,12 +20,17 @@ n_gov = fold['qarorhoi-hukumat'] + fold['qarorhoi-shuroi-vaziron']
 n_pres = fold['farmonhoi-prezident'] + fold['farmoishhoi-prezident']
 n_mo = fold['qarorhoi-majlisi-oli']
 n_other = fold['sanadhoi-digar']
+n_plen = fold['qarorhoi-plenumi-sudi-oli'] + fold['qarorhoi-plenumi-sudi-oli-iqtisodi']
+n_prok = fold['farmoishhoi-prokurori-generali']
 
 EN = (f'<!-- adlia -->**From the Ministry of Justice register** (portali-huquqi.tj/publicadliya, the public "Адлия" register of '
       f'normative legal acts): {len(ad)} more acts in their current editions: {n_codes} codes and constitutional laws, '
       f'{n_laws} laws in `qonunho/<year>/`, {n_gov} government resolutions in `qarorhoi-hukumat/<year>/` and '
       f'`qarorhoi-shuroi-vaziron/<year>/`, {n_pres} presidential decrees and orders in `farmonhoi-prezident/<year>/` and '
-      f'`farmoishhoi-prezident/<year>/`, {n_mo} Majlisi Oli resolutions in `qarorhoi-majlisi-oli/<year>/` and {n_other} other acts '
+      f'`farmoishhoi-prezident/<year>/`, {n_mo} Majlisi Oli resolutions in `qarorhoi-majlisi-oli/<year>/`, '
+      f'{n_plen} resolutions of the plenums of the Supreme Court and the Supreme Economic Court in `qarorhoi-plenumi-sudi-oli/<year>/` '
+      f'and `qarorhoi-plenumi-sudi-oli-iqtisodi/<year>/`, {n_prok} orders of the Prosecutor General in '
+      f'`farmoishhoi-prokurori-generali/<year>/` and {n_other} other acts (ministry and agency rules and instructions) '
       f'in `sanadhoi-digar/<year>/` (the year is the year of adoption), plus {newer} newer editions of acts already held. '
       f'Each is dated by the in-force day the register gives for its edition; {lapsed} acts the register marks as no longer '
       f'in force are removed on that day. {ru} acts for which the register has no Tajik text are in Russian. '
@@ -34,7 +39,7 @@ TG = (f'<!-- adlia -->**Аз Феҳристи Вазорати адлия** (por
       f'боз {len(ad)} санад дар таҳрири ҷорӣ: {n_codes} кодекс ва қонуни конститутсионӣ, {n_laws} қонун дар `qonunho/<сол>/`, '
       f'{n_gov} қарори Ҳукумат дар `qarorhoi-hukumat/<сол>/` ва `qarorhoi-shuroi-vaziron/<сол>/`, {n_pres} фармон ва фармоиши '
       f'Президент дар `farmonhoi-prezident/<сол>/` ва `farmoishhoi-prezident/<сол>/`, {n_mo} қарори Маҷлиси Олӣ дар '
-      f'`qarorhoi-majlisi-oli/<сол>/` ва {n_other} санади дигар дар `sanadhoi-digar/<сол>/` (сол — соли қабул), инчунин {newer} таҳрири '
+      f'`qarorhoi-majlisi-oli/<сол>/`, {n_plen} қарори Пленуми Суди Олӣ ва Суди Олии иқтисодӣ дар `qarorhoi-plenumi-sudi-oli/<сол>/` ва `qarorhoi-plenumi-sudi-oli-iqtisodi/<сол>/`, {n_prok} фармоиши Прокурори генералӣ дар `farmoishhoi-prokurori-generali/<сол>/` ва {n_other} санади дигар (қоидаҳо ва дастурҳои вазоратҳо ва идораҳо) дар `sanadhoi-digar/<сол>/` (сол — соли қабул), инчунин {newer} таҳрири '
       f'навтари санадҳое, ки аллакай ҳастанд. Ҳар яке бо рӯзи эътибор пайдо кардани таҳрираш, ки феҳрист медиҳад, сана гузошта '
       f'шудааст; {lapsed} санаде, ки феҳрист эътибор надошташон медонад, дар он рӯз хориҷ карда мешаванд. {ru} санад, ки дар '
       f'феҳрист матни тоҷикӣ надоранд, бо забони русӣ оварда шудаанд. Санадҳои тағйирдиҳанда ҷузвдони алоҳида надоранд: '

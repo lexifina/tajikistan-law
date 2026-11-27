@@ -1,0 +1,7 @@
+# Постановление Правительства Республики Таджикистан от 6 июня 1995 года № 398 "Об организации летнего отдыха детей и подростков в 1995 году"
+
+Постановление Правительства РТ "Об организации летнего отдыха детей... · 1 versions, from 1995-06-06 (latest in force: 1995-06-06) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=4945&language=ru>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Текст | [matn.md](matn.md) | 0 |  |

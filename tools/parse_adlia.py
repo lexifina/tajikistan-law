@@ -117,6 +117,14 @@ def units_ru(paras):
 
 
 KINDS = [  # heading prefix -> (folder, law kind, short prefix)
+    (r'^Постановление\s+[Пп]ленума\s+Верховного|^Қарори\s+Пленуми\s+Суди\s+Олӣ', 'qarorhoi-plenumi-sudi-oli', 'court', None),
+    (r'^Постановление\s+Пленума\s+Высшего\s+экономического|^Қарори\s+Пленуми\s+Суди\s+Олии\s+иқтисодӣ', 'qarorhoi-plenumi-sudi-oli-iqtisodi', 'court', None),
+    (r'^Қарори\s+Девони\s+Вазирон', 'qarorhoi-hukumat', 'decree', 'Қарори Девони Вазирони ҶТ'),
+    (r'^Постановление\s+(?:Кабинета?\s+Министров|Совета?\s+Министров)', 'qarorhoi-shuroi-vaziron', 'decree', None),
+    (r'^Постановление\s+Правительств', 'qarorhoi-hukumat', 'decree', 'Постановление Правительства РТ'),
+    (r'^[ҚК][аa][рp][оo][рp]и?\s+Ҳукумат', 'qarorhoi-hukumat', 'decree', 'Қарори Ҳукумати ҶТ'),
+    (r'^(?:Постановление|Қарори)\s+Совета?\s+(?:Маджлиси|Мажлиси|Маҷлиси)', 'qarorhoi-majlisi-oli', 'decree', None),
+    (r'^Приказ\s+[Гг]енерального\s+[Пп]рокурора|^Фармоиши\s+Прокурори\s+генералӣ', 'farmoishhoi-prokurori-generali', 'decree', None),
     (r'^(?:Постановление|Қарори|Указ)\s+(?:Совета\s+|Президиума\s+|президиума\s+)?(?:Маджлиси|Маҷлиси|Верховного|Шӯрои\s+Маҷлиси)', 'qarorhoi-majlisi-oli', 'decree', None),
     (r'^\S+\s+[Кк]одекс\b', None, 'law', ''),
     (r'^Кодекси ', None, 'law', ''),
@@ -131,13 +139,13 @@ KINDS = [  # heading prefix -> (folder, law kind, short prefix)
     (r'^Кодекс ', None, 'law', ''),
     (r'^Конституционный [Зз]акон', None, 'law', 'Конституционный Закон РТ'),
     (r'^Закон ', 'qonunho', 'law', 'Закон РТ'),
-    (r'^Указ Президента', 'farmonhoi-prezident', 'decree', 'Указ Президента РТ'),
+    (r'^Указ\s+Президент', 'farmonhoi-prezident', 'decree', 'Указ Президента РТ'),
     (r'^Распоряжение Президента', 'farmoishhoi-prezident', 'decree', 'Распоряжение Президента РТ'),
     (r'^Постановление Правительства', 'qarorhoi-hukumat', 'decree', 'Постановление Правительства РТ'),
     (r'^Постановление (?:Маджлиси|Верховного Совета|Президиума)', 'qarorhoi-majlisi-oli', 'decree', None),
     (r'^Постановление Совета Министров', 'qarorhoi-shuroi-vaziron', 'decree', 'Постановление Совета Министров РТ'),
 ]
-AMEND = re.compile(r'(?:ворид|дохил|даровардан|даровард)\w*\s+(?:\w+\s+)?тағйир|^О(?:б)?\s+(?:внесени|изменени|дополнени)'
+AMEND = re.compile(r'^(?:Изменения|Изменение|Дополнения|Дополнение)\s+(?:и\s+)?|(?:ворид|дохил|даровардан|даровард)\w*\s+(?:\w+\s+)?тағйир|^О(?:б)?\s+(?:внесени|изменени|дополнени)'
                    r'|^(?:Оиди|Оид ба|Дар бораи|Дар хусуси)\s+(?:аз\s+эътибор\s+соқит|беэътибор)', re.I)
 SKIP_NAME = re.compile(r'^(?:Оид ба|Оиди|Дар бораи|Дар хусуси)\s+(?:ворид\s+(?:намудани|кардани)\s+(?:тағйир|илова)|'
                        r'тағйиру\s+илова|аз\s+эътибор\s+соқит|беэътибор\s+донистани|қабул\s+(?:кардани|намудани)\s+Қонун|'
@@ -229,7 +237,7 @@ def main():
         if TREATY.match(heading_tj):
             st['status'] = 'skipped: international instrument (no Tajik in-force day on the card)'
             continue
-        if name and (SKIP_NAME.match(name) or AMEND.search(name)) or re.match(r'^Оид ба ворид|^Дар бораи ворид намудани', heading_tj):
+        if name and (SKIP_NAME.match(name) or AMEND.search(name)) or AMEND.match(heading_tj) or re.match(r'^Оид ба ворид|^Дар бораи ворид намудани', heading_tj):
             st['status'] = 'skipped: amending, repealing or adopting act'
             continue
         if kind and kind[1] == 'qarorhoi-majlisi-oli' and re.search(r'Қонуни|Кодекси|Қонун|Закон|Кодекс', name or ''):
@@ -373,6 +381,8 @@ def main():
             'Ministry of Justice register: new laws go in qonunho/<year of adoption>/<number>-<name>/, government '
             'resolutions in qarorhoi-hukumat/<year>/, presidential decrees in farmonhoi-prezident/<year>/, '
             'presidential orders in farmoishhoi-prezident/<year>/, Majlisi Oli resolutions in qarorhoi-majlisi-oli/<year>/, '
+            'Supreme Court and Supreme Economic Court plenum resolutions in qarorhoi-plenumi-sudi-oli(-iqtisodi)/<year>/, '
+            'Prosecutor General orders in farmoishhoi-prokurori-generali/<year>/, Council/Cabinet of Ministers resolutions in qarorhoi-shuroi-vaziron/<year>/, '
             'other acts in sanadhoi-digar/<year>/; new codes and constitutional laws at the root beside the codes '
             'already held. Where the register holds no Tajik text the Russian text is used (marked in the version note).']
     c['decisions'] = dec
