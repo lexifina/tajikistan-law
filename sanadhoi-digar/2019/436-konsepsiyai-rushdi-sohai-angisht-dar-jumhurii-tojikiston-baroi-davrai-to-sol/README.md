@@ -1,0 +1,7 @@
+# Консепсияи рушди соҳаи ангишт дар Ҷумҳурии Тоҷикистон барои давраи то соли 2040 аз 30 августи соли 2019 № 436
+
+Консепсияи рушди соҳаи ангишт дар ҶТ барои давраи то соли 2040 аз 3... · 1 versions, from 2019-08-30 (latest in force: 2019-08-30) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=22555&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

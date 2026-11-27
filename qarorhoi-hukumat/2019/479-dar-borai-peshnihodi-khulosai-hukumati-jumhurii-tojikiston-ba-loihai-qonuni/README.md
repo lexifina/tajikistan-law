@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 2 октябри соли 2019 № 479 "Дар бораи пешниҳоди хулосаи Ҳукумати Ҷумҳурии Тоҷикистон ба лоиҳаи Қонуни Ҷумҳурии Тоҷикистон "Дар бораи ниҳолпарварӣ"
+
+Қарори Ҳукумати ҶТ "Дар бораи пешниҳоди хулосаи Ҳукумати Ҷумҳурии Т... · 1 versions, from 2019-12-02 (latest in force: 2019-12-02) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=22579&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

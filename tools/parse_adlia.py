@@ -264,8 +264,10 @@ def main():
             basis = ('start-of-action day the Ministry of Justice register gives for this act' if r['start']
                      else 'adoption day the register gives (no start-of-action day stated)')
             amended = False
-        if day < '1991-01-01' and not re.match(r'^Қонуни|^Кодекси', heading_tj):
-            pass
+        bad = [x for x in (day,) if x > TODAY or x < '1900-01-01']
+        if bad:
+            st['status'] = 'held: date outside 1900-01-01..' + TODAY + ' (raw ' + ', '.join(bad) + ')'
+            continue
         paras = paragraphs(r['body'])
         units = units_ru(paras) if r['lang'] == 'ru' else units_of(paras)  # HTML paragraphs are paragraphs: no PDF reflow
         arts = [k for k in units if k.startswith('art-')]
@@ -279,7 +281,7 @@ def main():
         if r['lang'] == 'ru':
             v['note'] = 'Russian text: the register holds no Tajik text for this act.'
         lapse = None
-        if r['lapsed'] and r['lapsed'] > day:
+        if r['lapsed'] and day < r['lapsed'] <= TODAY:  # a lapse day outside the range (typo on the card) is no lapse day
             lapse = {'from': r['lapsed'], 'source_url': src, 'sha256': v['sha256'], 'units': {},
                      'in_force_basis': 'day the register gives for the act losing force ("Утратил силу с")',
                      'note': 'The Ministry of Justice register records this act as no longer in force from this day.'}
@@ -343,12 +345,20 @@ def main():
             a['dir'] = d_
         if amended and r['ed_doc'] and law_of(r['ed_doc']):
             a['earlier_laws'].append(law_of(r['ed_doc']))
-        new[slug] = a
+        new[pth(slug)] = a
         st.update(status='ok (new act)', slug=(d_ + '/' if d_ else '') + slug, day=day, units=len(units),
                   articles=len(arts), lang=r['lang'])
     added = 0
     for a in held.values():
-        for v in sorted(a.pop('_new', []), key=lambda v: v['from']):
+        base = list(a['versions'])
+        add = sorted(a.pop('_new', []), key=lambda v: v['from'])
+        # a lapse (empty version) on the day a successor edition starts: the lapse stands (as published); the successor is held
+        lapse_days = {v['from'] for v in base + add if not v['units']}
+        add = [v for v in add if not v['units'] or v['from'] not in lapse_days]
+        days = [v['from'] for v in base + add]
+        if add and any(x >= y for x, y in zip(days, days[1:])):  # out of order or two versions on one day: hold the register editions
+            continue
+        for v in add:
             a['versions'].append(v)
             added += 1
     added += sum(len(a['versions']) for a in new.values())

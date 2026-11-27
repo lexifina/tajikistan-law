@@ -101,7 +101,8 @@ def one(sess, lang, i):
 
 
 def main():
-    args = [a for a in sys.argv[1:] if not a.startswith('--')]
+    only_at = sys.argv.index('--only') + 1 if '--only' in sys.argv else -1
+    args = [a for k, a in enumerate(sys.argv) if k and k != only_at and not a.startswith('--')]
     lang = args[0] if args else 'tj'
     lo = int(args[1]) if len(args) > 1 else 1
     hi = int(args[2]) if len(args) > 2 else 28228

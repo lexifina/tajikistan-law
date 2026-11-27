@@ -1,7 +1,7 @@
 # Қарори №302 "Дар бораи меъёрҳои андози аксиз барои баъзе молҳои дар Ҷумҳурии Тоҷикистон истеҳсолшаванда ва ба Ҷумҳурии Тоҷикистон воридшаванда"
 
-Қарори №302 "меъёрҳои андози аксиз барои баъзе молҳои дар Ҷумҳурии... · 1 versions, from 2022-07-29 (latest in force: 2022-07-29) · <https://andoz.tj/Legislation/Resolutions>
+Қарори №302 "меъёрҳои андози аксиз барои баъзе молҳои дар Ҷумҳурии... · 2 versions, from 2022-07-29 (latest in force: 2023-06-30) · <https://andoz.tj/Legislation/Resolutions>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Матн | [matn.md](matn.md) | 0 |  |
+| Матн | [matn.md](matn.md) | 1 | 2023-06-30 |

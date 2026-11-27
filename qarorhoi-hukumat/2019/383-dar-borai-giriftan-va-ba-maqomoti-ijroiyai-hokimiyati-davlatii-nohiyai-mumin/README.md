@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 31 июли соли 2019 № 383 "Дар бораи гирифтан ва ба мақомоти иҷроияи ҳокимияти давлатии ноҳияи Муъминободи вилояти Хатлон додани қитъаи замин"
+
+Қарори Ҳукумати ҶТ "Дар бораи гирифтан ва ба мақомоти иҷроияи ҳоким... · 1 versions, from 2019-07-31 (latest in force: 2019-07-31) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=22477&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |
