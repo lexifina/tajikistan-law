@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 25 феврали соли 2016 № 80 "Дар бораи аз вазифаи Ректори Донишгоҳи давлатии - тиббии Тоҷикистон ба номи Абуалй ибни Сино озод намудани Қурбон У.А."
+
+Қарори Ҳукумати ҶТ "Дар бораи аз вазифаи Ректори Донишгоҳи давлатии... · 1 versions, from 2016-02-25 (latest in force: 2016-02-25) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=18452&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

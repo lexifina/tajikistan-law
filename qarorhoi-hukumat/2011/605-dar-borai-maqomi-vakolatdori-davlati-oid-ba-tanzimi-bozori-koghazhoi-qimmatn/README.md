@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 3 декабри соли 2011 № 605 "Дар бораи мақоми ваколатдори давлатӣ оид ба танзими бозори коғазҳои қимматнок дар Ҷумҳурии Тоҷикистон"
+
+Қарори Ҳукумати ҶТ "Дар бораи мақоми ваколатдори давлатӣ оид ба тан... · 1 versions, from 2011-12-03 (latest in force: 2011-12-03) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=13397&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

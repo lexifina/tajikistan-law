@@ -1,0 +1,7 @@
+# Низомномаи Шӯрои Ташаббуси шаффофият дар соҳаҳои истихроҷи Ҷумҳурии Тоҷикистон аз 31 августи соли 2012, № 449
+
+Низомномаи Шӯрои Ташаббуси шаффофият дар соҳаҳои истихроҷи ҶТ аз 31... · 1 versions, from 2012-08-31 (latest in force: 2012-08-31) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=14272&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

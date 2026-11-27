@@ -1,0 +1,7 @@
+# Тартиби баҳисобгирии давлатии фаъолияти ноширӣ, корхонаҳои полиграфӣ ва пешбурди Феҳристи ягонаи давлатӣ аз 25 феврали соли 2017 № 97
+
+Тартиби баҳисобгирии давлатии фаъолияти ноширӣ, корхонаҳои полиграф... · 1 versions, from 2017-02-25 (latest in force: 2017-02-25) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=19649&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

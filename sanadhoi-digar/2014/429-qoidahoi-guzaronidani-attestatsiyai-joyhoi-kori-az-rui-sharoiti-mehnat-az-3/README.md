@@ -1,0 +1,7 @@
+# Қоидаҳои гузаронидани аттестатсияи ҷойҳои корӣ аз рӯи шароити меҳнат аз 3 июли соли 2014 № 429
+
+Қоидаҳои гузаронидани аттестатсияи ҷойҳои корӣ аз рӯи шароити меҳна... · 1 versions, from 2014-07-03 (latest in force: 2014-07-03) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=16407&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

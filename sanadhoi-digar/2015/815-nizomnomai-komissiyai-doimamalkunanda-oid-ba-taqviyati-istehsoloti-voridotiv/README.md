@@ -1,0 +1,7 @@
+# Низомномаи Комиссияи доимамалкунанда оид ба тақвияти истеҳсолоти воридотивазкунанда ва рушди содирот аз 30 декабри соли 2015 № 815
+
+Низомномаи Комиссияи доимамалкунанда оид ба тақвияти истеҳсолоти во... · 1 versions, from 2015-12-30 (latest in force: 2015-12-30) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=18347&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |
