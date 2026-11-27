@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 30 апрели соли 2002, № 191 "Дар бораи таъсиси филиали шабакаҳои барқии шаҳри Чкаловск"
+
+Қарори Ҳукумати ҶТ "Дар бораи таъсиси филиали шабакаҳои барқии шаҳр... · 1 versions, from 2002-04-30 (latest in force: 2002-04-30) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=8013&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

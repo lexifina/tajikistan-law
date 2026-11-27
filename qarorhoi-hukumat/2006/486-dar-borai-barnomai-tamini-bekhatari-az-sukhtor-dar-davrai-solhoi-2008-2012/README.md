@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 1 ноябри соли 2006, № 486 "Дар бораи Барномаи таъмини бехатарӣ аз сӯхтор дар давраи солҳои 2008-2012"
+
+Қарори Ҳукумати ҶТ "Дар бораи Барномаи таъмини бехатарӣ аз сӯхтор д... · 1 versions, from 2006-11-01 (latest in force: 2006-11-01) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=6940&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |

@@ -1,0 +1,7 @@
+# Постановление Правительства Республики Таджикистан от 3 декабря 2002 года, № 461 "О проекте Закона Республики Таджикистан "О внесении дополнений в Закон Республики Таджикистан "Об оружии"
+
+Постановление Правительства РТ "О проекте Закона РТ "О внесении доп... · 1 versions, from 2002-12-03 (latest in force: 2002-12-03) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=6196&language=ru>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Текст | [matn.md](matn.md) | 0 |  |
