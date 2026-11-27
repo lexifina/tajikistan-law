@@ -1,0 +1,7 @@
+# Постановление Маджлиси намояндагон Маджлиси Оли Республики Таджикистан от 29 июня 2001 года, № 359 "О ратификации Устава Международного агентства по атомной энергии"
+
+Постановление Маджлиси намояндагон Маджлиси Оли РТ "О ратификации У... · 1 versions, from 2001-06-29 (latest in force: 2001-06-29) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=1265&language=ru>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Текст | [matn.md](matn.md) | 0 |  |

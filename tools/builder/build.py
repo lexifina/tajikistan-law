@@ -116,9 +116,9 @@ def validate(c: dict) -> list[str]:
     slugs = set()
     for act in c.get('acts', []):
         s = act.get('slug', '')
-        if not KEY.match(s) or s in slugs or s in {'data', 'tools'}:
+        if not KEY.match(s) or act_dir(act) in slugs or s in {'data', 'tools'}:
             errs.append(f'act slug {s!r} must be unique lowercase ASCII and not data/tools')
-        slugs.add(s)
+        slugs.add(act_dir(act))
         for k in ('short', 'title'):
             if not act.get(k):
                 errs.append(f'act {s}: {k} is missing')
@@ -284,7 +284,7 @@ def law_trailers(c: dict, key: str, day: str) -> list[str]:
 
 def applies_trailers(c: dict, key: str, parts: list[dict]) -> list[str]:
     out = []
-    touched = {(p['act']['slug'], k) for p in parts for k in p['keys']}
+    touched = {(act_dir(p['act']), k) for p in parts for k in p['keys']}
     for a in c.get('applies', []):
         if a['law'] != key:
             continue
@@ -573,13 +573,13 @@ def write_history(repo: Path, c: dict, docs_date: str, commits: list[dict]) -> t
         if x['kind'] == 'start':
             author, msg, trailers = start_message(c, x)
             files = act_files(x['act'], x['version']['units'], None)
-            touched = [x['act']['slug']]
+            touched = [act_dir(x['act'])]
         else:
             author, msg, trailers = change_message(c, x)
             files = {}
             for p in x['parts']:
                 files.update(act_files(p['act'], p['cur']['units'], p['prev']['units'], p['keys']))
-            touched = [p['act']['slug'] for p in x['parts']]
+            touched = [act_dir(p['act']) for p in x['parts']]
         check_trailers(trailers)
         text = '\n'.join(msg).rstrip('\n') + '\n\n' + '\n'.join(trailers) + '\n'
         mark = w.commit(branch, author, committer, clock.stamp(x['day']), text, files)

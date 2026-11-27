@@ -137,7 +137,9 @@ KINDS = [  # heading prefix -> (folder, law kind, short prefix)
     (r'^Постановление (?:Маджлиси|Верховного Совета|Президиума)', 'qarorhoi-majlisi-oli', 'decree', None),
     (r'^Постановление Совета Министров', 'qarorhoi-shuroi-vaziron', 'decree', 'Постановление Совета Министров РТ'),
 ]
-SKIP_NAME = re.compile(r'^(?:Оид ба|Дар бораи|Дар хусуси)\s+(?:ворид\s+(?:намудани|кардани)\s+(?:тағйир|илова)|'
+AMEND = re.compile(r'(?:ворид|дохил|даровардан|даровард)\w*\s+(?:\w+\s+)?тағйир|^О(?:б)?\s+(?:внесени|изменени|дополнени)'
+                   r'|^(?:Оиди|Оид ба|Дар бораи|Дар хусуси)\s+(?:аз\s+эътибор\s+соқит|беэътибор)', re.I)
+SKIP_NAME = re.compile(r'^(?:Оид ба|Оиди|Дар бораи|Дар хусуси)\s+(?:ворид\s+(?:намудани|кардани)\s+(?:тағйир|илова)|'
                        r'тағйиру\s+илова|аз\s+эътибор\s+соқит|беэътибор\s+донистани|қабул\s+(?:кардани|намудани)\s+Қонун|'
                        r'Қонуни\s+Ҷумҳурии\s+Тоҷикистон|Қонуни\s+ҶТ|ҷонибдорӣ)|^О\s+(?:внесении\s+(?:изменени|дополнени)|признании\s+утратившим|принятии\s+(?:Закона|Кодекса|Конституционного)|Законе\s+Республики|Кодексе\s+Республики|Конституционном\s+Законе|порядке\s+введения\s+в\s+действие)|^Об\s+отмене', re.I)
 TREATY = re.compile(r'^(?:\S+ое Соглашение|Инструкция к|Общая Инструкция|Меморандум|Заключительный Акт|Оглашение|Постановление Межпарламентской|Решение|Заявление|Рекомендация|Минимальные|Международн|Исполнительный Регламент|Служебная Инструкция|Конвесия|\S+ское Соглашение|\S+ская Декларация|\S+ дополнительный протокол|Базовое Соглашение|Конвенсия|Созишнома|Паймон|Протокол|Шартнома|Эъломия|Аҳднома|Хартия|Оинномаи СММ|Конвенция|Соглашение|Пакт|Договор|Декларация|Устав)', re.I)
@@ -227,7 +229,7 @@ def main():
         if TREATY.match(heading_tj):
             st['status'] = 'skipped: international instrument (no Tajik in-force day on the card)'
             continue
-        if name and SKIP_NAME.match(name) or re.match(r'^Оид ба ворид|^Дар бораи ворид намудани', heading_tj):
+        if name and (SKIP_NAME.match(name) or AMEND.search(name)) or re.match(r'^Оид ба ворид|^Дар бораи ворид намудани', heading_tj):
             st['status'] = 'skipped: amending, repealing or adopting act'
             continue
         if kind and kind[1] == 'qarorhoi-majlisi-oli' and re.search(r'Қонуни|Кодекси|Қонун|Закон|Кодекс', name or ''):
@@ -257,7 +259,7 @@ def main():
         if day < '1991-01-01' and not re.match(r'^Қонуни|^Кодекси', heading_tj):
             pass
         paras = paragraphs(r['body'])
-        units = units_ru(paras) if r['lang'] == 'ru' else units_of(reflow(paras))
+        units = units_ru(paras) if r['lang'] == 'ru' else units_of(paras)  # HTML paragraphs are paragraphs: no PDF reflow
         arts = [k for k in units if k.startswith('art-')]
         if not arts:
             units = {'matn': {'label': 'Матн' if r['lang'] == 'tj' else 'Текст', 'kind': 'text',
@@ -301,15 +303,19 @@ def main():
         no = re.sub(r'[^0-9a-z]+', '-', (r['number'] or '').lower().translate(LAT)).strip('-')
         base = slugify(name or heading_tj) or f'sanad-{i}'
         if kind and kind[1] is None:  # codes and constitutional laws: at the root, like the codes already held
-            base = slugify(re.sub(r'\s+аз\s+\d.*$', '', heading_tj)).replace('-jumhurii-tojikiston', '')
+            head0 = re.split(r'\s+(?:аз|от)\s+\d|\s*["«]', heading_tj)[0]
+            if name:  # constitutional laws: kind + name, like the folders already held
+                head0 = re.sub(r'\s+(?:Ҷумҳурии Тоҷикистон|Республики Таджикистан)$', '', head0) + ' ' + name
+            base = slugify(head0).replace('-jumhurii-tojikiston', '').replace('-respubliki-tadzhikistan', '')
             slug = base
             d_ = None
         else:
             slug = (f'{no}-{base}' if no else base)[:80].rstrip('-')
             d_ = f'{fold}/{year}'
-        if slug in used_slugs:
-            slug = f'{slug[:72]}-{i}'
-        used_slugs.add(slug)
+        pth = (lambda s: f'{d_}/{s}' if d_ else s)
+        if pth(slug) in used_slugs:  # unique per folder path
+            slug = f'{slug}-{year}' if not d_ and pth(f'{slug}-{year}') not in used_slugs else f'{slug[:72]}-{i}'
+        used_slugs.add(pth(slug))
         pre = kind[3] if kind else None
         if r['lang'] == 'ru':
             short = re.sub(r'\s+от\s+\d.*?(?=["«]|$)', ' ', hd).replace('Республики Таджикистан', 'РТ').strip()

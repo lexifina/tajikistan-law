@@ -1,0 +1,7 @@
+# Постановление Совета мажлиси намояндагон Маджлиси Оли Республики Таджикистан от 11 апреля 2005 г., № 21 "О членах Национальной группы Республики Таджикистан в Межпарламентском союзе"
+
+Постановление Совета мажлиси намояндагон Маджлиси Оли РТ "О членах... · 1 versions, from 2005-04-11 (latest in force: 2005-04-11) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=3666&language=ru>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Текст | [matn.md](matn.md) | 0 |  |

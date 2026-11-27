@@ -34,6 +34,10 @@ def main(scratch, live, subject, body=''):
     env = dict(os.environ, GIT_INDEX_FILE=str(idx))
     git(live, 'read-tree', 'HEAD', env=env)
     info = []
+    tree_of = {}
+    for row in git(live, 'ls-tree', '-r', 'refs/build/main').splitlines():
+        meta, p = row.split('\t', 1)
+        tree_of[p] = meta.split()
     for l in diff:
         st, p = l.split('\t', 1)
         if p in ('README.md', 'README.en.md', 'LICENSE') or p.startswith(('visualisations/', 'vulnerabilities/')):
@@ -41,7 +45,7 @@ def main(scratch, live, subject, body=''):
         if st == 'D':
             info.append(f'0 {"0" * 40}\t{p}')
         else:
-            mode_sha = git(live, 'ls-tree', 'refs/build/main', '--', p).split('\t')[0].split()
+            mode_sha = tree_of[p]
             info.append(f'{mode_sha[0]} {mode_sha[2]}\t{p}')
     for p in ('README.md', 'README.en.md', 'LICENSE'):
         sha = git(live, 'hash-object', '-w', str(live / p)).strip()

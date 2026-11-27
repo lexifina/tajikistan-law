@@ -1,0 +1,7 @@
+# Қарори Ҳукумати Ҷумҳурии Тоҷикистон аз 5 апрели соли 1996, № 139 "Дар бораи ҳаҷмҳои хариди маҳсулот ва ашьёи хоми кишоварзӣ дар соли 1996 барои эҳтиёҷоти давлатии Ҷумҳурии Тоҷикистон"
+
+Қарори Ҳукумати ҶТ "Дар бораи ҳаҷмҳои хариди маҳсулот ва ашьёи хоми... · 1 versions, from 1996-04-05 (latest in force: 1996-04-05) · <http://portali-huquqi.tj/publicadliya/view_qonunhoview.php?showdetail=&asosi_id=1573&language=tj>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Матн | [matn.md](matn.md) | 0 |  |
